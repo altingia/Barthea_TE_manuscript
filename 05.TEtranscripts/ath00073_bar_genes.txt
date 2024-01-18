@@ -1,0 +1,15 @@
+Barthea37544	AT5G41040.2	43.602	422	223	6	1	411	15	432	2.23e-124	367	97	>AT5G41040.2   Symbols:    HXXXD-type acyl-transferase family protein 
+Barthea30733	AT5G41040.2	43.897	426	224	6	1	415	15	436	1.37e-126	373	98	>AT5G41040.2   Symbols:    HXXXD-type acyl-transferase family protein 
+Barthea22856	AT5G41040.1	72.406	424	114	1	6	426	28	451	0.0	660	97	>AT5G41040.1   Symbols:    HXXXD-type acyl-transferase family protein 
+Barthea12043	AT3G11980.1	47.600	500	254	4	7	502	118	613	1.39e-157	462	97	>AT3G11980.1   Symbols: MS2, FAR2   Jojoba acyl CoA reductase-related male sterility protein 
+Barthea12041	AT3G11980.1	45.238	294	157	2	1	290	320	613	1.52e-89	278	97	>AT3G11980.1   Symbols: MS2, FAR2   Jojoba acyl CoA reductase-related male sterility protein 
+Barthea41314	AT3G11980.1	46.739	92	42	2	1	86	488	578	1.64e-18	78.2	99	>AT3G11980.1   Symbols: MS2, FAR2   Jojoba acyl CoA reductase-related male sterility protein 
+Barthea24734	AT5G41040.2	44.337	415	221	7	4	410	19	431	3.64e-122	362	96	>AT5G41040.2   Symbols:    HXXXD-type acyl-transferase family protein 
+Barthea12039	AT3G11980.1	47.400	500	255	4	7	502	118	613	2.52e-157	461	97	>AT3G11980.1   Symbols: MS2, FAR2   Jojoba acyl CoA reductase-related male sterility protein 
+Barthea39917	AT5G41040.1	39.036	415	209	9	14	386	35	447	2.54e-95	292	93	>AT5G41040.1   Symbols:    HXXXD-type acyl-transferase family protein 
+Barthea05641	AT5G58860.1	69.271	384	101	2	5	371	9	392	0.0	542	96	>AT5G58860.1   Symbols: CYP86A1, CYP86   cytochrome P450, family 86, subfamily A, polypeptide 1 
+Barthea29589	AT1G02205.2	64.480	625	216	4	1	621	1	623	0.0	833	99	>AT1G02205.2   Symbols: CER1   Fatty acid hydroxylase superfamily 
+Barthea27689	AT1G69500.1	76.402	517	117	3	23	536	5	519	0.0	837	70	>AT1G69500.1   Symbols: CYP704B1   cytochrome P450, family 704, subfamily B, polypeptide 1 
+Barthea05092	AT5G23190.1	73.294	513	136	1	25	537	32	543	0.0	792	94	>AT5G23190.1   Symbols: CYP86B1   cytochrome P450, family 86, subfamily B, polypeptide 1 
+Barthea11730	AT3G11980.1	49.000	500	247	4	7	502	118	613	1.75e-162	474	97	>AT3G11980.1   Symbols: MS2, FAR2   Jojoba acyl CoA reductase-related male sterility protein 
+Barthea11728	AT3G11980.1	47.368	532	264	7	58	583	92	613	1.57e-159	470	89	>AT3G11980.1   Symbols: MS2, FAR2   Jojoba acyl CoA reductase-related male sterility protein 

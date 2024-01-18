@@ -1,0 +1,20 @@
+Barthea43550	AT5G07990.1	46.032	189	97	3	268	455	141	325	2.79e-44	162	78	>AT5G07990.1   Symbols: TT7, CYP75B1, D501   Cytochrome P450 superfamily protein 
+Barthea43550	AT5G07990.1	44.643	168	82	4	106	269	139	299	1.72e-32	129	78	>AT5G07990.1   Symbols: TT7, CYP75B1, D501   Cytochrome P450 superfamily protein 
+Barthea43550	AT5G07990.1	42.308	52	26	1	436	487	461	508	3.99e-05	46.2	78	>AT5G07990.1   Symbols: TT7, CYP75B1, D501   Cytochrome P450 superfamily protein 
+Barthea28534	AT3G55120.1	54.018	224	103	0	5	228	16	239	3.38e-80	241	88	>AT3G55120.1   Symbols: TT5, A11, CFI   Chalcone-flavanone isomerase family protein 
+Barthea04580	AT5G13930.1	74.206	252	37	2	1	224	142	393	1.14e-126	363	98	>AT5G13930.1   Symbols: CHS, TT4, ATCHS   Chalcone and stilbene synthase family protein 
+Barthea20870	AT5G48930.1	74.429	438	107	1	70	507	1	433	0.0	694	86	>AT5G48930.1   Symbols: HCT   hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase 
+Barthea39644	AT1G67980.1	62.009	229	83	2	2	230	7	231	1.13e-96	281	98	>AT1G67980.1   Symbols: CCOAMT   caffeoyl-CoA 3-O-methyltransferase 
+Barthea37048	AT2G40890.1	77.778	315	69	1	9	322	6	320	0.0	529	97	>AT2G40890.1   Symbols: CYP98A3   cytochrome P450, family 98, subfamily A, polypeptide 3 
+Barthea37048	AT2G40890.1	75.000	20	5	0	322	341	489	508	0.16	33.9	97	>AT2G40890.1   Symbols: CYP98A3   cytochrome P450, family 98, subfamily A, polypeptide 3 
+Barthea28522	AT5G05270.2	74.390	82	20	1	27	107	1	82	7.96e-39	129	68	>AT5G05270.2   Symbols:    Chalcone-flavanone isomerase family protein 
+Barthea10333	AT5G07990.1	41.992	512	279	7	16	517	5	508	5.22e-145	426	95	>AT5G07990.1   Symbols: TT7, CYP75B1, D501   Cytochrome P450 superfamily protein 
+Barthea37176	AT3G51240.1	78.824	85	17	1	12	95	37	121	1.66e-43	145	75	>AT3G51240.1   Symbols: F3H, TT6, F3'H   flavanone 3-hydroxylase 
+Barthea10859	AT5G48930.1	31.828	443	275	8	1	433	1	426	4.29e-63	210	98	>AT5G48930.1   Symbols: HCT   hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase 
+Barthea20924	AT5G07990.1	33.254	421	262	9	27	438	5	415	3.42e-85	271	85	>AT5G07990.1   Symbols: TT7, CYP75B1, D501   Cytochrome P450 superfamily protein 
+Barthea38721	AT5G48930.1	73.288	438	112	1	1	438	1	433	0.0	682	99	>AT5G48930.1   Symbols: HCT   hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase 
+Barthea04240	AT4G22880.2	81.556	347	64	0	5	351	2	348	0.0	588	97	>AT4G22880.2   Symbols: LDOX, TDS4, TT18, ANS   leucoanthocyanidin dioxygenase 
+Barthea41347	AT5G07990.1	43.373	498	270	7	8	497	10	503	2.55e-138	408	98	>AT5G07990.1   Symbols: TT7, CYP75B1, D501   Cytochrome P450 superfamily protein 
+Barthea35574	AT4G26220.1	72.247	227	63	0	5	231	6	232	1.41e-124	352	98	>AT4G26220.1   Symbols:    S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 
+Barthea33261	AT5G48930.1	31.828	443	275	9	1	433	1	426	1.14e-63	211	98	>AT5G48930.1   Symbols: HCT   hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase 
+Barthea43951	AT5G08640.2	63.478	345	115	2	1	345	1	334	2.63e-162	456	99	>AT5G08640.2   Symbols: FLS1   flavonol synthase 1 

@@ -1,0 +1,313 @@
+Barthea01125
+AT4G32050 neurochondrin family protein (RefSeq) from Arabidopsis thaliana
+42% identity, 38% coverage
+Association Analysis of Salt Tolerance in Asiatic cotton (Gossypium arboretum) with SNP Markers
+Dilnur, International journal of molecular sciences 2019
+“...found two genes Cotton_A_28248 and Cotton_A_28249 . Cotton_A_28248 has no annotation. Cotton_A_28249 is homologous to AT4G32050 and encodes neurochondrin family protein, which is an atypical RII-specific A-kinase anchoring protein. In the seventh SNP rich region (Group 7), we found two haplotypes in seven SNPs distributed in...”
+
+
+Barthea30966
+AT1G51965 pentatricopeptide (PPR) repeat-containing protein (RefSeq) from Arabidopsis thaliana
+61% identity, 97% coverage
+Roles of Organellar RNA-Binding Proteins in Plant Growth, Development, and Abiotic Stress Responses
+Lee, International journal of molecular sciences 2020
+“...processing Sensitive to salt or cold stress [ 24 ] A. thaliana PPR family ABO5 At1g51965 M Splicing of nad2 intron3 Sensitive to ABA [ 111 ] PPR40 At3g16890 M Sensitive to salt, ABA, or oxidative stress Tolerant to salt stress in overexpression plants [ 
+
+Barthea05904
+AT1G28490 SYP61 (SYNTAXIN OF PLANTS 61); SNAP receptor (RefSeq) from Arabidopsis thaliana
+66% identity, 100% coverage
+function: Vesicle trafficking protein that functions in the secretory pathway. Involved in osmotic stress tolerance and in abscisic acid (ABA) regulation of stomatal responses
+subunit: Interacts with VTI12 and either SYP41, SYP42 or SYP51 in the trans-Golgi network or with VTI11 and SYP51 in the prevacuolar compartment to form t-SNARE complexes.
+A Hybrid Approach Enabling Large-Scale Glycomic Analysis of Post-Golgi Vesicles Reveals a Transport Route for Polysaccharides.
+Wilkop, The Plant cell 2019
+GeneRIF: The data provide evidence that SYP61 vesicles are involved in the transport and deposition of structural polysaccharides and glycoproteins.
+Arabidopsis SNAREs SYP61 and SYP121 coordinate the trafficking of plasma membrane aquaporin PIP2;7 to modulate the cell membrane water permeability.
+
+Barthea39025
+AT3G22970 hypothetical protein (RefSeq) from Arabidopsis thaliana
+42% identity, 66% coverage
+Conserved Peptide Upstream Open Reading Frames are Associated with Regulatory Genes in Angiosperms
+Jorgensen, Frontiers in plant science 2012
+“...homeostasis or tolerance? Hara et al. ( 2010 ) HG20 At2g37480 Unknown Unknown At3g53670 HG24 At3g22970 DUF506; PD-(D/E)XK nuclease Unknown Knizewski et al. ( 2007 ) At4g14620 PUTATIVE DICISTRONIC TRANSCRIPTS (NOT TRUE CPuORFs?) HG8 At3g12010 TGF-beta superfamily; Mic-1 (GDF15) putative ortholog Cell cycle regulation, S phase...”
+
+Barthea20380
+OPT5_ARATH / Q9SUA4 Oligopeptide transporter 5; AtOPT5 from Arabidopsis thaliana (Mouse-ear cress) (see paper)
+AT4G26590 oligopeptide transporter 5 from Arabidopsis thaliana
+65% identity, 99% coverage
+function: Involved in the translocation of tetra- and pentapeptides across the cellular membrane in an energy-dependent manner.
+The Arabidopsis Proteins AtNHR2A and AtNHR2B Are Multi-Functional Proteins Integrating Plant Immunity With Other Biological Processes
+Singh, Frontiers in plant science 2020
+“...2002 At4g25030 Arabidopsis thaliana nonhost resistance 2A (AtNHR2A) Chloroplast Plant immunity Singh et al., 2018 At4g26590 OPT-type transporter (AtOPT5) Plasma membrane oligopeptide transporter Lubkowitz, 2011 At4g31990 Aspartate aminotransferase (AtASP5) Chloroplast Aspartate biosynthesis Wilkie et al., 1996 At4g34050 Caffeoyl coenzyme A O-methyltransferase 1 (AtCCoAOMT1) Cytoplasm Lignin biosynthesis/Plant...”
+
+Barthea07641
+Q9LEU1 AT5g11000/T30N20_270 from Arabidopsis thaliana
+47% identity, 86% coverage
+Eukaryote-wide sequence analysis of mitochondrial β-barrel outer membrane proteins
+Imai, BMC genomics 2011
+“...of unknown function (DUF1005) Q9M0F0 - 424 N-terminal 300 (0.528) Protein of unknown function (DUF1005) Q9LEU1 - 389 N-terminal 300 (0.971) Plant protein of unknown function (DUF868) Q9SIS2 - 354 N-terminal 300 (0.655) Plant protein of unknown function (DUF868) Q9M903 - 479 C-terminal 150 (0.993) Protein...”
+
+Barthea30858
+AT1G16060 ovule development protein, putative (RefSeq) from Arabidopsis thaliana
+62% identity, 78% coverage
+TaAP2-15, An AP2/ERF Transcription Factor, Is Positively Involved in Wheat Resistance to Puccinia striiformis f. sp. tritici
+Hawku, International journal of molecular sciences 2021
+“...conserved with its orthologs from Brachypodium distachyon (BdBRADI_3g36820v3), Oryza sativum (OsBGIOSGA028751) and Arabidopsis thaliana (AtADAP_ AT1G16060 and AtAT1G79700) ( Figure 1 ). Domain feature analysis indicated that TaAP2-15 contains two AP2 domains: AP2 domain 1 (amino acids 40-101) and AP2 domain 2 (amino acids 159203) (...”
+“...TaAP2-15 A 1050-bp nucleotide sequence (accession number TraesCS6A01G125700) with high homology to A. thaliana homolog, AT1G16060 ADAP, which is positively involved in hormone and stress response [ 26 ] was obtained from the cDNA library in our lab [ 54 ]. This gene was previously designated...”
+ABAP1 Plays a Role in the Differentiation of Male and Female Gametes in Arabidopsis thaliana
+Cabral, Frontiers in plant science 2021
+“...CDT1b ( At3g54710 ), TCP16 ( AT3G45150 ), EDA24-like ( At1g23350 ), and ADAP/WRI3 ( At1g16060 ). Results Deregulation of ABAP1 Expression Affects Plant Reproduction To assess if ABAP1 has a role during plant reproduction processes, plants with increased or reduced expression levels of ABAP1 were...”
+“...CDT1b ( At3g54710 ), TCP16 ( AT3G45150 ), EDA24-like ( At1g23350 ), and ADAP/WRI3 ( At1g16060 ). Microarray data was deposited in Gene Expression Omnibus (nos. GEO: GSE164480 and GSM5011985). Author Contributions LC and HM performed the molecular and cellular studies. HB and JA-E performed immunolocalization...
+
+Barthea07910
+SMU2_ARATH / O48713 Suppressor of mec-8 and unc-52 protein homolog 2; AtSMU-2; Protein RED-like; RNA splicing protein SMU2 from Arabidopsis thaliana (Mouse-ear cress) (see paper)
+NP_180214 RED family protein from Arabidopsis thaliana
+AT2G26460 RED family protein (RefSeq) from Arabidopsis thaliana
+69% identity, 92% coverage
+function: Auxiliary spliceosomal protein involved in splicing of specific pre-mRNAs that affect multiple aspects of development.
+subunit: Component of the spliceosome. Interacts with SMU1.
+disruption phenotype: No visible phenotype, but slower growth.
+Plant SMU-1 and SMU-2 homologues regulate pre-mRNA splicing and multiple aspects of development.
+Chung, Plant physiology 2009
+GeneRIF: The Atsmu2 mutations cause pre-mRNA splicing defects. [SMU2]
+Identification of the Arabidopsis RAM/MOR signalling network: adding new regulatory players in plant stem cell maintenance and cell polarization
+Zermiani, Annals of botany 2015
+“...058 057 066 062 049 At3g54230 At2G19930 At2g26460 At1g73720 At4g18120 At5g46840 At2g43370 At1g04080 At4g00830 At1g26110 LIF2 (Lhp1-Interacting Factor 2) DCP5...”
+SMU-2 and SMU-1, Caenorhabditis elegans homologs of mammalian spliceosome-associated proteins RED and fSAP57, work together to affect splice site choice
+Spartz, Molecular and cellular biology 2004
+“...by us. A cDNA corresponding to the Arabidopsis homolog, At2g26460, was sequenced by The Institute for Genomic Research. The RED domain of human RED is...”
+NP_036009 protein Red fro
+
+Barthea24970
+PID2_ARATH / Q64FQ2 Protein kinase PINOID 2; Protein kinase AGC1-10; EC 2.7.11.1 from Arabidopsis thaliana (Mouse-ear cress) (see paper)
+AT2G26700, NP_180238 AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein from Arabidopsis thaliana
+55% identity, 84% coverage
+function: Serine/threonine-protein kinase involved in the regulation of auxin signaling. Plays a minor role in the regulation of cellular auxin efflux and cotyledon organogenesis.
+catalytic activity: ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl- [protein] (RHEA:17989)
+catalytic activity: ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L- threonyl-[protein] (RHEA:46608)
+disruption phenotype: No visible phenotype under normal growth conditions.
+Proteomic analysis of haem-binding protein from Arabidopsis thaliana and Cyanidioschyzon merolae
+Shimizu, Philosophical transactions of the Royal Society of London. Series B, Biological sciences 2020
+“...3 718.295 73.124 312318 AGENASK peak 6 1888.938 26.17 118134 EELSSSTISDHQEGISK protein kinase PINOID 2 At2g26700 nucleus 59.3 27.3 peak 3 718.295 22.414 400405 GDNNEK peak 4 842.52 30.461 406412 TLVNILK peak 6 1888.938 40.444 475489 SIKPPWVPKEETSHK peak 7 1930.938 20.503 496510 SVNYYLPPRFMMSRK ABC transporter G...”
+Co-ordination and divergence of cell-specific transcription and translation of genes in arabidopsis root cells
+Rajasundaram, Annals of botany 2014
+“...PROTEIN 7); transcription factor 4 253076_at AT4G36160 ANAC076/VND2 (VASCULAR-RELATED NAC-DOMAIN 2); transcription factor 4 267613_at AT2G26700 Protein kinase family protein 4 253120_at AT4G35790 ATPLDDELTA ( Arabidopsis thaliana phospholipase D delta); phospholipase D 4 266342_at AT2G01540 C2 domain-containing protein 4 260468_at AT1G11100 SNF2 domain-containing protein/helicase domain-containing protein/zinc...”
+Thermospermine modulates expression of auxin-related genes in Arabidopsis
+Tong, Frontiers in plant science 2014
+“...carboxylmethyltransferase (IAMT1) 5.71.8 At3g53450 Cytokinine-activating enzyme/LONELY GUY 4 (LOG4) 5.01.8 At4g13260 Flavin-containing monooxygenase/YUCCA2 (YUC2) 4.80.6 At2g26700 Protein kinase/PINOID2 (PID2) 4.01.5 At1g73590 Auxin transport protein/PIN-FORMED 1 (PIN1) 3.00.7 Transport At4g02700 Sulfate transporter (SULTR3;2) 6.82.2 At1g77380 Amino acid permease (AAP3) 4.41.0 At2g21050 Amino acid permease/LIKE AUXIN RESISTANT 2...”
+PINOID AGC kinases are necessary for phytochrome-mediated enhancement of hypocotyl phototropism in Arabidopsis.
+Haga, Plant physiology 2014
+GeneRIF: PID2 is necessary for phytochrome-mediated enhancement of hypocotyl phototropism in Arabidopsis.
+Evolutionary Adaptations of Plant AGC Kinases: From Light Signaling to Cell Polarity Regulation
+Rademacher, Frontiers in plant science 2012
+“...At3g52890 NP_566973.2 KIPK 934 546 109 50 At2g34650 NP_181012.1 PID 438 83 79 39 AGC3 At2g26700 NP_180238.2 AGC34 526 95 137 55 At1g53700 NP_175774.1 WAG1 476 101 73 71 At3g14370 NP_188054.1 WAG2 480 96 75 79 At3g45780 NP_190164.1 PHOT1 996 671 57 39 AGC4 At5g58140 NP_851210.1...”
+NPY genes and AGC kinases define two key steps in auxin-mediated organogenesis in Arabidopsis
+Cheng, Proceedings of the National Academy of Sciences of the United States of America 2008
+“...numbers for PID and its homologs are At2g34650 (PID), At2g26700 (PID2), At1g53700 (WAG1), and At3g14370 (WAG2). is allelic to enhancer of pinoid 1 (enp1) and...”
+High-throughput sequencing of Arabidopsis microRNAs: evidence for frequent birth and death of MIRNA genes
+Fahlgren, PloS one 2007
+
+Barthea24758
+Barthea38067
+AT1G52280 AtRABG3d (Arabidopsis Rab GTPase homolog G3d); GTP binding (RefSeq) from Arabidopsis thaliana
+91% identity, 100% coverage
+Identification and Characterization of Plant-Interacting Targets of Tomato Spotted Wilt Virus Silencing Suppressor
+Zhai, Pathogens (Basel, Switzerland) 2021
+“...Glucose-6-phosphate 1-dehydrogenase (G6PD) LOC107794892 Solyc07g045540 AT5G35790 Importin subunit LOC107810574 Solyc01g060470 AT4G16143 RabG3 protein LOC107815360 Solyc03g120750 AT1G52280 NB-LRR HR-associated cell death (NRC) 2 LOC107792680 Solyc10g047320 AT1G53350 DNA gyrase subunit B LOC107786139 Solyc12g021230 AT5G04130 Calmodulin (CaM) LOC107761764 Solyc10g081170 AT3G43810 Adenosine kinase LOC107790330 Solyc09g007940 AT5G03300 Lipoxygenase LOC107830099 Solyc01g099160 AT1G55020...”
+Lipid Body Dynamics in Shoot Meristems: Production, Enlargement, and Putative Organellar Interactions and Plasmodesmal Targeting
+Veerabagu, Frontiers in plant science 2021 (no snippet)
+Possible Roles of Membrane Trafficking Components for Lipid Droplet Dynamics in Higher Plants and Green Algae
+Huang, Frontiers in plant science 2019
+“...Promotes the direct interactions between MVBs/lysosomes and LDs RABG3a (At4g09720) RABG3b (At1g22740) RABG3c (At3g16100) RABG3d (At1g52280) RABG3e (At1g49300) RABG3f (At3g18820) Cre06.g311900 Rab8a Mammal Mediates the LDs fusion RABE1a (At3g53610) RABE1b (At4g20360) RABE1c (At3g46060) RABE1d (At5g03520) RABE1e (At3g09900) Cre15.g641800 Rab10 Mammal Mediates the autophagic engulfment of lipid...”
+
+Barthea39013
+Barthea36348
+Barthea41783
+IF5A1_ARATH / Q9XI91 Eukaryotic translation initiation factor 5A-1; AtELF5A-1; eIF-5A-1 from Arabidopsis thaliana (Mouse-ear cress) (see 6 papers)
+NP_172848 eukaryotic elongation factor 5A-1 from Arabidopsis thaliana
+AT1G13950 ELF5A-1 (EUKARYOTIC ELONGATION FACTOR 5A-1); translation initiation factor (RefSeq) from Arabidopsis thaliana
+81% identity, 62% coverage
+
+function: The precise role of eIF-5A in protein biosynthesis is not known but it may function as a bimodular protein capable of binding to both RNA and proteins. Involved in xylogenesis.
+disruption phenotype: No visible phenotype, but presence of extra root protoxylem cell files.
+Modulation of eIF5A1 expression alters xylem abundance in Arabidopsis thaliana.
+Liu, Journal of experimental botany 2008 (PubMed)
+GeneRIF: A study evaluating the role of eIF5A1 in xylem formation is presented.
+Involvement of a universal amino acid synthesis impediment in cytoplasmic male sterility in pepper
+Fang, Scientific reports 2016
+“...1.840.20 2.600.15 Q9C9C4 Enolase 1 125.74 2 477 5.15 46.81 1 1.670.13 0.940.20 1.850.23 1.620.26 Q9XI91 Eukaryotic translation initiation factor 5A-1 118.16 2 158 5.41 17.36 1 1.470.21 3.220.22 2.240.20 2.740.29 Q8W104 F-box/LRR-repeat protein 17 155.46 2 593 8.31 64.77 1 0.940.10 0.470.07 0.250.05 0.300.06 P93033...”
+Hypusination, a Metabolic Posttranslational Modification of eIF5A in Plants during Development and Environmental Stress Responses
+Pálfi, Plants (Basel, Switzerland) 2021 (no snippet)
+Target of Rapamycin Regulates Genome Methylation Reprogramming to Control Plant Growth in Arabidopsis
+Zhu, Frontiers in genetics 2020
+“...1.5889 Hyper Promoter RPS7C| Ribosomal protein S7e AT3G49010 1.6060 Hyper Promoter RPL13B| Ribosomal protein L13e AT1G13950 1.6211 Hyper Promoter ELF5A-1| Ribosomal protein L2 domain 2 AT5G02870 1.7028 Hyper Promoter RPL4D| 60S ribosomal protein L4, C-terminal domain AT1G26630 1.7231 Hyper Exon/intron ELF5A-2| Ribosomal protein L2 domain 2|...”
+PhDHS Is Involved in Chloroplast Development in Petunia
+Liu, Frontiers in plant science 2019
+“...silencing on PheIF5A expression was examined. Four (PheIF5A-1, PheIF5A-2, PheIF5A-3, and PheIF5A-4) and three (AteIF5A-1, At1g13950; AteIF5A-2, At1g26630; AteIF5A-3, and At1g69410) eIF5A homologs are present in the petunia and A. thaliana genome, respectively ( Hopkins et al., 2008 ). The phylogenetic tree demonstrated that the predicted...”
+
+Barthea40943
+AT2G17710 hypothetical protein (RefSeq) from Arabidopsis thaliana
+49% identity, 79% coverage
+Nitrate Uptake Affects Cell Wall Synthesis and Modeling
+Landi, Frontiers in plant science 2017
+“...Major facilitator 35.8 CAD1 67.4 IQM1 53.1 PSY1R 45.2 Transposable 41.4 SYR1 39.1 EFE 82.8 At2g17710 77.5 UMAMIT28 15.3 MES4 34.4 CCT motif 36.4 Oxidoreductase 71.7 CRK19 53.2 Major facilitator 47.2 Plant self-incompatibility 41.4 MATE efflux 40.1 HAD 85.5 SEC14 cytosolic factor 80.5 UMAMIT20 16 TT12...”
+Integrated Systems Biology Analysis of Transcriptomes Reveals Candidate Genes for Acidity Control in Developing Fruits of Sweet Orange (Citrus sinensis L. Osbeck)
+Huang, Frontiers in plant science 2016
+“...MAPKKK-related kinase, protein phosphorylation Unknown function (15) Cs1g10860 0.80 6.4E-04 No hit Cs1g26060 0.87 1.6E-05 At2g17710 Unknown Cs2g05055 0.85 4.1E-05 No hit Cs2g21750 0.88 9.2E-06 No hit Cs3g25020 0.83 1.6E-04 No hit Cs4g19810 0.86 2.0E-05 At2g20740 Tetraspanin family protein Cs5g25860 -0.81 3.1E-04 At3g26040 HXXXD-type acyl-transferase family...”
+Genomic imprinting in the Arabidopsis embryo is partly regulated by PRC2
+Raissig, PLoS genetics 2013
+
+Barthea09391
+A5AJ83 Ribosomal_S10 domain-containing protein from Vitis vinifera
+94% identity, 99% coverage
+Biochemical and Proteomic Changes in the Roots of M4 Grapevine Rootstock in Response to Nitrate Availability
+Prinsi, Plants (Basel, Switzerland) 2021 (no snippet)
+A9PD23 Ribosomal_S10 domain-containing prote
+
+Barthea18388
+AT5G09400 KUP7; potassium ion transmembrane transporter (RefSeq) from Arabidopsis thaliana
+NP_568213 K+ uptake permease 7 from Arabidopsis thaliana
+Q9FY75 Potassium transporter 7 from Arabidopsis thaliana
+74% identity, 100% coverage
+
+Molecular Targets and Biological Functions of cAMP Signaling in Arabidopsis
+Xu, Biomolecules 2021 (no snippet)
+Genome-Wide Association Analysis for Phosphorus Use Efficiency Traits in Mungbean (Vigna radiata L. Wilczek) Using Genotyping by Sequencing Approach
+Reddy, Frontiers in plant science 2020
+“...( At5G58440 ), PHO80 ( At5G64260 ), K + uptake 7 ( KUP7 ) ( At5G09400 ), speechless ( SPCH ) ( At5G53210 ), and KAN protein ( KANADI ) ( At4G25440 ). We found that three genes VRADI11G08340 , VRADI01G05520 , and VRADI04G10750 containing missense...”
+“...by phosphate starvation Abercrombie et al., 2008 VRADI10G12490 10 TLA (LP) 19948599 19954318 Potassium transporter At5G09400 ; Transporter KUP7 plays crucial roles in K(+) uptake and translocation in Arabidopsis root. Han et al., 2016 VRADI06G09990 6 RDW (LP) RDW (OP) RSR (LP) 21823358 21825860 BHLH domain-containing...”
+KUP9 maintains root meristem activity by regulating K+ and auxin homeostasis in response to low K
+Zhang, EMBO reports 2020 (secret)
+Identification of Two Auxin-Regulated Potassium Transporters Involved in Seed Maturation
+Tenorio-Berrío, International journal of molecular sciences 2018
+“...At2g30070 N561656 hak/kt6-1 SALK_061656/homozygous HAK/KT6 At1g70300 N586950 hak/kt6-2 SALK_086950/homozygous HAK/KT6 At1g70300 N805085 hak/kt7-1 SAIL_105_G04/homozygous HAK/KT7 At5g09400 N671076 hak/kt7-2 SALK_004133C/homozygous HAK/KT7 At5g09400 N656697 hak/kt12-1 SALK_083613C/homozygous HAK/KT12 At1g60160 N665909 hak/kt12-2 SALK_045392C/homozygous HAK/KT12 At1g60160 N670400 kup2-1 SALK_023287C/homozygous KUP2 At2g40540 N597636 kup2-2 SALK_097636/heterozygous KUP2 At2g40540 N670640 kup4-1 SALK_043791C/homozygous KUP4 At4g23640...”
+An Arabidopsis Clathrin Assembly Protein with a Predicted Role in Plant Defense Can Function as an Adenylate Cyclase
+Chatukuta, Biomolecules 2018
+“...in stress signaling [ 11 ] and the Arabidopsis thaliana K + -uptake permease (AtKUP7; AT5G09400) [ 12 ]. The identification of ACs in Arabidopsis involved undertaking an in silico systematic approach that consists of both the prediction and experimental testing of candidate molecules. Prediction involved...”
+“...site; ( c ) Alignment of the AC centres of NbAC (ACR77530), ZmPSiP (AJ307886), AtKUP7 (AT5G09400), AtPPR-AC (AT1G62590) and AtClAP (AT1G68110); ( d ) Full-length models of AtClAP with the AC centre (gold) and the PIP 2 binding site (brown) represented in the left and right...”
+Cytokinin at the Crossroads of Abiotic Stress Signalling Pathways
+Pavlů, International journal of molecular sciences 2018
+“...AKT2/3 0/1 [ 189 ] POT3 AT4G23640 Potassium transporter 3 2/0 [ 190 ] POT7 AT5G09400 Potassium transporter 7 2/3 [ 191 ] CBL1 AT4G17615 Calcineurin B-like protein 1 [ 189 ] CBL9 AT5G47100 Calcineurin B-like protein 9 0/1 [ 189 ] CBL10 AT4G33000 Calcineurin B-like...”
+Cyclic Nucleotide Monophosphates and Their Cyclases in Plant Signaling
+Gehring, Frontiers in plant science 2017
+“...cyaA mutant. One of them is the A. thaliana K + -uptake permease 7 (AtKUP7, At5g09400). In AtKUP7, an AC catalytic center containing cytosolic fragment has also been shown with tandem MS methods to generate cAMP from ATP ( Al-Younis et al., 2015 ). The biological...”
+Phylogenetic analysis of k(+) transporters in bryophytes, lycophytes, and flowering plants indicates a specialization of vascular plants
+Gomez-Porras, Frontiers in plant science 2012
+“...thaliana AT2G30070 Ara-tha-KUP/HAK/KT1 AT2G40540 Ara-tha-KUP/HAK/KT2 AT3G02050 Ara-tha-KUP3 AT4G23640 Ara-tha-KUP4 AT4G33530 Ara-tha-KUP/KT5 AT4G13420 Ara-tha-HAK5 AT1G70300 Ara-tha-KUP/HAK/KT6 AT5G09400 Ara-tha-KUP/HAK/KT7 AT5G14880 Ara-tha-KUP/HAK/KT8 AT4G19960 Ara-tha-KUP/HAK/KT9 AT1G31120 Ara-tha-KUP/HAK/KT10 AT2G35060 Ara-tha-KUP/HAK/KT11 AT1G60160 Ara-tha-KUP/HAK/KT12 O. sativa LOC_Os04g32920 Ory-sat-HAK1 LOC_Os01g70940 Ory-sat-HAK2 LOC_Os01g27170 Ory-sat-HAK3 LOC_Os08g36340 Ory-sat-HAK4 LOC_Os01g70490 Ory-sat-HAK5 LOC_Os01g70660 Ory-sat-HAK6 LOC_Os07g47350 Ory-sat-HAK7 LOC_Os03g21890 Ory-sat-HAK8 LOC_Os07g48130...”
+More
+Potassium Transporter KUP7 Is Involved in K(+) Acquisition and Translocation in Arabidopsis Root under K(+)-Limited Conditions.
+Han, Molecular plant 2016 (PubMed)
+GeneRIF: KUP7 is crucial for K(+) uptake in Arabidopsis root
+The Arabidopsis thaliana K(+)-uptake permease 7 (AtKUP7) contains a functional cytosolic adenylate cyclase catalytic centre.
+Al-Younis, FEBS letters 2015 (PubMed)
+GeneRIF: AtKUP7 contains a functional cytosolic adenylate cyclase catalytic centre
+Identification of MAMP-Responsive Plasma Membrane-Associated Proteins in Arabidopsis thaliana Following Challenge with Different LPS Chemotypes from Xanthomonas campestris
+Hussan, Pathogens (Basel, Switzerland) 2020
+“...ion channel POLLUX-like 1 Q8VZM7 Syntaxin-132 Q8VZU2 Sugar transporter ERD6-like 4 Q93YP9 Potassium transporter 7 Q9FY75 Calcium-transporting ATPase 8 Q9LF79 Novel plant SNARE 13 Q9LRP1 ATPase 11 Q9LV11 Alpha-soluble NSF attachment protein 2 Q9SPE6 Calcium-transporting ATPase 10 Q9SZR1 Probable aquaporin PIP2-6 Q9ZV07 Putative plant snare 13...”
+Proteomic Characterisation of the Salt Gland-Enriched Tissues of the Mangrove Tree Species Avicennia officinalis
+Tan, PloS one 2015
+“...glands include ATPases (e.g., Swissprot ID: Q03194, Q2QY12), transporters (e.g., Swissprot ID: Q96303, Q9LKW9, Q9LVM1 Q9FY75), aquaporins (e.g., Swissprot ID: Q7XLR1) and GTP-binding proteins (e.g., Swissprot ID: O04266). Based on GO analysis, most of these proteins were predicted to be localized to the plasma membrane while...”
+“...35.80 1 1 Plasma membrane-type calcium-transporting ATPase 4 Oryza sativa subsp . japonica 73 gi|225448277 Q9FY75 CL2807.Contig2_All 2.04 2.02 4.90 4.90 1 1 Potassium transporter 7 Arabidopsis thaliana 74 gi|147768303 Q2MHE4 CL2457.Contig4_All 3.92 1.82 29.10 12.60 2 1 Serine/threonine-protein kinase HT1 Arabidopsis thaliana 75 gi|255540259 Q8LBB2...”
+Molecular analysis of post-harvest withering in grape by AFLP transcriptional profiling
+Zamboni, Journal of experimental botany 2008
+“...2.00E-06 Cytochrome P450 mono-oxygenase CYP83C TC61438 4.09E-51 Mitochondrial carrier protein TC63333 4.21E-07 Potassium transport 7 Q9FY75 7.77E-23 Probable oxidoreductase At4g09670 TC63817 1.87E-08 Ras-related protein RAB8-5 TC60446 9.08E-31 Syntaxin 43 TC52593 4.69E-08 Metabolic process Acetyltransferase Q9ASS8 5.44E-08 Acyl-coenzyme A oxidase, peroxisomal precursor TC58112 2.63E-65 -Glucan phosphorylase, H...”
+
+Barthea03635
+AB12I_ARATH / Q944H2 Protein ABCI12, chloroplastic; ABC transporter I family member 12; ABC transporter ABCI.12; AtABCI12 from Arabidopsis thaliana (Mouse-ear cress) (see paper)
+AT3G21580 cobalt ion transmembrane transporter from Arabidopsis thaliana
+69% identity, 79% coverage
+
+A Novel Prokaryote-Type ECF/ABC Transporter Module in Chloroplast Metal Homeostasis
+Voith, Frontiers in plant science 2019
+“...be 328 aa long with a size of about 36 kDa. In UniProt/InterPro databases (accession Q944H2), At-ABCI12 is annotated to be an ABC/ECF transporter transmembrane component (IPR003339 family). Further, the protein was already mentioned as plant T protein, belonging to a plant-specific ECF transporter T subunit...”
+Regulation of Iron Homeostasis and Use in Chloroplasts
+Kroh, International journal of molecular sciences 2020
+“...slr0354 [ 107 ] ABCI10 AT4G33460 XP_001703542/Cre03.g164150.t1.1 [ 107 ] sll1623 [ 107 ] ABCI12 AT3G21580 PNW75614/Cre12.g533950.t1.1 [ 107 ] slr1978 [ 107 ] Multiple Antibiotic Resistance 1 (MAR1) AT5G26820 Cre03.g175200.t1.2 lap75 Yellow Stripe Like 4/6 (YSL4/6) (4) AT5G41000, (6) AT3G27020 ROS homeostasis Fe SuperOxide Dismutase...”
+A Novel Prokaryote-Type ECF/ABC Transporter Module in Chloroplast Metal Homeostasis
+Voith, Frontiers in plant science 2019
+“...might contribute to chloroplast metal transport in Arabidopis identified At-ABCI10 (At4g33460), At-ABCI11 (At5g14100), and At-ABCI12 (At3g21580) as promising candidates. All three proteins are predicted to be targeted to chloroplasts and were grouped into the prokaryotic-type CBY/Y179 subfamily of Arabidopsis and rice ABC transport systems ( Garcia...”
+“...that the potential interaction with ABCI12 seems to be specific for ABCI10. For Arabidopsis At-ABCI12 (At3g21580), a chloroplast targeting peptide of 63 aa (ChloroP; Emanuelsson et al., 1999 ) and five -helical transmembrane domains are predicted (Aramemnon database; Schwacke et al., 2003 ). To confirm the...”
+Two essential arginine residues in the T components of energy-coupling factor transporters
+Neubauer, Journal of bacteriology 2009
+“...proteins (e.g., the T proteins encoded by the locus AT3G21580 in the Arabidopsis thaliana genome and by the gene Os05g0400600 of Oryza sativa) may be localized...”
+
+Barthea25406
+AT2G44530 ribose-phosphate pyrophosphokinase, putative / phosphoribosyl diphosphate synthetase, putative (RefSeq) from Arabidopsis thaliana
+84% identity, 88% coverage
+The Arabidopsis Proteins AtNHR2A and AtNHR2B Are Multi-Functional Proteins Integrating Plant Immunity With Other Biological Processes
+Singh, Frontiers in plant science 2020
+“...2014 At2g20260 Subunit PsaE of photosystem I complex (AtPsaE2) Chloroplast Photosynthesis Ihnatowicz et al., 2007 At2g44530 Phosphoribosyl diphosphate synthetase (AtPRS5) Chloroplast Pyrimidine photosynthesis Howles et al., 2006 At3g08030 Cell wall associated protein Extracellular space Plant immunity Ndimba et al., 2003 At3g08510 Putative phosphatidylinositol-specific phospholipase C (AtPLC2)...”
+Identification of a Ribose-Phosphate Pyrophosphokinase that Can Interact In Vivo with the Anaphase Promoting Complex/Cyclosome
+Yu, International journal of molecular sciences 2017
+“...proteins used in this study are as follows: Arabidopsis thaliana AtPRS1AtPRS5 (CAA58717, CAA63552, CAB43552, CAB43553, At2g44530); Spinacia oleracea SoPRS1SoPRS4 (CAB43599, CAB43600, CAB43601, CAB43602); Saccharomyces cerevisiae ScPRPS1ScPRPS5 (CAA49674, CAA52436, CAA52437, CAA84888, CAA62523). Figure 3 Yeast two-hybrid assays tested the interaction of HbAPC10 with HbPRS4. Transformed yeast cells...”
+Q42581 
+
+Barthea32193
+Q6K4P1 Eukaryotic translation initiation factor 3 subunit G from Oryza sativa subsp. japonica
+78% identity, 96% coverage
+Salt Response Analysis in Two Rice Cultivars at Seedling Stage
+Liu, Acta physiologiae plantarum 2017
+“...6.30 A2Y2C4 S4 Eukaryotic translation initiation factor 3 subunit [japonica] 2 1 9 32.0 8.50 Q6K4P1 S5 DnaK-type molecular chaperone hsp70 [japonica] / 23 3 38.98 71.1 5.21 Q53NM9/ Os05g0460000 protein [japonica] / 20 3 36.22 70.8 5.21 Q6L509/ 70 kDa heat shock protein [japonica] /...”
+
+Barthea04163
+LACS7_ARATH / Q8LKS5 Long chain acyl-CoA synthetase 7, peroxisomal; AtLACS7; EC 6.2.1.3 from Arabidopsis thaliana (Mouse-ear cress) (see 5 papers)
+LACS7 / Q8LKS5 long-chain acyl-CoA synthetase 7 (EC 6.2.1.3) from Arabidopsis thaliana (see 2 papers)
+NP_198112 long-chain acyl-CoA synthetase 7 from Arabidopsis thaliana
+AT5G27600 LACS7 (LONG-CHAIN ACYL-COA SYNTHETASE 7); long-chain-fatty-acid-CoA ligase/ protein binding (RefSeq) from Arabidopsis thaliana
+72% identity, 98% coverage
+
+function: Activation of long-chain fatty acids for both synthesis of cellular lipids, and degradation via beta-oxidation (Probable). Preferentially uses palmitate, palmitoleate, oleate, linoleate and eicosenoate as substrates (PubMed:12177484, PubMed:12366803). Can use myristate and linolenate as substrates (PubMed:12366803). Functions redundantly with LACS6 in lipid mobilization for beta-oxidation during seed germination, which is essential for postgerminative growth and seedling establishment (PubMed:14742880, PubMed:16844736).
+catalytic activity: a long-chain fatty acid + ATP + CoA = a long-chain fatty acyl- CoA + AMP + diphosphate (RHEA:15421)
+catalytic activity: ATP + CoA + decanoate = AMP + decanoyl-CoA + diphosphate (RHEA:33627)
+catalytic activity: ATP + CoA + dodecanoate = AMP + diphosphate + dodecanoyl-CoA (RHEA:33623)
+catalytic activity: ATP + CoA + tetradecanoate = AMP + diphosphate + tetradecanoyl-CoA (RHEA:33619)
+catalytic activity: ATP + CoA + hexadecanoate = AMP + diphosphate + hexadecanoyl- CoA (RHEA:30751)
+catalytic activity: (9Z)-octadecenoate + ATP + CoA = (9Z)-octadecenoyl-CoA + AMP + diphosphate (RHEA:33607)
+catalytic activity: (9Z,12Z)-octadecadienoate + ATP + CoA = (9Z,12Z)- octadecadienoyl-CoA + AMP + diphosphate (RHEA:33651)
+catalytic activity: (9Z,12Z,15Z)-octadecatrienoate + ATP + CoA = (9Z,12Z,15Z)- octadecatrienoyl-CoA + AMP + diphosphate (RHEA:44936)
+cofactor: Mg(2+)
+subunit: Interacts with PEX5.
+disruption phenotype: Seedlings of the lacs6 and lacs7 double mutant were arrested in postgerminative growth due to inability to mobilize fatty acids for beta-oxidation, a necessary process to pursue the development.
+Phylogenomic study of lipid genes involved in microalgal biofuel production-candidate gene mining and metabolic pathway analyses
+Misra, Evolutionary bioinformatics online 2012
+“...Fatty acid catabolism Long chain acyl-CoA synthase (LACS) 6.2.1.3 KOG1256 K01897 GO:0004467 Q9T0A0, Q9T009, Q8LPS1, Q8LKS5, Q9SJD4, Q9CAP8 Q9C7W4, Q9XIA9 O22898 A8JH58 , A8HRV2 , D8TMY5 * , D8TKU * , D8TP15 * , D8TNJ2 * , D8TS64 * A4RWX1 , A4S5G5 Q00Y52 * , Q00UP7...”
+Long-chain acyl-CoA synthetase 2 is involved in seed oil production in Brassica napus
+Ding, BMC plant biology 2020
+“...(NP_175368), At LACS3 (NP_176622), At LACS4 (NP_194116), At LACS5 (AAM28872), At LACS6 (NP_566265), At LACS7 (NP_198112), At LACS8 (NP_178516), At LACS9 (NP_177882), Gossypium hisutum Gh ACS1 (ABA00144), Gh ACS2 (ABA00145), B. napus Bn LACS1 (BnaC04g51420D), Bn LACS2 (BnaA05g16170D), Bn LACS3 (BnaC09g11030D), Bn LACS4 (BnaC01g15670D), Bn LACS6...”
+AtLACS7 interacts with the TPR domains of the PTS1 receptor PEX5.
+Bonsegna, Archives of biochemistry and biophysics 2005 (PubMed)
+GeneRIF: The expression profile of AtLACS6, AtLACS7, AtPEX5, and AtPEX7 revealed that AtLACS6 and 7 have distinct patterns of expression.
+Multilevel Regulation of Peroxisomal Proteome by Post-Translational Modifications
+Sandalio, International journal of molecular sciences 2019
+“...hydratase/isomerase family ac; mo; na; nt; ps; ca AT5G16370 acyl activating enzyme 5 na; nt AT5G27600 long-chain acyl-CoA synthetase 7 nt AT5G36880 acetyl-CoA synthetase ac; na; no; nt; ph AT5G42890 sterol carrier protein 2 mo; na; nt AT4G00520 Acyl-CoA thioesterase family protein ph AT5G48880 peroxisomal 3-keto-acyl-CoA...”
+Circadian rhythms synchronise intracellular calcium dynamics and ATP production for facilitating Arabidopsis pollen tube growth
+Yue, Plant signaling & behavior 2015
+“...(1): Three gene loci, AT1G77590, AT3G05970, AT5G27600, encode long-chain-fatty-acid-CoA synthetase (EC 6.2.1.3), which catalyzes the conversion of...”
+Identification of conserved drought-adaptive genes using a cross-species meta-analysis approach
+Shaar-Moshe, BMC plant biology 2015
+“...Pyruvate decarboxylase loc_os01g06660 (AT4G33070, PDC1) Lipid metabolism Synthesis loc_os11g05990 (AT3G11670, DGD1), loc_os09g21230 (AT5G23050, AAE17), loc_os12g04990 (AT5G27600, LACS7), loc_os01g57420 (AT2G20900, DGK5), loc_os10g39810 (AT4G12110, SMO1-1) Degradation loc_os09g37100 (AT4G35790, PLDDELTA), loc_os07g47250 (AT5G18640, lipase class 3 family protein), loc_os07g47820 (T3G06810, IBR3), loc_os11g39220 (AT5G65110, ACX2), loc_os10g04620 (AT5G16120, hydrolase), loc_os03g07180 (embryonic protein...”
+Arabidopsis uses two gluconeogenic gateways for organic acids to fuel seedling establishment
+Eastmond, Nature communications 2015
+“...0.64 0.17 0.33 LACS6 At3g05970 0.12 0.69* 0.41 0.36 1.94 1.14 0.67 0.04 0.29 LACS7 At5g27600 0.33 0.66* 0.51 0.91 2.07 1.82 0.28 0.03 0.13 ACX1 At4g16760 0.03 0.16 0.48 0.20 1.07 2.17 0.81 0.20 0.08 ACX2 At5g65110 0.06 0.32 0.40 0.21 1.16 1.39 0.80 0.17...”
+Functional characterization of cotton genes responsive to Verticillium dahliae through bioinformatics and reverse genetics strategies
+Xu, Journal of experimental botany 2014
+“...a 71% 86% AT1G80840 WRKY40 TC148447 a 54% 71% AT5G51060 RHD2 TC135821 a 78% 87% AT5G27600 LACS7 TC138391 a 79% 88% AT3G14680 CYP72A14 TC145315 a 59% 79% AT5G24240 PI3_PI4_ kinase TC149040 65% 75% AT5G49520 WRKY48 TC140811 a 54% 65% AT2G24180 CYP71B6 TC139031 42% 61% AT1G22360 UGT85A2...”
+Gene expression in plant lipid metabolism in Arabidopsis seedlings
+Hsiao, PloS one 2014
+“...(AT5G27630; NM_122645), ACBP6 (AT1G31812; NM_102916), SDP1 (AT5G04040; NM_120486), CTS (AT4G39850; NM_120148), LACS6 (AT3G05970; NM_111471), LACS7 (AT5G27600; NM_122642), ACX1 (AT4G16760; NM_117778), ACX2 (AT5G65110; NM_125910), MFP2 (AT3G06860; NM_111566), KAT2 (AT2G33150; NM_128874), DGAT1 (AT2G19450; NM_127503), DGAT2 (AT3G51520; NM_115011), DGAT3 (AT1G48300; NM_103727), PDAT1 (AT5G13640; NM_121367), IPP2 (AT2G39800; NM_111146). Results Analysis...”
+Genome-wide identification of genes regulated in trans by transposable element small interfering RNAs
+McCue, RNA biology 2013
+“...targets, are also directly targeted by TE siRNAs. These genic mRNAs include At4g07960/ AtCLSC12 and At5g27600 (both filtered off the final list in Table S4 due to having a TE in its gene space) and At4g17610 (less than a 2-fold change by microarray analysis) ( Fig....”
+Integration of shot-gun proteomics and bioinformatics analysis to explore plant hormone responses
+Zhang, BMC bioinformatics 2012
+“...fatty acid biosynthesis were down-regulated. These two proteins are AT1G76150 encoding an enoyl-CoA hydratase and AT5G27600 encoding a peroxisomal long-chain acyl-CoA synthetase. Despite the many down-regulated proteins in BR responses, few proteins can be found differentially expressed in the zeatin treated sample for lipid biosynthesis (Figure...”
+“...were also down-regulated in BR treated samples. Four down-regulated gene products (AT1G76150, AT3G06860, AT5G65110 and AT5G27600) play distinct roles in fatty acid -oxidation pathway. AT1G76150 degrades even cis -unsaturated fatty acids. AT5G65110 encodes an acyl-CoA oxidase for fatty acid oxidation. AT5G27600 involves in oxidation of very...”
+More
+
+Barthea00081
+AT2G24970 hypothetical protein (RefSeq) from Arabidopsis thaliana
+55% identity, 91% coverage
+
+Mitotic Spindle Assembly in Land Plants: Molecules and Mechanisms
+Yamada, Biology 2017
+
+

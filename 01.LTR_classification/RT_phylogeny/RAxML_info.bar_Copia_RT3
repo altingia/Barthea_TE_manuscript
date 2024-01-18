@@ -1,0 +1,409 @@
+
+
+IMPORTANT WARNING: Sequences 3 and 4 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 42 and 43 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 46 and 254 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 85 and 237 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 96 and 97 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 125 and 126 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 140 and 143 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 158 and 160 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 178 and 179 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 182 and 293 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 276 and 277 are exactly identical
+
+
+IMPORTANT WARNING: Sequences 334 and 335 are exactly identical
+
+IMPORTANT WARNING
+Found 12 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file ./bar_LTR_Copia_RT_domains_outgroup.phy.reduced
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 475 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 77.16%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 100 inferences on the original alignment using 100 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 475
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: JTT
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+/home/wuei/anaconda2/pkgs/raxml-8.2.12-h516909a_2/bin/raxmlHPC-PTHREADS -s ./bar_LTR_Copia_RT_domains_outgroup.phy -m PROTGAMMAJTT -n bar_Copia_RT3 -p 12345 -T 15 -# 100 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.077 0.052 0.043 0.052 0.020 0.041 0.062 0.073 0.023 0.054 0.092 0.059 0.024 0.040 0.051 0.069 0.059 0.014 0.032 0.066 
+
+Inference[0]: Time 1972.737368 GAMMA-based likelihood -33552.585945, best rearrangement setting 20
+alpha[0]: 3.754166 
+Inference[1]: Time 1338.964046 GAMMA-based likelihood -33558.152697, best rearrangement setting 20
+alpha[0]: 3.724556 
+Inference[2]: Time 1271.584053 GAMMA-based likelihood -33555.095231, best rearrangement setting 10
+alpha[0]: 3.552952 
+Inference[3]: Time 1312.517827 GAMMA-based likelihood -33556.033392, best rearrangement setting 25
+alpha[0]: 3.400333 
+Inference[4]: Time 1083.079112 GAMMA-based likelihood -33569.445512, best rearrangement setting 20
+alpha[0]: 3.626166 
+Inference[5]: Time 1272.045851 GAMMA-based likelihood -33554.710088, best rearrangement setting 15
+alpha[0]: 3.767043 
+Inference[6]: Time 1246.687742 GAMMA-based likelihood -33555.418752, best rearrangement setting 15
+alpha[0]: 3.581045 
+Inference[7]: Time 1760.980666 GAMMA-based likelihood -33554.300551, best rearrangement setting 5
+alpha[0]: 3.654581 
+Inference[8]: Time 1213.794800 GAMMA-based likelihood -33563.627941, best rearrangement setting 15
+alpha[0]: 3.728052 
+Inference[9]: Time 1371.636149 GAMMA-based likelihood -33553.797168, best rearrangement setting 25
+alpha[0]: 3.552198 
+Inference[10]: Time 1226.520189 GAMMA-based likelihood -33564.029247, best rearrangement setting 25
+alpha[0]: 3.642915 
+Inference[11]: Time 1499.509751 GAMMA-based likelihood -33553.954981, best rearrangement setting 25
+alpha[0]: 3.663156 
+Inference[12]: Time 1100.176194 GAMMA-based likelihood -33550.755482, best rearrangement setting 15
+alpha[0]: 3.545339 
+Inference[13]: Time 985.929663 GAMMA-based likelihood -33561.116356, best rearrangement setting 20
+alpha[0]: 3.519466 
+Inference[14]: Time 1627.095125 GAMMA-based likelihood -33559.263691, best rearrangement setting 25
+alpha[0]: 3.542139 
+Inference[15]: Time 1158.999232 GAMMA-based likelihood -33559.921958, best rearrangement setting 25
+alpha[0]: 3.664702 
+Inference[16]: Time 1032.222860 GAMMA-based likelihood -33564.377490, best rearrangement setting 20
+alpha[0]: 3.539150 
+Inference[17]: Time 1516.671110 GAMMA-based likelihood -33557.544817, best rearrangement setting 25
+alpha[0]: 3.703060 
+Inference[18]: Time 910.945266 GAMMA-based likelihood -33555.934751, best rearrangement setting 15
+alpha[0]: 3.723149 
+Inference[19]: Time 1364.535250 GAMMA-based likelihood -33552.128274, best rearrangement setting 10
+alpha[0]: 3.650811 
+Inference[20]: Time 1295.658208 GAMMA-based likelihood -33550.258625, best rearrangement setting 20
+alpha[0]: 3.768968 
+Inference[21]: Time 1106.973140 GAMMA-based likelihood -33555.095200, best rearrangement setting 15
+alpha[0]: 3.608104 
+Inference[22]: Time 919.231837 GAMMA-based likelihood -33558.021635, best rearrangement setting 20
+alpha[0]: 3.610722 
+Inference[23]: Time 1075.944748 GAMMA-based likelihood -33570.956810, best rearrangement setting 20
+alpha[0]: 3.775745 
+Inference[24]: Time 1251.771857 GAMMA-based likelihood -33559.752862, best rearrangement setting 15
+alpha[0]: 3.729520 
+Inference[25]: Time 1697.948109 GAMMA-based likelihood -33554.137957, best rearrangement setting 15
+alpha[0]: 3.533414 
+Inference[26]: Time 2197.975220 GAMMA-based likelihood -33551.975832, best rearrangement setting 20
+alpha[0]: 3.484699 
+Inference[27]: Time 1233.867395 GAMMA-based likelihood -33556.524471, best rearrangement setting 15
+alpha[0]: 3.574919 
+Inference[28]: Time 1665.081477 GAMMA-based likelihood -33564.076669, best rearrangement setting 20
+alpha[0]: 3.566962 
+Inference[29]: Time 1102.845086 GAMMA-based likelihood -33562.837139, best rearrangement setting 20
+alpha[0]: 3.672606 
+Inference[30]: Time 1137.582932 GAMMA-based likelihood -33560.204249, best rearrangement setting 10
+alpha[0]: 3.489648 
+Inference[31]: Time 1957.036745 GAMMA-based likelihood -33560.542288, best rearrangement setting 15
+alpha[0]: 3.698157 
+Inference[32]: Time 1249.713724 GAMMA-based likelihood -33549.692143, best rearrangement setting 20
+alpha[0]: 3.651689 
+Inference[33]: Time 1075.788050 GAMMA-based likelihood -33564.839015, best rearrangement setting 25
+alpha[0]: 3.737354 
+Inference[34]: Time 830.739013 GAMMA-based likelihood -33555.022548, best rearrangement setting 15
+alpha[0]: 3.631067 
+Inference[35]: Time 853.177941 GAMMA-based likelihood -33563.450339, best rearrangement setting 20
+alpha[0]: 3.695148 
+Inference[36]: Time 954.741641 GAMMA-based likelihood -33553.511161, best rearrangement setting 15
+alpha[0]: 3.674361 
+Inference[37]: Time 1072.610052 GAMMA-based likelihood -33557.537493, best rearrangement setting 10
+alpha[0]: 3.574628 
+Inference[38]: Time 1305.963686 GAMMA-based likelihood -33558.824602, best rearrangement setting 25
+alpha[0]: 3.712873 
+Inference[39]: Time 1125.129612 GAMMA-based likelihood -33562.621176, best rearrangement setting 25
+alpha[0]: 3.654576 
+Inference[40]: Time 1898.214837 GAMMA-based likelihood -33552.149884, best rearrangement setting 25
+alpha[0]: 3.589850 
+Inference[41]: Time 898.289084 GAMMA-based likelihood -33556.746630, best rearrangement setting 20
+alpha[0]: 3.530020 
+Inference[42]: Time 957.123166 GAMMA-based likelihood -33553.640273, best rearrangement setting 10
+alpha[0]: 3.685242 
+Inference[43]: Time 1228.562762 GAMMA-based likelihood -33566.207369, best rearrangement setting 20
+alpha[0]: 3.606280 
+Inference[44]: Time 1081.293743 GAMMA-based likelihood -33569.829648, best rearrangement setting 20
+alpha[0]: 3.665177 
+Inference[45]: Time 1520.555311 GAMMA-based likelihood -33557.795995, best rearrangement setting 20
+alpha[0]: 3.671136 
+Inference[46]: Time 1027.486158 GAMMA-based likelihood -33551.066552, best rearrangement setting 25
+alpha[0]: 3.693897 
+Inference[47]: Time 1026.637087 GAMMA-based likelihood -33553.466788, best rearrangement setting 20
+alpha[0]: 3.641317 
+Inference[48]: Time 1034.637313 GAMMA-based likelihood -33555.875747, best rearrangement setting 25
+alpha[0]: 3.676402 
+Inference[49]: Time 1102.145389 GAMMA-based likelihood -33556.175136, best rearrangement setting 25
+alpha[0]: 3.695347 
+Inference[50]: Time 1075.877905 GAMMA-based likelihood -33555.042606, best rearrangement setting 20
+alpha[0]: 3.619400 
+Inference[51]: Time 1463.667931 GAMMA-based likelihood -33555.760655, best rearrangement setting 15
+alpha[0]: 3.715429 
+Inference[52]: Time 1196.938864 GAMMA-based likelihood -33558.505560, best rearrangement setting 25
+alpha[0]: 3.625484 
+Inference[53]: Time 1350.205400 GAMMA-based likelihood -33550.211708, best rearrangement setting 25
+alpha[0]: 3.688258 
+Inference[54]: Time 1284.330492 GAMMA-based likelihood -33565.028347, best rearrangement setting 20
+alpha[0]: 3.581871 
+Inference[55]: Time 1442.560117 GAMMA-based likelihood -33555.688311, best rearrangement setting 15
+alpha[0]: 3.572005 
+Inference[56]: Time 1433.708178 GAMMA-based likelihood -33562.703578, best rearrangement setting 20
+alpha[0]: 3.820376 
+Inference[57]: Time 942.179592 GAMMA-based likelihood -33562.082547, best rearrangement setting 20
+alpha[0]: 3.684225 
+Inference[58]: Time 1299.681747 GAMMA-based likelihood -33553.301552, best rearrangement setting 20
+alpha[0]: 3.599619 
+Inference[59]: Time 1273.616632 GAMMA-based likelihood -33569.286597, best rearrangement setting 25
+alpha[0]: 3.601449 
+Inference[60]: Time 1263.539301 GAMMA-based likelihood -33555.829759, best rearrangement setting 20
+alpha[0]: 3.567438 
+Inference[61]: Time 1058.106981 GAMMA-based likelihood -33567.512765, best rearrangement setting 25
+alpha[0]: 3.676891 
+Inference[62]: Time 1078.485813 GAMMA-based likelihood -33554.750614, best rearrangement setting 20
+alpha[0]: 3.682523 
+Inference[63]: Time 982.210758 GAMMA-based likelihood -33550.735023, best rearrangement setting 20
+alpha[0]: 3.634539 
+Inference[64]: Time 995.885031 GAMMA-based likelihood -33564.169277, best rearrangement setting 25
+alpha[0]: 3.642992 
+Inference[65]: Time 1278.944602 GAMMA-based likelihood -33565.851703, best rearrangement setting 25
+alpha[0]: 3.557067 
+Inference[66]: Time 918.666135 GAMMA-based likelihood -33556.947489, best rearrangement setting 15
+alpha[0]: 3.580378 
+Inference[67]: Time 1028.705103 GAMMA-based likelihood -33557.784728, best rearrangement setting 25
+alpha[0]: 3.730044 
+Inference[68]: Time 1349.256832 GAMMA-based likelihood -33557.692145, best rearrangement setting 20
+alpha[0]: 3.569702 
+Inference[69]: Time 1457.489580 GAMMA-based likelihood -33559.801994, best rearrangement setting 20
+alpha[0]: 3.641619 
+Inference[70]: Time 893.800327 GAMMA-based likelihood -33561.084025, best rearrangement setting 15
+alpha[0]: 3.530242 
+Inference[71]: Time 1191.103876 GAMMA-based likelihood -33556.067712, best rearrangement setting 20
+alpha[0]: 3.600883 
+Inference[72]: Time 1860.214325 GAMMA-based likelihood -33558.599226, best rearrangement setting 20
+alpha[0]: 3.671236 
+Inference[73]: Time 1891.889690 GAMMA-based likelihood -33549.408137, best rearrangement setting 15
+alpha[0]: 3.591884 
+Inference[74]: Time 1073.054744 GAMMA-based likelihood -33553.136360, best rearrangement setting 15
+alpha[0]: 3.529623 
+Inference[75]: Time 1043.174128 GAMMA-based likelihood -33550.276812, best rearrangement setting 15
+alpha[0]: 3.746213 
+Inference[76]: Time 1177.664330 GAMMA-based likelihood -33555.300556, best rearrangement setting 15
+alpha[0]: 3.572482 
+Inference[77]: Time 982.686726 GAMMA-based likelihood -33557.026995, best rearrangement setting 20
+alpha[0]: 3.667807 
+Inference[78]: Time 1787.119186 GAMMA-based likelihood -33551.501771, best rearrangement setting 20
+alpha[0]: 3.702618 
+Inference[79]: Time 1216.519749 GAMMA-based likelihood -33563.376430, best rearrangement setting 15
+alpha[0]: 3.688450 
+Inference[80]: Time 979.864276 GAMMA-based likelihood -33556.016372, best rearrangement setting 20
+alpha[0]: 3.618848 
+Inference[81]: Time 1721.080240 GAMMA-based likelihood -33561.122942, best rearrangement setting 25
+alpha[0]: 3.803480 
+Inference[82]: Time 1047.177004 GAMMA-based likelihood -33551.361235, best rearrangement setting 15
+alpha[0]: 3.710950 
+Inference[83]: Time 1226.853073 GAMMA-based likelihood -33571.284367, best rearrangement setting 15
+alpha[0]: 3.714156 
+Inference[84]: Time 1283.008586 GAMMA-based likelihood -33555.564459, best rearrangement setting 20
+alpha[0]: 3.652042 
+Inference[85]: Time 1953.406612 GAMMA-based likelihood -33568.347956, best rearrangement setting 20
+alpha[0]: 3.529195 
+Inference[86]: Time 890.064868 GAMMA-based likelihood -33564.040101, best rearrangement setting 15
+alpha[0]: 3.592352 
+Inference[87]: Time 1005.456734 GAMMA-based likelihood -33553.630601, best rearrangement setting 15
+alpha[0]: 3.637891 
+Inference[88]: Time 1516.249370 GAMMA-based likelihood -33557.545331, best rearrangement setting 25
+alpha[0]: 3.742790 
+Inference[89]: Time 1066.638189 GAMMA-based likelihood -33562.309605, best rearrangement setting 20
+alpha[0]: 3.672270 
+Inference[90]: Time 1442.604182 GAMMA-based likelihood -33565.041520, best rearrangement setting 20
+alpha[0]: 3.734429 
+Inference[91]: Time 887.133068 GAMMA-based likelihood -33555.580362, best rearrangement setting 15
+alpha[0]: 3.550129 
+Inference[92]: Time 949.968587 GAMMA-based likelihood -33564.834229, best rearrangement setting 20
+alpha[0]: 3.695404 
+Inference[93]: Time 881.050051 GAMMA-based likelihood -33561.021825, best rearrangement setting 25
+alpha[0]: 3.669448 
+Inference[94]: Time 1161.438195 GAMMA-based likelihood -33554.571241, best rearrangement setting 20
+alpha[0]: 3.720148 
+Inference[95]: Time 1194.156799 GAMMA-based likelihood -33553.800732, best rearrangement setting 20
+alpha[0]: 3.588535 
+Inference[96]: Time 1050.446700 GAMMA-based likelihood -33570.824138, best rearrangement setting 20
+alpha[0]: 3.608296 
+Inference[97]: Time 1085.748163 GAMMA-based likelihood -33552.977260, best rearrangement setting 25
+alpha[0]: 3.796102 
+Inference[98]: Time 945.081716 GAMMA-based likelihood -33564.107447, best rearrangement setting 15
+alpha[0]: 3.628782 
+Inference[99]: Time 980.474437 GAMMA-based likelihood -33558.748351, best rearrangement setting 15
+alpha[0]: 3.604920 
+
+
+Conducting final model optimizations on all 100 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -33552.619498 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.0
+Inference[1] final GAMMA-based Likelihood: -33558.242783 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.1
+Inference[2] final GAMMA-based Likelihood: -33555.058050 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.2
+Inference[3] final GAMMA-based Likelihood: -33556.028558 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.3
+Inference[4] final GAMMA-based Likelihood: -33569.445854 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.4
+Inference[5] final GAMMA-based Likelihood: -33554.765370 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.5
+Inference[6] final GAMMA-based Likelihood: -33555.427381 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.6
+Inference[7] final GAMMA-based Likelihood: -33554.311171 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.7
+Inference[8] final GAMMA-based Likelihood: -33563.692940 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.8
+Inference[9] final GAMMA-based Likelihood: -33553.805318 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.9
+Inference[10] final GAMMA-based Likelihood: -33564.022648 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.10
+Inference[11] final GAMMA-based Likelihood: -33553.961056 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.11
+Inference[12] final GAMMA-based Likelihood: -33550.771308 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.12
+Inference[13] final GAMMA-based Likelihood: -33561.167405 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.13
+Inference[14] final GAMMA-based Likelihood: -33559.258407 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.14
+Inference[15] final GAMMA-based Likelihood: -33559.975224 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.15
+Inference[16] final GAMMA-based Likelihood: -33564.375071 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.16
+Inference[17] final GAMMA-based Likelihood: -33557.589676 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.17
+Inference[18] final GAMMA-based Likelihood: -33555.953061 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.18
+Inference[19] final GAMMA-based Likelihood: -33552.169640 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.19
+Inference[20] final GAMMA-based Likelihood: -33550.361451 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.20
+Inference[21] final GAMMA-based Likelihood: -33555.094405 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.21
+Inference[22] final GAMMA-based Likelihood: -33558.021158 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.22
+Inference[23] final GAMMA-based Likelihood: -33571.064027 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.23
+Inference[24] final GAMMA-based Likelihood: -33559.775036 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.24
+Inference[25] final GAMMA-based Likelihood: -33554.141850 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.25
+Inference[26] final GAMMA-based Likelihood: -33551.861641 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.26
+Inference[27] final GAMMA-based Likelihood: -33556.515858 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.27
+Inference[28] final GAMMA-based Likelihood: -33564.104306 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.28
+Inference[29] final GAMMA-based Likelihood: -33562.836828 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.29
+Inference[30] final GAMMA-based Likelihood: -33560.195717 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.30
+Inference[31] final GAMMA-based Likelihood: -33560.522198 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.31
+Inference[32] final GAMMA-based Likelihood: -33549.711136 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.32
+Inference[33] final GAMMA-based Likelihood: -33564.938673 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.33
+Inference[34] final GAMMA-based Likelihood: -33555.025578 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.34
+Inference[35] final GAMMA-based Likelihood: -33563.492418 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.35
+Inference[36] final GAMMA-based Likelihood: -33553.543259 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.36
+Inference[37] final GAMMA-based Likelihood: -33557.531776 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.37
+Inference[38] final GAMMA-based Likelihood: -33558.851370 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.38
+Inference[39] final GAMMA-based Likelihood: -33562.601668 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.39
+Inference[40] final GAMMA-based Likelihood: -33552.134776 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.40
+Inference[41] final GAMMA-based Likelihood: -33556.732547 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.41
+Inference[42] final GAMMA-based Likelihood: -33553.624321 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.42
+Inference[43] final GAMMA-based Likelihood: -33566.208256 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.43
+Inference[44] final GAMMA-based Likelihood: -33569.853872 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.44
+Inference[45] final GAMMA-based Likelihood: -33557.768181 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.45
+Inference[46] final GAMMA-based Likelihood: -33551.103557 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.46
+Inference[47] final GAMMA-based Likelihood: -33553.456577 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.47
+Inference[48] final GAMMA-based Likelihood: -33555.973883 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.48
+Inference[49] final GAMMA-based Likelihood: -33556.207456 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.49
+Inference[50] final GAMMA-based Likelihood: -33555.030298 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.50
+Inference[51] final GAMMA-based Likelihood: -33555.794226 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.51
+Inference[52] final GAMMA-based Likelihood: -33558.518466 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.52
+Inference[53] final GAMMA-based Likelihood: -33550.259689 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.53
+Inference[54] final GAMMA-based Likelihood: -33565.025127 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.54
+Inference[55] final GAMMA-based Likelihood: -33555.691461 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.55
+Inference[56] final GAMMA-based Likelihood: -33562.811594 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.56
+Inference[57] final GAMMA-based Likelihood: -33562.115959 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.57
+Inference[58] final GAMMA-based Likelihood: -33553.301662 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.58
+Inference[59] final GAMMA-based Likelihood: -33569.285356 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.59
+Inference[60] final GAMMA-based Likelihood: -33555.865356 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.60
+Inference[61] final GAMMA-based Likelihood: -33567.516714 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.61
+Inference[62] final GAMMA-based Likelihood: -33554.759739 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.62
+Inference[63] final GAMMA-based Likelihood: -33550.754524 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.63
+Inference[64] final GAMMA-based Likelihood: -33564.184902 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.64
+Inference[65] final GAMMA-based Likelihood: -33565.835868 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.65
+Inference[66] final GAMMA-based Likelihood: -33556.940138 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.66
+Inference[67] final GAMMA-based Likelihood: -33557.859872 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.67
+Inference[68] final GAMMA-based Likelihood: -33557.699599 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.68
+Inference[69] final GAMMA-based Likelihood: -33559.773858 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.69
+Inference[70] final GAMMA-based Likelihood: -33561.096845 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.70
+Inference[71] final GAMMA-based Likelihood: -33556.065008 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.71
+Inference[72] final GAMMA-based Likelihood: -33558.601532 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.72
+Inference[73] final GAMMA-based Likelihood: -33549.407524 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.73
+Inference[74] final GAMMA-based Likelihood: -33553.131097 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.74
+Inference[75] final GAMMA-based Likelihood: -33550.271480 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.75
+Inference[76] final GAMMA-based Likelihood: -33555.290751 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.76
+Inference[77] final GAMMA-based Likelihood: -33557.051186 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.77
+Inference[78] final GAMMA-based Likelihood: -33551.553696 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.78
+Inference[79] final GAMMA-based Likelihood: -33563.372546 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.79
+Inference[80] final GAMMA-based Likelihood: -33556.022584 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.80
+Inference[81] final GAMMA-based Likelihood: -33561.023365 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.81
+Inference[82] final GAMMA-based Likelihood: -33551.382741 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.82
+Inference[83] final GAMMA-based Likelihood: -33571.359288 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.83
+Inference[84] final GAMMA-based Likelihood: -33555.541946 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.84
+Inference[85] final GAMMA-based Likelihood: -33568.346224 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.85
+Inference[86] final GAMMA-based Likelihood: -33564.036039 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.86
+Inference[87] final GAMMA-based Likelihood: -33553.645528 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.87
+Inference[88] final GAMMA-based Likelihood: -33557.663122 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.88
+Inference[89] final GAMMA-based Likelihood: -33562.311322 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.89
+Inference[90] final GAMMA-based Likelihood: -33565.075269 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.90
+Inference[91] final GAMMA-based Likelihood: -33555.582861 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.91
+Inference[92] final GAMMA-based Likelihood: -33564.831808 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.92
+Inference[93] final GAMMA-based Likelihood: -33561.027805 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.93
+Inference[94] final GAMMA-based Likelihood: -33554.619654 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.94
+Inference[95] final GAMMA-based Likelihood: -33553.794542 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.95
+Inference[96] final GAMMA-based Likelihood: -33570.824319 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.96
+Inference[97] final GAMMA-based Likelihood: -33553.007731 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.97
+Inference[98] final GAMMA-based Likelihood: -33564.115516 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.98
+Inference[99] final GAMMA-based Likelihood: -33558.748317 tree written to file /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_result.bar_Copia_RT3.RUN.99
+
+
+Starting final GAMMA-based thorough Optimization on tree 73 likelihood -33549.407524 .... 
+
+Final GAMMA-based Score of best tree -33549.391226
+
+Program execution info written to /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_info.bar_Copia_RT3
+Best-scoring ML tree written to: /disk/wuei/data/Barthea/EDTA_Bba2/re_classification/result_update/RAxML_bestTree.bar_Copia_RT3
+
+Overall execution time: 123979.219142 secs or 34.438672 hours or 1.434945 days
+

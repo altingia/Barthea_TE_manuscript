@@ -1,0 +1,23 @@
+GeneName	GeneAnnotation	RepeatName	RepeatClass	r.squared	adjusted-r.squared	model-p.value	individual-p.vals			
+Barthea41783	AT1G13950 ELF5A-1 (EUKARYOTIC ELONGATION FACTOR 5A-1); translation initiation factor	TE_struc_699	DNA/DTC	0.973	0.945	0.027	TE_struc_699 : 0.516 // ColorW : 0.015			
+Barthea09391	"A5AJ83, Ribosomal_S10 domain-containing protein from Vitis vinifera"	TE_homo_8249	DNA/DTC	0.969	0.937	0.031	TE_homo_8249 : 0.032 // ColorW : 0.037			
+Barthea36348	hypothetical protein CKAN_01892500 [Cinnamomum micranthum f. kanehirae	TE_struc_599	DNA/DTM	0.982	0.964	0.018	TE_struc_599 : 0.765 // ColorW : 0.033			
+Barthea20380	AT4G26590 oligopeptide transporter 5	TE_struc_325	DNA/DTT		0.977	0.011	TE_struc_325 : 0.612 // ColorW : 0.008			
+Barthea01125	"AT4G32050,  neurochondrin family protein"	TE_homo_414	Helitron	0.997	0.994	0.003	TE_homo_414 : 0.256// ColorW : 0.001			
+Barthea30966	"AT1G51965, pentatricopeptide (PPR) repeat-containing protein"	TE_struc_521	Helitron	0.997	0.994	0.003	TE_struc_521 : 0.071 // ColorW : 0.031			
+Barthea05904	"AT1G28490, SYP61 (SYNTAXIN OF PLANTS 61)"	TE_struc_9	Helitron	0.992	0.984	0.008	TE_struc_9 : 0.136 // ColorW : 0.023			
+Barthea39025	AT3G22970 hypothetical protein 	TE_struc_628	Helitron	0.991	0.982	0.009	TE_struc_628 : 0.063 // ColorW : 0.005			
+Barthea07641	"AT5g11000, hypothetical protein"	TE_struc_13	Helitron	0.987	0.974	0.013	TE_struc_13 : 0.182 // ColorW : 0.014			
+Barthea30858	AT1G16060 ovule development protein	TE_struc_520	Helitron	0.986	0.972	0.014	TE_struc_520 : 0.154 // ColorW : 0.007			
+Barthea07910	AT2G26460 RED family protein	TE_struc_14	Helitron	0.985	0.971	0.015	TE_struc_14 : 0.019 // ColorW : 0.527			
+Barthea39013	hypothetical protein JHK85_004314 [Glycine max]	TE_struc_626	Helitron	0.982	0.964	0.018	TE_struc_626 : 0.019 // ColorW : 0.039			
+Barthea18388	AT5G09400 KUP7; potassium ion transmembrane transporte	TE_struc_281	Helitron	0.968	0.937	0.032	TE_struc_281 : 0.174 // ColorW : 0.897			
+Barthea03635	" Protein ABCI12, chloroplastic; ABC transporter I family member 12"	TE_homo_1891	Helitron	0.963	0.926	0.037	TE_homo_1891 : 0.132 // ColorW : 0.115			
+Barthea32193	Q6K4P1?Eukaryotic translation initiation factor 3 subunit G from?Oryza sativa subsp. japonica	TE_homo_56066	Helitron	0.957	0.914	0.043	TE_homo_56066 : 0.084 // ColorW : 0.024			
+Barthea04163	AT5G27600 LACS7 (LONG-CHAIN ACYL-COA SYNTHETASE 7); long-chain-fatty-acid-CoA ligase/ protein binding	TE_struc_6	Helitron	0.957	0.914	0.043	TE_struc_6 : 0.033 // ColorW : 0.096			
+Barthea24758	No hit	repeat_region_186	"LTR/Gypsy,intact"	0.984	0.969	0.016	repeat_region_186 : 0.216 // ColorW : 0.008			
+Barthea24970	"AT2G26700£¬AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein"	TE_homo_43025	"Repeat_region, Unknown"	0.985	0.971	0.015	TE_homo_43025 : 0.117 // ColorW : 0.009			
+Barthea38067	" AT1G52280, AtRABG3d (Arabidopsis Rab GTPase homolog G3d)"	TE_homo_67157	"Repeat_region, Unknown"	0.982	0.965	0.018	TE_homo_67157 : 0.641 // ColorW : 0.009			
+Barthea40943	"AT2G17710, hypothetical protein"	TE_homo_70976	"Repeat_region, Unknown"	0.972	0.943	0.028	TE_homo_70976 : 0.215 // ColorW : 0.147			
+Barthea25406	"AT2G44530 ribose-phosphate pyrophosphokinase, putative / phosphoribosyl diphosphate synthetase"	TE_homo_44470	"Repeat_region, Unknown"	0.961	0.923	0.039	TE_homo_44470 : 0.104 // ColorW : 0.023			
+Barthea00081	AT2G24970?hypothetical protein	TE_homo_136	"Repeat_region, Unknown"	0.955	0.911	0.045	TE_homo_136 : 0.377 // ColorW : 0.384			

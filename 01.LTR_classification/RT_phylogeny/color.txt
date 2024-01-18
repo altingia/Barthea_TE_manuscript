@@ -1,0 +1,21 @@
+Copia
+family	red	green	blue
+TAR	128	128	128
+Angela	218(315)	171(55)	206(218)
+Tork	197(315)	25(223)	153(196)
+SIRE	25(146)	197(222)	100(197)
+Ale	60(107)	197(222)	25(197)
+Alesia	25(197)	146(222)	197(197)
+Blanica	74(257) 25(222)	197(197)
+Ivana	212(12)	188(36)	181(211)
+Osser	230(13)	85(207)	43(229)
+
+Gypsy
+family	red	green	blue
+Athila	248	24	24
+Tekay	167	113	113
+Galadriel 113	158	167
+CRM	122	113	167
+Rena	40	240	35
+unclassified	48	52	35
+Chlamyvir	18	230	220

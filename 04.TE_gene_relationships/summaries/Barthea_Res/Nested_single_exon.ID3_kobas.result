@@ -1,0 +1,603 @@
+##Databases: KEGG PATHWAY, Gene Ontology
+##Statistical test method: hypergeometric test / Fisher's exact test
+##FDR correction method: Benjamini and Hochberg
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+Tyrosine metabolism	KEGG PATHWAY	ath00350	4	74	0.00161323767431	0.0379433500998	Barthea21177|Barthea36436|Barthea31364|Barthea28657	http://www.genome.jp/kegg-bin/show_pathway?ath00350/ath:AT5G42250%09red/ath:AT1G32780%09red/ath:AT1G31710%09red/ath:AT1G06570%09red
+Circadian rhythm - plant	KEGG PATHWAY	ath04712	3	85	0.0190777856852	0.160253399756	Barthea36328|Barthea36312|Barthea36326	http://www.genome.jp/kegg-bin/show_pathway?ath04712/ath:AT1G65480%09red
+Sesquiterpenoid and triterpenoid biosynthesis	KEGG PATHWAY	ath00909	2	35	0.0234512373467	0.179082176102	Barthea21054|Barthea23731	http://www.genome.jp/kegg-bin/show_pathway?ath00909/ath:AT5G23960%09red
+Brassinosteroid biosynthesis	KEGG PATHWAY	ath00905	2	39	0.0283971434115	0.201174943687	Barthea10079|Barthea10080	http://www.genome.jp/kegg-bin/show_pathway?ath00905/ath:AT2G26710%09red
+Phenylpropanoid biosynthesis	KEGG PATHWAY	ath00940	5	306	0.050522531639	0.258323900902	Barthea44533|Barthea38722|Barthea11855|Barthea44580|Barthea44534	http://www.genome.jp/kegg-bin/show_pathway?ath00940/ath:AT5G54160%09red/ath:AT5G24550%09red/ath:AT5G48930%09red/ath:AT4G37980%09red
+Endocytosis	KEGG PATHWAY	ath04144	5	333	0.0671450153672	0.277718151399	Barthea40367|Barthea45301|Barthea41215|Barthea08402|Barthea10295	http://www.genome.jp/kegg-bin/show_pathway?ath04144/ath:AT1G17730%09red/ath:AT5G46630%09red/ath:AT3G12580%09red
+RNA polymerase	KEGG PATHWAY	ath03020	2	70	0.0778969667035	0.280772753882	Barthea30095|Barthea28554	http://www.genome.jp/kegg-bin/show_pathway?ath03020/ath:ArthCp013%09red/ath:ArthCp014%09red
+Phenylalanine metabolism	KEGG PATHWAY	ath00360	2	74	0.0854502189326	0.287209225632	Barthea36436|Barthea31364	http://www.genome.jp/kegg-bin/show_pathway?ath00360/ath:AT1G31710%09red/ath:AT1G06570%09red
+Cyanoamino acid metabolism	KEGG PATHWAY	ath00460	2	78	0.0932137987087	0.292365690368	Barthea44533|Barthea44534	http://www.genome.jp/kegg-bin/show_pathway?ath00460/ath:AT5G24550%09red
+Spliceosome	KEGG PATHWAY	ath03040	5	369	0.0934774656278	0.292365690368	Barthea40367|Barthea45301|Barthea07218|Barthea41215|Barthea28044	http://www.genome.jp/kegg-bin/show_pathway?ath03040/ath:AT3G55220%09red/ath:AT3G15010%09red/ath:AT3G12580%09red
+Ubiquinone and other terpenoid-quinone biosynthesis	KEGG PATHWAY	ath00130	2	83	0.103190609958	0.293739976752	Barthea19457|Barthea31364	http://www.genome.jp/kegg-bin/show_pathway?ath00130/ath:AT1G06570%09red/ath:AT4G32770%09red
+Fatty acid degradation	KEGG PATHWAY	ath00071	2	96	0.130353940187	0.317849050823	Barthea21177|Barthea28657	http://www.genome.jp/kegg-bin/show_pathway?ath00071/ath:AT5G42250%09red/ath:AT1G32780%09red
+Monoterpenoid biosynthesis	KEGG PATHWAY	ath00902	1	28	0.169919144701	0.339838289403	Barthea36040	http://www.genome.jp/kegg-bin/show_pathway?ath00902/ath:AT3G25820%09red
+RNA transport	KEGG PATHWAY	ath03013	4	355	0.199014743764	0.365591767868	Barthea37258|Barthea22330|Barthea28378|Barthea32193	http://www.genome.jp/kegg-bin/show_pathway?ath03013/ath:AT5G55190%09red/ath:AT3G14120%09red/ath:AT3G11400%09red
+Plant-pathogen interaction	KEGG PATHWAY	ath04626	4	360	0.205576102366	0.365591767868	Barthea30677|Barthea30674|Barthea34534|Barthea13468	http://www.genome.jp/kegg-bin/show_pathway?ath04626/ath:AT2G43290%09red/ath:AT1G76040%09red/ath:AT5G53130%09red
+One carbon pool by folate	KEGG PATHWAY	ath00670	1	35	0.20642256281	0.365591767868	Barthea36342	http://www.genome.jp/kegg-bin/show_pathway?ath00670/ath:AT2G44160%09red
+Stilbenoid, diarylheptanoid and gingerol biosynthesis	KEGG PATHWAY	ath00945	1	35	0.20642256281	0.365591767868	Barthea38722	http://www.genome.jp/kegg-bin/show_pathway?ath00945/ath:AT5G48930%09red
+Isoquinoline alkaloid biosynthesis	KEGG PATHWAY	ath00950	1	43	0.246186247359	0.399882633831	Barthea36436	http://www.genome.jp/kegg-bin/show_pathway?ath00950/ath:AT1G31710%09red
+Tropane, piperidine and pyridine alkaloid biosynthesis	KEGG PATHWAY	ath00960	1	44	0.251015037322	0.40437490944	Barthea36436	http://www.genome.jp/kegg-bin/show_pathway?ath00960/ath:AT1G31710%09red
+Ribosome biogenesis in eukaryotes	KEGG PATHWAY	ath03008	2	161	0.280149337415	0.435787858201	Barthea22330|Barthea44867	http://www.genome.jp/kegg-bin/show_pathway?ath03008/ath:AT1G15440%09red/ath:AT5G55190%09red
+ABC transporters	KEGG PATHWAY	ath02010	1	52	0.288552226111	0.441845596233	Barthea16745	http://www.genome.jp/kegg-bin/show_pathway?ath02010/ath:AT3G62150%09red
+Pentose and glucuronate interconversions	KEGG PATHWAY	ath00040	2	168	0.296680258902	0.447601679051	Barthea08592|Barthea38942	http://www.genome.jp/kegg-bin/show_pathway?ath00040/ath:AT2G45220%09red/ath:AT4G02320%09red
+Flavonoid biosynthesis	KEGG PATHWAY	ath00941	1	81	0.409580658993	0.556197292119	Barthea38722	http://www.genome.jp/kegg-bin/show_pathway?ath00941/ath:AT5G48930%09red
+Carotenoid biosynthesis	KEGG PATHWAY	ath00906	1	81	0.409580658993	0.556197292119	Barthea15865	http://www.genome.jp/kegg-bin/show_pathway?ath00906/ath:AT1G78390%09red
+RNA degradation	KEGG PATHWAY	ath03018	2	228	0.433634308347	0.574272462405	Barthea21120|Barthea21096	http://www.genome.jp/kegg-bin/show_pathway?ath03018/ath:AT5G09590%09red/ath:AT4G37910%09red
+Ubiquitin mediated proteolysis	KEGG PATHWAY	ath04120	2	231	0.440137517719	0.5789728421	Barthea34815|Barthea31366	http://www.genome.jp/kegg-bin/show_pathway?ath04120/ath:AT5G50680%09red/ath:AT1G06590%09red
+Biosynthesis of secondary metabolites	KEGG PATHWAY	ath01110	15	2212	0.456898496466	0.586585842624	Barthea00008|Barthea36040|Barthea13645|Barthea21054|Barthea38722|Barthea28657|Barthea44533|Barthea23731|Barthea21177|Barthea44580|Barthea44534|Barthea15865|Barthea11855|Barthea36436|Barthea19457	http://www.genome.jp/kegg-bin/show_pathway?ath01110/ath:AT5G54160%09red/ath:AT5G23960%09red/ath:AT1G78390%09red/ath:AT4G37980%09red/ath:AT1G32780%09red/ath:AT3G25820%09red/ath:AT5G24550%09red/ath:AT5G48930%09red/ath:AT1G09430%09red/ath:AT5G42250%09red/ath:AT1G31710%09red/ath:AT4G32770%09red/ath:AT4G18480%09red
+Glycolysis / Gluconeogenesis	KEGG PATHWAY	ath00010	2	250	0.480342016063	0.601596617076	Barthea21177|Barthea28657	http://www.genome.jp/kegg-bin/show_pathway?ath00010/ath:AT5G42250%09red/ath:AT1G32780%09red
+Galactose metabolism	KEGG PATHWAY	ath00052	1	105	0.494061207144	0.612886054431	Barthea25130	http://www.genome.jp/kegg-bin/show_pathway?ath00052/ath:AT3G57520%09red
+Porphyrin and chlorophyll metabolism	KEGG PATHWAY	ath00860	1	106	0.497306966485	0.614320370364	Barthea00008	http://www.genome.jp/kegg-bin/show_pathway?ath00860/ath:AT4G18480%09red
+beta-Alanine metabolism	KEGG PATHWAY	ath00410	1	108	0.503736381112	0.617077066862	Barthea36436	http://www.genome.jp/kegg-bin/show_pathway?ath00410/ath:AT1G31710%09red
+Protein processing in endoplasmic reticulum	KEGG PATHWAY	ath04141	3	422	0.512619611719	0.621485219981	Barthea40367|Barthea45301|Barthea41215	http://www.genome.jp/kegg-bin/show_pathway?ath04141/ath:AT3G12580%09red
+Citrate cycle (TCA cycle)	KEGG PATHWAY	ath00020	1	112	0.516350463761	0.624720314181	Barthea13645	http://www.genome.jp/kegg-bin/show_pathway?ath00020/ath:AT1G09430%09red
+Homologous recombination	KEGG PATHWAY	ath03440	1	118	0.534675127056	0.640303410812	Barthea09726	http://www.genome.jp/kegg-bin/show_pathway?ath03440/ath:AT5G20420%09red
+Starch and sucrose metabolism	KEGG PATHWAY	ath00500	2	280	0.540083303902	0.644401036745	Barthea44533|Barthea44534	http://www.genome.jp/kegg-bin/show_pathway?ath00500/ath:AT5G24550%09red
+Tryptophan metabolism	KEGG PATHWAY	ath00380	1	120	0.540628309713	0.644401036745	Barthea25961	http://www.genome.jp/kegg-bin/show_pathway?ath00380/ath:AT4G35160%09red
+Arginine and proline metabolism	KEGG PATHWAY	ath00330	1	125	0.555181386805	0.654201714311	Barthea31598	http://www.genome.jp/kegg-bin/show_pathway?ath00330/ath:AT2G27450%09red
+Proteasome	KEGG PATHWAY	ath03050	1	127	0.560873171451	0.656959013572	Barthea41369	http://www.genome.jp/kegg-bin/show_pathway?ath03050/ath:AT5G09900%09red
+Glycine, serine and threonine metabolism	KEGG PATHWAY	ath00260	1	130	0.569275082533	0.664154262955	Barthea36436	http://www.genome.jp/kegg-bin/show_pathway?ath00260/ath:AT1G31710%09red
+Photosynthesis	KEGG PATHWAY	ath00195	1	158	0.640362982662	0.72830451413	Barthea12731	http://www.genome.jp/kegg-bin/show_pathway?ath00195/ath:ArthCp018%09red
+Glutathione metabolism	KEGG PATHWAY	ath00480	1	174	0.675602499798	0.753803168655	Barthea14053	http://www.genome.jp/kegg-bin/show_pathway?ath00480/ath:AT3G62760%09red
+Ribosome	KEGG PATHWAY	ath03010	3	576	0.718347187631	0.790989038066	Barthea00002|Barthea12743|Barthea42639	http://www.genome.jp/kegg-bin/show_pathway?ath03010/ath:AT1G74970%09red/ath:AT5G39740%09red/ath:ArthCp061%09red
+mRNA surveillance pathway	KEGG PATHWAY	ath03015	1	238	0.78533689481	0.838072766149	Barthea13691	http://www.genome.jp/kegg-bin/show_pathway?ath03015/ath:AT2G39840%09red
+Metabolic pathways	KEGG PATHWAY	ath01100	24	4349	0.814307690513	0.858087673874	Barthea31364|Barthea28657|Barthea44533|Barthea44534|Barthea11855|Barthea08592|Barthea25130|Barthea21177|Barthea44580|Barthea31598|Barthea15865|Barthea36436|Barthea23731|Barthea36342|Barthea13645|Barthea25961|Barthea14053|Barthea38722|Barthea12731|Barthea38942|Barthea00008|Barthea36040|Barthea21054|Barthea19457	http://www.genome.jp/kegg-bin/show_pathway?ath01100/ath:AT5G54160%09red/ath:AT5G23960%09red/ath:AT4G02320%09red/ath:AT3G25820%09red/ath:AT5G24550%09red/ath:AT3G62760%09red/ath:AT5G48930%09red/ath:ArthCp018%09red/ath:AT4G35160%09red/ath:AT4G37980%09red/ath:AT1G09430%09red/ath:AT4G18480%09red/ath:AT1G31710%09red/ath:AT2G27450%09red/ath:AT2G45220%09red/ath:AT1G06570%09red/ath:AT1G78390%09red/ath:AT1G32780%09red/ath:AT5G42250%09red/ath:AT2G44160%09red/ath:AT4G32770%09red/ath:AT3G57520%09red
+MAPK signaling pathway - plant	KEGG PATHWAY	ath04016	1	271	0.826544762064	0.867857071062	Barthea31431	http://www.genome.jp/kegg-bin/show_pathway?ath04016/ath:AT2G29380%09red
+Carbon metabolism	KEGG PATHWAY	ath01200	2	534	0.85910883597	0.894081408053	Barthea36342|Barthea28657	http://www.genome.jp/kegg-bin/show_pathway?ath01200/ath:AT5G42250%09red/ath:AT2G44160%09red
+Plant hormone signal transduction	KEGG PATHWAY	ath04075	2	582	0.889622582076	0.916108718495	Barthea37311|Barthea31431	http://www.genome.jp/kegg-bin/show_pathway?ath04075/ath:AT2G29380%09red/ath:AT3G16500%09red
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+protein folding chaperone	Gene Ontology	GO:0044183	6	73	1.22032060027e-05	0.00407668948123	Barthea45301|Barthea40367|Barthea41215|Barthea21120|Barthea07831|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0044183
+nutrient reservoir activity	Gene Ontology	GO:0045735	7	130	3.07846172995e-05	0.00407668948123	Barthea45714|Barthea33739|Barthea45731|Barthea45716|Barthea31671|Barthea45726|Barthea45722	http://amigo.geneontology.org/amigo/term/GO:0045735
+negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	Gene Ontology	GO:1903298	3	8	4.11605046611e-05	0.00407668948123	Barthea40367|Barthea45301|Barthea41215	http://amigo.geneontology.org/amigo/term/GO:1903298
+phosphatidylethanolamine binding	Gene Ontology	GO:0008429	3	8	4.11605046611e-05	0.00407668948123	Barthea36328|Barthea36312|Barthea36326	http://amigo.geneontology.org/amigo/term/GO:0008429
+manganese ion binding	Gene Ontology	GO:0030145	7	139	4.62195212029e-05	0.00407668948123	Barthea45714|Barthea33739|Barthea45731|Barthea45716|Barthea31671|Barthea45726|Barthea45722	http://amigo.geneontology.org/amigo/term/GO:0030145
+cellular response to unfolded protein	Gene Ontology	GO:0034620	5	58	5.36543018677e-05	0.00407668948123	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0034620
+ATP binding	Gene Ontology	GO:0005524	20	1124	5.57293743801e-05	0.00407668948123	Barthea09453|Barthea45301|Barthea34534|Barthea21120|Barthea27446|Barthea08218|Barthea35797|Barthea32189|Barthea13035|Barthea40367|Barthea41215|Barthea00051|Barthea00052|Barthea17817|Barthea09541|Barthea33870|Barthea37419|Barthea43222|Barthea24292|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005524
+misfolded protein binding	Gene Ontology	GO:0051787	5	60	6.23983083861e-05	0.00407668948123	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0051787
+response to unfolded protein	Gene Ontology	GO:0006986	5	60	6.23983083861e-05	0.00407668948123	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0006986
+endoplasmic reticulum chaperone complex	Gene Ontology	GO:0034663	3	13	0.000136422406219	0.00802163748565	Barthea40367|Barthea45301|Barthea41215	http://amigo.geneontology.org/amigo/term/GO:0034663
+regulation of peroxisome size	Gene Ontology	GO:0044375	3	15	0.000196912189007	0.00973772143637	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0044375
+brassinosteroid metabolic process	Gene Ontology	GO:0016131	4	41	0.000198729008905	0.00973772143637	Barthea08610|Barthea10079|Barthea08609|Barthea10080	http://amigo.geneontology.org/amigo/term/GO:0016131
+heat shock protein binding	Gene Ontology	GO:0031072	5	84	0.000276800043255	0.0125198788795	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0031072
+protein refolding	Gene Ontology	GO:0042026	5	93	0.000432231049908	0.0181537040961	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0042026
+meristem determinacy	Gene Ontology	GO:0010022	3	21	0.000474747154219	0.0186100884454	Barthea36328|Barthea36312|Barthea36326	http://amigo.geneontology.org/amigo/term/GO:0010022
+peroxisome fission	Gene Ontology	GO:0016559	3	23	0.000604115642112	0.0222012498476	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0016559
+protein tyrosine kinase activity	Gene Ontology	GO:0004713	3	25	0.00075402898253	0.0231896610832	Barthea27446|Barthea00051|Barthea00052	http://amigo.geneontology.org/amigo/term/GO:0004713
+response to temperature stimulus	Gene Ontology	GO:0009266	4	60	0.000770571097362	0.0231896610832	Barthea40367|Barthea45301|Barthea41215|Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0009266
+chaperone cofactor-dependent protein refolding	Gene Ontology	GO:0051085	5	107	0.000794174077464	0.0231896610832	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0051085
+plasma membrane	Gene Ontology	GO:0005886	61	6358	0.000827384148953	0.0231896610832	Barthea09453|Barthea43617|Barthea34534|Barthea16745|Barthea22785|Barthea27444|Barthea27446|Barthea00181|Barthea25192|Barthea41278|Barthea33219|Barthea22750|Barthea21532|Barthea31957|Barthea08402|Barthea30677|Barthea30674|Barthea19811|Barthea45154|Barthea23138|Barthea08518|Barthea18358|Barthea23933|Barthea00051|Barthea00052|Barthea42639|Barthea09541|Barthea32728|Barthea41349|Barthea19457|Barthea12517|Barthea45301|Barthea11680|Barthea13605|Barthea44580|Barthea28378|Barthea08563|Barthea44283|Barthea33895|Barthea02078|Barthea14404|Barthea10374|Barthea45092|Barthea00867|Barthea11855|Barthea17817|Barthea38046|Barthea06855|Barthea36605|Barthea10007|Barthea32193|Barthea43222|Barthea41760|Barthea41369|Barthea40367|Barthea10179|Barthea41215|Barthea21120|Barthea13879|Barthea25891|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005886
+regulation of brassinosteroid biosynthetic process	Gene Ontology	GO:0010422	2	5	0.000838758005162	0.0231896610832	Barthea08610|Barthea08609	http://amigo.geneontology.org/amigo/term/GO:0010422
+unfolded protein binding	Gene Ontology	GO:0051082	7	229	0.000867640380665	0.0231896610832	Barthea45301|Barthea07831|Barthea40367|Barthea41215|Barthea21120|Barthea26801|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0051082
+transcriptionally active chromatin	Gene Ontology	GO:0035327	2	6	0.00111362065331	0.0284699540934	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0035327
+brassinosteroid mediated signaling pathway	Gene Ontology	GO:0009742	5	125	0.00154416635279	0.0378320756432	Barthea27444|Barthea33219|Barthea36156|Barthea00181|Barthea43222	http://amigo.geneontology.org/amigo/term/GO:0009742
+organelle fission	Gene Ontology	GO:0048285	3	37	0.00214901425064	0.0481625562391	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0048285
+regulation of timing of transition from vegetative to reproductive phase	Gene Ontology	GO:0048510	4	81	0.00221154594976	0.0481625562391	Barthea39151|Barthea33870|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0048510
+mitochondrial fission	Gene Ontology	GO:0000266	3	39	0.00247365778467	0.0519468134781	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0000266
+glucosinolate catabolic process	Gene Ontology	GO:0019762	2	10	0.00258095344283	0.0523310560133	Barthea44533|Barthea44534	http://amigo.geneontology.org/amigo/term/GO:0019762
+protein folding	Gene Ontology	GO:0006457	7	282	0.00274219022949	0.0537469284979	Barthea45301|Barthea07831|Barthea40367|Barthea41215|Barthea21120|Barthea26801|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0006457
+response to bacterium	Gene Ontology	GO:0009617	6	217	0.00326731451613	0.0619735785639	Barthea45301|Barthea08592|Barthea32314|Barthea40367|Barthea41215|Barthea44580	http://amigo.geneontology.org/amigo/term/GO:0009617
+ubiquitin protein ligase binding	Gene Ontology	GO:0031625	4	92	0.00343540766684	0.0631256158781	Barthea09541|Barthea40367|Barthea45301|Barthea41215	http://amigo.geneontology.org/amigo/term/GO:0031625
+cell wall	Gene Ontology	GO:0005618	13	840	0.00366102953673	0.0652328899272	Barthea45714|Barthea45301|Barthea45731|Barthea31671|Barthea45716|Barthea33739|Barthea45726|Barthea40367|Barthea00008|Barthea41215|Barthea21120|Barthea45722|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005618
+2-alkenal reductase [NAD(P)+] activity	Gene Ontology	GO:0032440	2	13	0.0040544161176	0.0685071948825	Barthea36364|Barthea36360	http://amigo.geneontology.org/amigo/term/GO:0032440
+response to virus	Gene Ontology	GO:0009615	4	99	0.00441629650835	0.0685071948825	Barthea40367|Barthea45301|Barthea41215|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0009615
+regulation of cell growth	Gene Ontology	GO:0001558	3	49	0.00454366057132	0.0685071948825	Barthea39151|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0001558
+negative regulation of translation	Gene Ontology	GO:0017148	3	49	0.00454366057132	0.0685071948825	Barthea39151|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0017148
+S-(hydroxymethyl)glutathione dehydrogenase activity	Gene Ontology	GO:0051903	2	14	0.00461412950494	0.0685071948825	Barthea21177|Barthea28657	http://amigo.geneontology.org/amigo/term/GO:0051903
+alcohol dehydrogenase activity, zinc-dependent	Gene Ontology	GO:0004024	2	14	0.00461412950494	0.0685071948825	Barthea21177|Barthea28657	http://amigo.geneontology.org/amigo/term/GO:0004024
+regulation of stomatal movement	Gene Ontology	GO:0010119	5	163	0.00466035339337	0.0685071948825	Barthea44867|Barthea36328|Barthea36312|Barthea36326|Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0010119
+formaldehyde catabolic process	Gene Ontology	GO:0046294	2	15	0.00520736375025	0.0729030925035	Barthea21177|Barthea28657	http://amigo.geneontology.org/amigo/term/GO:0046294
+tRNA methylation	Gene Ontology	GO:0030488	2	15	0.00520736375025	0.0729030925035	Barthea44388|Barthea44385	http://amigo.geneontology.org/amigo/term/GO:0030488
+leaf morphogenesis	Gene Ontology	GO:0009965	5	170	0.00552773741912	0.0755885954057	Barthea39151|Barthea14171|Barthea43495|Barthea03432|Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0009965
+phloem sucrose loading	Gene Ontology	GO:0009915	2	16	0.0058336701954	0.0779590471568	Barthea23138|Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0009915
+(-)-E-beta-caryophyllene synthase activity	Gene Ontology	GO:0080016	2	17	0.00649260451419	0.0829924229205	Barthea21054|Barthea23731	http://amigo.geneontology.org/amigo/term/GO:0080016
+alpha-humulene synthase activity	Gene Ontology	GO:0080017	2	17	0.00649260451419	0.0829924229205	Barthea21054|Barthea23731	http://amigo.geneontology.org/amigo/term/GO:0080017
+steroid hydroxylase activity	Gene Ontology	GO:0008395	2	19	0.00790660090729	0.0989166241167	Barthea10079|Barthea10080	http://amigo.geneontology.org/amigo/term/GO:0008395
+cytoplasm	Gene Ontology	GO:0005737	64	7449	0.00842786125424	0.0998538793699	Barthea43617|Barthea34534|Barthea31364|Barthea22785|Barthea27444|Barthea02379|Barthea00181|Barthea09884|Barthea43087|Barthea10522|Barthea33219|Barthea21532|Barthea08218|Barthea41191|Barthea46364|Barthea13691|Barthea11855|Barthea04308|Barthea22330|Barthea42871|Barthea35797|Barthea19388|Barthea23138|Barthea18358|Barthea44580|Barthea42639|Barthea31598|Barthea13711|Barthea37419|Barthea12517|Barthea45301|Barthea36364|Barthea36326|Barthea45154|Barthea13645|Barthea08609|Barthea08610|Barthea36328|Barthea15703|Barthea14404|Barthea36360|Barthea21523|Barthea14171|Barthea03054|Barthea14053|Barthea38722|Barthea28378|Barthea19390|Barthea25109|Barthea36298|Barthea10295|Barthea32193|Barthea13709|Barthea41763|Barthea00062|Barthea41369|Barthea40367|Barthea41215|Barthea21120|Barthea07831|Barthea21177|Barthea13877|Barthea36312|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005737
+polar nucleus fusion	Gene Ontology	GO:0010197	3	62	0.00845074431593	0.0998538793699	Barthea10365|Barthea32003|Barthea32000	http://amigo.geneontology.org/amigo/term/GO:0010197
+alditol:NADP+ 1-oxidoreductase activity	Gene Ontology	GO:0004032	2	20	0.00866079565964	0.0998538793699	Barthea38790|Barthea38789	http://amigo.geneontology.org/amigo/term/GO:0004032
+rRNA base methylation	Gene Ontology	GO:0070475	2	20	0.00866079565964	0.0998538793699	Barthea44388|Barthea44385	http://amigo.geneontology.org/amigo/term/GO:0070475
+calcium ion transport	Gene Ontology	GO:0006816	3	64	0.00918208647942	0.102217833561	Barthea30677|Barthea30674|Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0006816
+protein phosphorylation	Gene Ontology	GO:0006468	17	1386	0.00940557193948	0.102217833561	Barthea09453|Barthea34534|Barthea27446|Barthea13879|Barthea35797|Barthea08218|Barthea13035|Barthea10374|Barthea00867|Barthea00051|Barthea00052|Barthea17817|Barthea09541|Barthea37419|Barthea43222|Barthea41349|Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0006468
+intracellular cyclic nucleotide activated cation channel activity	Gene Ontology	GO:0005221	2	21	0.00944588356968	0.102217833561	Barthea30677|Barthea30674	http://amigo.geneontology.org/amigo/term/GO:0005221
+potassium ion transport	Gene Ontology	GO:0006813	3	65	0.00956119191468	0.102217833561	Barthea30677|Barthea25109|Barthea30674	http://amigo.geneontology.org/amigo/term/GO:0006813
+cytosol	Gene Ontology	GO:0005829	58	6676	0.00997495093804	0.104029785487	Barthea36605|Barthea07218|Barthea19337|Barthea16745|Barthea22785|Barthea27444|Barthea41349|Barthea00181|Barthea09884|Barthea25192|Barthea28657|Barthea33219|Barthea34546|Barthea38790|Barthea11855|Barthea28378|Barthea31364|Barthea33693|Barthea21177|Barthea22330|Barthea18358|Barthea42639|Barthea32728|Barthea13711|Barthea08402|Barthea12517|Barthea45301|Barthea31431|Barthea33870|Barthea13845|Barthea36342|Barthea13645|Barthea28044|Barthea36364|Barthea15703|Barthea38789|Barthea36360|Barthea45092|Barthea38722|Barthea18108|Barthea14404|Barthea26801|Barthea17817|Barthea41278|Barthea29685|Barthea14171|Barthea00008|Barthea32193|Barthea25593|Barthea41369|Barthea40367|Barthea07261|Barthea41215|Barthea21120|Barthea07831|Barthea13879|Barthea13877|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005829
+Cdc73/Paf1 complex	Gene Ontology	GO:0016593	2	22	0.0102614414256	0.104029785487	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0016593
+RNA methyltransferase activity	Gene Ontology	GO:0008173	2	22	0.0102614414256	0.104029785487	Barthea44388|Barthea44385	http://amigo.geneontology.org/amigo/term/GO:0008173
+sesquiterpenoid biosynthetic process	Gene Ontology	GO:0016106	2	23	0.0111070501316	0.110693991142	Barthea21054|Barthea23731	http://amigo.geneontology.org/amigo/term/GO:0016106
+translational initiation	Gene Ontology	GO:0006413	3	70	0.0115926739549	0.113608204758	Barthea02395|Barthea28378|Barthea32193	http://amigo.geneontology.org/amigo/term/GO:0006413
+vitamin E biosynthetic process	Gene Ontology	GO:0010189	2	24	0.0119822946723	0.115501463399	Barthea19457|Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0010189
+transcription elongation from RNA polymerase II promoter	Gene Ontology	GO:0006368	2	25	0.012886764079	0.120276464737	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0006368
+sesquiterpene biosynthetic process	Gene Ontology	GO:0051762	2	25	0.012886764079	0.120276464737	Barthea21054|Barthea23731	http://amigo.geneontology.org/amigo/term/GO:0051762
+adaxial/abaxial pattern specification	Gene Ontology	GO:0009955	2	26	0.0138200513941	0.125018311073	Barthea14171|Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0009955
+glucose transmembrane transporter activity	Gene Ontology	GO:0005355	2	26	0.0138200513941	0.125018311073	Barthea38046|Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0005355
+RNA polymerase II complex binding	Gene Ontology	GO:0000993	2	30	0.0178333790909	0.158879195537	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0000993
+histone methylation	Gene Ontology	GO:0016571	2	31	0.0189047896157	0.160253399756	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0016571
+response to herbivore	Gene Ontology	GO:0080027	2	31	0.0189047896157	0.160253399756	Barthea21054|Barthea23731	http://amigo.geneontology.org/amigo/term/GO:0080027
+methylation	Gene Ontology	GO:0032259	3	85	0.0190777856852	0.160253399756	Barthea31115|Barthea11855|Barthea10452	http://amigo.geneontology.org/amigo/term/GO:0032259
+scopolin beta-glucosidase activity	Gene Ontology	GO:0102483	2	32	0.0200026586526	0.16525965732	Barthea44533|Barthea44534	http://amigo.geneontology.org/amigo/term/GO:0102483
+pectinesterase inhibitor activity	Gene Ontology	GO:0046910	3	87	0.0202358764066	0.16525965732	Barthea38932|Barthea08592|Barthea38942	http://amigo.geneontology.org/amigo/term/GO:0046910
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	Gene Ontology	GO:0016616	3	89	0.0214318931996	0.170795578929	Barthea08610|Barthea08609|Barthea44580	http://amigo.geneontology.org/amigo/term/GO:0016616
+ADP binding	Gene Ontology	GO:0043531	4	160	0.021494681702	0.170795578929	Barthea23138|Barthea19390|Barthea19388|Barthea10522	http://amigo.geneontology.org/amigo/term/GO:0043531
+S-adenosylmethionine-dependent methyltransferase activity	Gene Ontology	GO:0008757	3	91	0.0226658576661	0.177700324102	Barthea31115|Barthea11855|Barthea10452	http://amigo.geneontology.org/amigo/term/GO:0008757
+phosphatidylinositol binding	Gene Ontology	GO:0035091	3	92	0.0232970711447	0.179082176102	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0035091
+embryo sac development	Gene Ontology	GO:0009553	4	169	0.0255214920789	0.192392786441	Barthea44867|Barthea33870|Barthea10365|Barthea32189	http://amigo.geneontology.org/amigo/term/GO:0009553
+protein kinase activity	Gene Ontology	GO:0004672	11	866	0.0267357165251	0.194502456192	Barthea09453|Barthea34534|Barthea41349|Barthea13879|Barthea35797|Barthea08218|Barthea10374|Barthea17817|Barthea09541|Barthea43222|Barthea37419	http://amigo.geneontology.org/amigo/term/GO:0004672
+vegetative to reproductive phase transition of meristem	Gene Ontology	GO:0010228	5	256	0.0268608514372	0.194502456192	Barthea39151|Barthea33870|Barthea43495|Barthea03432|Barthea38179	http://amigo.geneontology.org/amigo/term/GO:0010228
+iron-sulfur cluster binding	Gene Ontology	GO:0051536	2	38	0.02712449219	0.194502456192	Barthea44388|Barthea44385	http://amigo.geneontology.org/amigo/term/GO:0051536
+inward rectifier potassium channel activity	Gene Ontology	GO:0005242	2	38	0.02712449219	0.194502456192	Barthea30677|Barthea30674	http://amigo.geneontology.org/amigo/term/GO:0005242
+photoperiodism, flowering	Gene Ontology	GO:0048573	3	101	0.0294041903043	0.20582933213	Barthea36328|Barthea36312|Barthea36326	http://amigo.geneontology.org/amigo/term/GO:0048573
+cytoplasmic vesicle	Gene Ontology	GO:0031410	2	41	0.0310126642955	0.21453466595	Barthea32728|Barthea08402	http://amigo.geneontology.org/amigo/term/GO:0031410
+alcohol dehydrogenase (NADP+) activity	Gene Ontology	GO:0008106	2	42	0.0323548359766	0.221216785514	Barthea38790|Barthea38789	http://amigo.geneontology.org/amigo/term/GO:0008106
+protein serine/threonine phosphatase activity	Gene Ontology	GO:0004722	4	186	0.0342918628836	0.231735238071	Barthea31431|Barthea19337|Barthea13845|Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0004722
+post-embryonic development	Gene Ontology	GO:0009791	3	108	0.0346814642011	0.231735238071	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0009791
+transmembrane receptor protein tyrosine kinase activity	Gene Ontology	GO:0004714	2	44	0.0351062829027	0.231938138728	Barthea00051|Barthea00052	http://amigo.geneontology.org/amigo/term/GO:0004714
+eukaryotic translation initiation factor 3 complex	Gene Ontology	GO:0005852	2	45	0.0365148808718	0.238563888363	Barthea28378|Barthea32193	http://amigo.geneontology.org/amigo/term/GO:0005852
+dolichyldiphosphatase activity	Gene Ontology	GO:0047874	1	5	0.0377877099433	0.241512754855	Barthea10451	http://amigo.geneontology.org/amigo/term/GO:0047874
+aldehyde-lyase activity	Gene Ontology	GO:0016832	1	5	0.0377877099433	0.241512754855	Barthea43876	http://amigo.geneontology.org/amigo/term/GO:0016832
+pectinesterase activity	Gene Ontology	GO:0030599	3	113	0.0387301264663	0.243775195629	Barthea38932|Barthea08592|Barthea38942	http://amigo.geneontology.org/amigo/term/GO:0030599
+beta-glucosidase activity	Gene Ontology	GO:0008422	2	47	0.0393961580039	0.243775195629	Barthea44533|Barthea44534	http://amigo.geneontology.org/amigo/term/GO:0008422
+monosaccharide transmembrane transporter activity	Gene Ontology	GO:0015145	2	47	0.0393961580039	0.243775195629	Barthea23933|Barthea21532	http://amigo.geneontology.org/amigo/term/GO:0015145
+ion channel activity	Gene Ontology	GO:0005216	2	48	0.0408681800655	0.243775195629	Barthea30677|Barthea30674	http://amigo.geneontology.org/amigo/term/GO:0005216
+response to blue light	Gene Ontology	GO:0009637	3	117	0.0421344658999	0.243775195629	Barthea39151|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0009637
+positive regulation of flower development	Gene Ontology	GO:0009911	3	119	0.0438912032043	0.243775195629	Barthea36328|Barthea36312|Barthea36326	http://amigo.geneontology.org/amigo/term/GO:0009911
+glucosinolate transport	Gene Ontology	GO:1901349	1	6	0.0439458685997	0.243775195629	Barthea41760	http://amigo.geneontology.org/amigo/term/GO:1901349
+glucosinolate:proton symporter activity	Gene Ontology	GO:0090448	1	6	0.0439458685997	0.243775195629	Barthea41760	http://amigo.geneontology.org/amigo/term/GO:0090448
+F-actin capping protein complex	Gene Ontology	GO:0008290	1	6	0.0439458685997	0.243775195629	Barthea31598	http://amigo.geneontology.org/amigo/term/GO:0008290
+4-hydroxy-4-methyl-2-oxoglutarate aldolase activity	Gene Ontology	GO:0047443	1	6	0.0439458685997	0.243775195629	Barthea41191	http://amigo.geneontology.org/amigo/term/GO:0047443
+phloem glucosinolate loading	Gene Ontology	GO:0090449	1	6	0.0439458685997	0.243775195629	Barthea41760	http://amigo.geneontology.org/amigo/term/GO:0090449
+N-terminal protein amino acid modification	Gene Ontology	GO:0031365	1	6	0.0439458685997	0.243775195629	Barthea31163	http://amigo.geneontology.org/amigo/term/GO:0031365
+ribonuclease inhibitor activity	Gene Ontology	GO:0008428	1	6	0.0439458685997	0.243775195629	Barthea41191	http://amigo.geneontology.org/amigo/term/GO:0008428
+magnesium chelatase complex	Gene Ontology	GO:0010007	1	6	0.0439458685997	0.243775195629	Barthea00008	http://amigo.geneontology.org/amigo/term/GO:0010007
+regulation of cell aging	Gene Ontology	GO:0090342	1	7	0.0500647611635	0.258228768106	Barthea42871	http://amigo.geneontology.org/amigo/term/GO:0090342
+cellular response to boron-containing substance deprivation	Gene Ontology	GO:0080169	1	7	0.0500647611635	0.258228768106	Barthea08982	http://amigo.geneontology.org/amigo/term/GO:0080169
+protein K11-linked ubiquitination	Gene Ontology	GO:0070979	1	7	0.0500647611635	0.258228768106	Barthea31366	http://amigo.geneontology.org/amigo/term/GO:0070979
+cellular hyperosmotic salinity response	Gene Ontology	GO:0071475	1	7	0.0500647611635	0.258228768106	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0071475
+centromere complex assembly	Gene Ontology	GO:0034508	1	7	0.0500647611635	0.258228768106	Barthea35298	http://amigo.geneontology.org/amigo/term/GO:0034508
+xanthophyll metabolic process	Gene Ontology	GO:0016122	1	7	0.0500647611635	0.258228768106	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0016122
+regulation of RNA metabolic process	Gene Ontology	GO:0051252	1	7	0.0500647611635	0.258228768106	Barthea41191	http://amigo.geneontology.org/amigo/term/GO:0051252
+magnesium chelatase activity	Gene Ontology	GO:0016851	1	7	0.0500647611635	0.258228768106	Barthea00008	http://amigo.geneontology.org/amigo/term/GO:0016851
+regulation of gene expression	Gene Ontology	GO:0010468	4	214	0.0521162380714	0.264104372797	Barthea02379|Barthea04308|Barthea32003|Barthea32000	http://amigo.geneontology.org/amigo/term/GO:0010468
+citrate lyase complex	Gene Ontology	GO:0009346	1	8	0.0561446370742	0.264104372797	Barthea13645	http://amigo.geneontology.org/amigo/term/GO:0009346
+green leaf volatile biosynthetic process	Gene Ontology	GO:0010597	1	8	0.0561446370742	0.264104372797	Barthea44580	http://amigo.geneontology.org/amigo/term/GO:0010597
+ATP citrate synthase activity	Gene Ontology	GO:0003878	1	8	0.0561446370742	0.264104372797	Barthea13645	http://amigo.geneontology.org/amigo/term/GO:0003878
+diacylglycerol biosynthetic process	Gene Ontology	GO:0006651	1	8	0.0561446370742	0.264104372797	Barthea10451	http://amigo.geneontology.org/amigo/term/GO:0006651
+auxin influx	Gene Ontology	GO:0060919	1	8	0.0561446370742	0.264104372797	Barthea16745	http://amigo.geneontology.org/amigo/term/GO:0060919
+protoxylem development	Gene Ontology	GO:0090059	1	8	0.0561446370742	0.264104372797	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0090059
+pantothenate kinase activity	Gene Ontology	GO:0004594	1	8	0.0561446370742	0.264104372797	Barthea22785	http://amigo.geneontology.org/amigo/term/GO:0004594
+aromatic amino acid family metabolic process	Gene Ontology	GO:0009072	1	8	0.0561446370742	0.264104372797	Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0009072
+indole-3-butyrate beta-glucosyltransferase activity	Gene Ontology	GO:0052638	1	8	0.0561446370742	0.264104372797	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0052638
+brassinosteroid biosynthetic process	Gene Ontology	GO:0016132	2	59	0.0583438511464	0.27227130535	Barthea08610|Barthea08609	http://amigo.geneontology.org/amigo/term/GO:0016132
+oxidoreductase activity	Gene Ontology	GO:0016491	7	533	0.0600742358413	0.27248216349	Barthea13709|Barthea38790|Barthea08610|Barthea08609|Barthea38789|Barthea43876|Barthea37645	http://amigo.geneontology.org/amigo/term/GO:0016491
+transcription, DNA-templated	Gene Ontology	GO:0006351	4	226	0.0610399220388	0.27248216349	Barthea39151|Barthea36156|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0006351
+translation initiation factor activity	Gene Ontology	GO:0003743	3	137	0.0612935907806	0.27248216349	Barthea02395|Barthea28378|Barthea32193	http://amigo.geneontology.org/amigo/term/GO:0003743
+lateral root formation	Gene Ontology	GO:0010311	3	137	0.0612935907806	0.27248216349	Barthea23933|Barthea29685|Barthea33693	http://amigo.geneontology.org/amigo/term/GO:0010311
+acropetal auxin transport	Gene Ontology	GO:0010541	1	9	0.0621857441926	0.27248216349	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0010541
+glucose transmembrane transport	Gene Ontology	GO:1904659	1	9	0.0621857441926	0.27248216349	Barthea38046	http://amigo.geneontology.org/amigo/term/GO:1904659
+glucomannan 4-beta-mannosyltransferase activity	Gene Ontology	GO:0047259	1	9	0.0621857441926	0.27248216349	Barthea32314	http://amigo.geneontology.org/amigo/term/GO:0047259
+monopolar cell growth	Gene Ontology	GO:0042814	1	9	0.0621857441926	0.27248216349	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0042814
+signal transduction	Gene Ontology	GO:0007165	7	540	0.0634288063691	0.27248216349	Barthea19390|Barthea04308|Barthea02379|Barthea35797|Barthea08218|Barthea10522|Barthea19388	http://amigo.geneontology.org/amigo/term/GO:0007165
+response to other organism	Gene Ontology	GO:0051707	2	62	0.063486490473	0.27248216349	Barthea44533|Barthea44534	http://amigo.geneontology.org/amigo/term/GO:0051707
+negative regulation of catalytic activity	Gene Ontology	GO:0043086	2	62	0.063486490473	0.27248216349	Barthea38930|Barthea38932	http://amigo.geneontology.org/amigo/term/GO:0043086
+recognition of pollen	Gene Ontology	GO:0048544	2	63	0.0652336570177	0.277718151399	Barthea09541|Barthea13035	http://amigo.geneontology.org/amigo/term/GO:0048544
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	Gene Ontology	GO:0016705	4	233	0.0665953438462	0.277718151399	Barthea04437|Barthea10079|Barthea07261|Barthea10080	http://amigo.geneontology.org/amigo/term/GO:0016705
+leaf proximal/distal pattern formation	Gene Ontology	GO:0010589	1	10	0.068188328811	0.277718151399	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0010589
+actin filament capping	Gene Ontology	GO:0051693	1	10	0.068188328811	0.277718151399	Barthea31598	http://amigo.geneontology.org/amigo/term/GO:0051693
+myrcene synthase activity	Gene Ontology	GO:0050551	1	10	0.068188328811	0.277718151399	Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0050551
+MAP kinase activity	Gene Ontology	GO:0004707	2	66	0.07057013122	0.277718151399	Barthea02379|Barthea04308	http://amigo.geneontology.org/amigo/term/GO:0004707
+protein serine/threonine/tyrosine kinase activity	Gene Ontology	GO:0004712	2	67	0.0723797079754	0.277718151399	Barthea35797|Barthea08218	http://amigo.geneontology.org/amigo/term/GO:0004712
+xenobiotic transmembrane transporter activity	Gene Ontology	GO:0042910	2	67	0.0723797079754	0.277718151399	Barthea25891|Barthea10007	http://amigo.geneontology.org/amigo/term/GO:0042910
+brassinosteroid homeostasis	Gene Ontology	GO:0010268	2	67	0.0723797079754	0.277718151399	Barthea10079|Barthea10080	http://amigo.geneontology.org/amigo/term/GO:0010268
+tRNA pseudouridine synthesis	Gene Ontology	GO:0031119	1	11	0.0741526356627	0.277718151399	Barthea34546	http://amigo.geneontology.org/amigo/term/GO:0031119
+tyrosine catabolic process	Gene Ontology	GO:0006572	1	11	0.0741526356627	0.277718151399	Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0006572
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818	1	11	0.0741526356627	0.277718151399	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0016818
+embryonic axis specification	Gene Ontology	GO:0000578	1	11	0.0741526356627	0.277718151399	Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0000578
+positive regulation of protein exit from endoplasmic reticulum	Gene Ontology	GO:0070863	1	11	0.0741526356627	0.277718151399	Barthea29907	http://amigo.geneontology.org/amigo/term/GO:0070863
+acetyl-CoA biosynthetic process	Gene Ontology	GO:0006085	1	11	0.0741526356627	0.277718151399	Barthea13645	http://amigo.geneontology.org/amigo/term/GO:0006085
+viral gene silencing in virus induced gene silencing	Gene Ontology	GO:0060145	1	11	0.0741526356627	0.277718151399	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0060145
+photosynthesis, light reaction	Gene Ontology	GO:0019684	1	11	0.0741526356627	0.277718151399	Barthea07394	http://amigo.geneontology.org/amigo/term/GO:0019684
+recycling endosome membrane	Gene Ontology	GO:0055038	1	11	0.0741526356627	0.277718151399	Barthea25192	http://amigo.geneontology.org/amigo/term/GO:0055038
+protein palmitoylation	Gene Ontology	GO:0018345	1	11	0.0741526356627	0.277718151399	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0018345
+antiporter activity	Gene Ontology	GO:0015297	3	151	0.0767143257887	0.280772753882	Barthea38046|Barthea25891|Barthea10007	http://amigo.geneontology.org/amigo/term/GO:0015297
+response to salt stress	Gene Ontology	GO:0009651	9	800	0.0776123666216	0.280772753882	Barthea44533|Barthea19811|Barthea06231|Barthea43495|Barthea03432|Barthea39151|Barthea13663|Barthea44534|Barthea43222	http://amigo.geneontology.org/amigo/term/GO:0009651
+exocyst	Gene Ontology	GO:0000145	2	70	0.0778969667035	0.280772753882	Barthea32728|Barthea25593	http://amigo.geneontology.org/amigo/term/GO:0000145
+GTPase activity	Gene Ontology	GO:0003924	5	351	0.079725491732	0.280772753882	Barthea02395|Barthea12517|Barthea18358|Barthea14404|Barthea22330	http://amigo.geneontology.org/amigo/term/GO:0003924
+gamma-aminobutyric acid transport	Gene Ontology	GO:0015812	1	12	0.0800789079319	0.280772753882	Barthea44283	http://amigo.geneontology.org/amigo/term/GO:0015812
+regulation of monopolar cell growth	Gene Ontology	GO:0051513	1	12	0.0800789079319	0.280772753882	Barthea25357	http://amigo.geneontology.org/amigo/term/GO:0051513
+nucleosome organization	Gene Ontology	GO:0034728	1	12	0.0800789079319	0.280772753882	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0034728
+gamma-aminobutyric acid transmembrane transporter activity	Gene Ontology	GO:0015185	1	12	0.0800789079319	0.280772753882	Barthea44283	http://amigo.geneontology.org/amigo/term/GO:0015185
+plastoquinone biosynthetic process	Gene Ontology	GO:0010236	1	12	0.0800789079319	0.280772753882	Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0010236
+lignin biosynthetic process	Gene Ontology	GO:0009809	3	154	0.0802207868235	0.280772753882	Barthea11855|Barthea44580|Barthea38722	http://amigo.geneontology.org/amigo/term/GO:0009809
+ATPase activity	Gene Ontology	GO:0016887	7	573	0.0807548414469	0.280969507519	Barthea45301|Barthea00008|Barthea16745|Barthea40367|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0016887
+response to absence of light	Gene Ontology	GO:0009646	2	74	0.0854502189326	0.287209225632	Barthea08610|Barthea08609	http://amigo.geneontology.org/amigo/term/GO:0009646
+2-oxoglutarate-dependent dioxygenase activity	Gene Ontology	GO:0016706	1	13	0.085967387264	0.287209225632	Barthea43087	http://amigo.geneontology.org/amigo/term/GO:0016706
+chlorophyll metabolic process	Gene Ontology	GO:0015994	1	13	0.085967387264	0.287209225632	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0015994
+barbed-end actin filament capping	Gene Ontology	GO:0051016	1	13	0.085967387264	0.287209225632	Barthea31598	http://amigo.geneontology.org/amigo/term/GO:0051016
+(E)-beta-ocimene synthase activity	Gene Ontology	GO:0034768	1	13	0.085967387264	0.287209225632	Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0034768
+intramolecular lyase activity	Gene Ontology	GO:0016872	1	13	0.085967387264	0.287209225632	Barthea07258	http://amigo.geneontology.org/amigo/term/GO:0016872
+protein transport	Gene Ontology	GO:0015031	2	75	0.0873720093637	0.288839853183	Barthea25192|Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0015031
+monooxygenase activity	Gene Ontology	GO:0004497	3	160	0.087437914739	0.288839853183	Barthea10079|Barthea07261|Barthea10080	http://amigo.geneontology.org/amigo/term/GO:0004497
+nuclear chromosome	Gene Ontology	GO:0000228	1	14	0.0918183137744	0.292069820265	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0000228
+quinate O-hydroxycinnamoyltransferase activity	Gene Ontology	GO:0047205	1	14	0.0918183137744	0.292069820265	Barthea38722	http://amigo.geneontology.org/amigo/term/GO:0047205
+shikimate O-hydroxycinnamoyltransferase activity	Gene Ontology	GO:0047172	1	14	0.0918183137744	0.292069820265	Barthea38722	http://amigo.geneontology.org/amigo/term/GO:0047172
+condensed nuclear chromosome kinetochore	Gene Ontology	GO:0000778	1	14	0.0918183137744	0.292069820265	Barthea35298	http://amigo.geneontology.org/amigo/term/GO:0000778
+siRNA binding	Gene Ontology	GO:0035197	1	14	0.0918183137744	0.292069820265	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0035197
+Pwp2p-containing subcomplex of 90S preribosome	Gene Ontology	GO:0034388	1	14	0.0918183137744	0.292069820265	Barthea44867	http://amigo.geneontology.org/amigo/term/GO:0034388
+protein autophosphorylation	Gene Ontology	GO:0046777	5	367	0.0918927155595	0.292069820265	Barthea09453|Barthea09541|Barthea32005|Barthea34534|Barthea45092	http://amigo.geneontology.org/amigo/term/GO:0046777
+response to cadmium ion	Gene Ontology	GO:0046686	8	711	0.0926536137634	0.292365690368	Barthea45301|Barthea36364|Barthea36360|Barthea40367|Barthea41215|Barthea21120|Barthea21990|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0046686
+ubiquitin binding	Gene Ontology	GO:0043130	2	79	0.095185735518	0.292895778177	Barthea29685|Barthea33693	http://amigo.geneontology.org/amigo/term/GO:0043130
+DNA-dependent ATPase activity	Gene Ontology	GO:0008094	2	79	0.095185735518	0.292895778177	Barthea33870|Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0008094
+flavonoid biosynthetic process	Gene Ontology	GO:0009813	2	79	0.095185735518	0.292895778177	Barthea08610|Barthea08609	http://amigo.geneontology.org/amigo/term/GO:0009813
+protein localization involved in auxin polar transport	Gene Ontology	GO:1901703	1	15	0.0976319260591	0.292895778177	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:1901703
+indolebutyric acid metabolic process	Gene Ontology	GO:0080024	1	15	0.0976319260591	0.292895778177	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0080024
+superoxide dismutase activity	Gene Ontology	GO:0004784	1	15	0.0976319260591	0.292895778177	Barthea21523	http://amigo.geneontology.org/amigo/term/GO:0004784
+sinapyl alcohol dehydrogenase activity	Gene Ontology	GO:0052747	1	15	0.0976319260591	0.292895778177	Barthea44580	http://amigo.geneontology.org/amigo/term/GO:0052747
+plastid small ribosomal subunit	Gene Ontology	GO:0000312	1	15	0.0976319260591	0.292895778177	Barthea00002	http://amigo.geneontology.org/amigo/term/GO:0000312
+synaptonemal complex	Gene Ontology	GO:0000795	1	16	0.103408461203	0.293739976752	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0000795
+D-xylose transmembrane transporter activity	Gene Ontology	GO:0015148	1	16	0.103408461203	0.293739976752	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0015148
+myo-inositol transmembrane transporter activity	Gene Ontology	GO:0005365	1	16	0.103408461203	0.293739976752	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0005365
+D-ribose transmembrane transporter activity	Gene Ontology	GO:0015591	1	16	0.103408461203	0.293739976752	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0015591
+cinnamyl-alcohol dehydrogenase activity	Gene Ontology	GO:0045551	1	16	0.103408461203	0.293739976752	Barthea44580	http://amigo.geneontology.org/amigo/term/GO:0045551
+ribosomal subunit export from nucleus	Gene Ontology	GO:0000054	1	16	0.103408461203	0.293739976752	Barthea22330	http://amigo.geneontology.org/amigo/term/GO:0000054
+mannitol transmembrane transporter activity	Gene Ontology	GO:0015575	1	16	0.103408461203	0.293739976752	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0015575
+sorbitol transmembrane transporter activity	Gene Ontology	GO:0015576	1	16	0.103408461203	0.293739976752	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0015576
+positive regulation of GTPase activity	Gene Ontology	GO:0043547	1	16	0.103408461203	0.293739976752	Barthea22750	http://amigo.geneontology.org/amigo/term/GO:0043547
+positive regulation of mitotic metaphase/anaphase transition	Gene Ontology	GO:0045842	1	16	0.103408461203	0.293739976752	Barthea31366	http://amigo.geneontology.org/amigo/term/GO:0045842
+response to far red light	Gene Ontology	GO:0010218	2	84	0.10521996788	0.297448755352	Barthea43200|Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0010218
+9-cis-epoxycarotenoid dioxygenase activity	Gene Ontology	GO:0045549	1	17	0.109148154792	0.299902406625	Barthea15865	http://amigo.geneontology.org/amigo/term/GO:0045549
+regulation of innate immune response	Gene Ontology	GO:0045088	1	17	0.109148154792	0.299902406625	Barthea45092	http://amigo.geneontology.org/amigo/term/GO:0045088
+sucrose:proton symporter activity	Gene Ontology	GO:0008506	1	17	0.109148154792	0.299902406625	Barthea23138	http://amigo.geneontology.org/amigo/term/GO:0008506
+removal of superoxide radicals	Gene Ontology	GO:0019430	1	17	0.109148154792	0.299902406625	Barthea21523	http://amigo.geneontology.org/amigo/term/GO:0019430
+protein localization to endoplasmic reticulum exit site	Gene Ontology	GO:0070973	1	17	0.109148154792	0.299902406625	Barthea29907	http://amigo.geneontology.org/amigo/term/GO:0070973
+prefoldin complex	Gene Ontology	GO:0016272	1	17	0.109148154792	0.299902406625	Barthea07831	http://amigo.geneontology.org/amigo/term/GO:0016272
+calmodulin binding	Gene Ontology	GO:0005516	5	389	0.110083777273	0.300144576267	Barthea09541|Barthea30677|Barthea30674|Barthea34534|Barthea13035	http://amigo.geneontology.org/amigo/term/GO:0005516
+secretory vesicle	Gene Ontology	GO:0099503	4	281	0.111275419587	0.300144576267	Barthea40367|Barthea45301|Barthea19298|Barthea41215	http://amigo.geneontology.org/amigo/term/GO:0099503
+chlorophyll biosynthetic process	Gene Ontology	GO:0015995	2	87	0.111372006947	0.300144576267	Barthea00008|Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0015995
+exocytosis	Gene Ontology	GO:0006887	2	88	0.113443282641	0.300144576267	Barthea32728|Barthea25593	http://amigo.geneontology.org/amigo/term/GO:0006887
+carbohydrate:proton symporter activity	Gene Ontology	GO:0005351	1	18	0.114851240919	0.300144576267	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0005351
+glycerol transmembrane transporter activity	Gene Ontology	GO:0015168	1	18	0.114851240919	0.300144576267	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0015168
+glucosinolate biosynthetic process	Gene Ontology	GO:0019761	1	18	0.114851240919	0.300144576267	Barthea43087	http://amigo.geneontology.org/amigo/term/GO:0019761
+xylem vessel member cell differentiation	Gene Ontology	GO:0048759	1	18	0.114851240919	0.300144576267	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0048759
+cell plate assembly	Gene Ontology	GO:0000919	1	18	0.114851240919	0.300144576267	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0000919
+protein prenylation	Gene Ontology	GO:0018342	1	18	0.114851240919	0.300144576267	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0018342
+adventitious root development	Gene Ontology	GO:0048830	1	18	0.114851240919	0.300144576267	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0048830
+positive regulation of cellular response to heat	Gene Ontology	GO:1900036	1	19	0.120517952195	0.308106764741	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:1900036
+auxin influx transmembrane transporter activity	Gene Ontology	GO:0010328	1	19	0.120517952195	0.308106764741	Barthea16745	http://amigo.geneontology.org/amigo/term/GO:0010328
+carotene catabolic process	Gene Ontology	GO:0016121	1	19	0.120517952195	0.308106764741	Barthea15865	http://amigo.geneontology.org/amigo/term/GO:0016121
+carotenoid dioxygenase activity	Gene Ontology	GO:0010436	1	19	0.120517952195	0.308106764741	Barthea15865	http://amigo.geneontology.org/amigo/term/GO:0010436
+oxaloacetate decarboxylase activity	Gene Ontology	GO:0008948	1	19	0.120517952195	0.308106764741	Barthea41191	http://amigo.geneontology.org/amigo/term/GO:0008948
+phosphoprotein phosphatase activity	Gene Ontology	GO:0004721	2	92	0.121825698381	0.310101777696	Barthea27444|Barthea33219	http://amigo.geneontology.org/amigo/term/GO:0004721
+3'-5'-exoribonuclease activity	Gene Ontology	GO:0000175	1	20	0.126148519759	0.313368034169	Barthea00659	http://amigo.geneontology.org/amigo/term/GO:0000175
+positive regulation of flavonoid biosynthetic process	Gene Ontology	GO:0009963	1	20	0.126148519759	0.313368034169	Barthea38722	http://amigo.geneontology.org/amigo/term/GO:0009963
+gene silencing by miRNA	Gene Ontology	GO:0035195	1	20	0.126148519759	0.313368034169	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0035195
+miRNA binding	Gene Ontology	GO:0035198	1	20	0.126148519759	0.313368034169	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0035198
+RNA-DNA hybrid ribonuclease activity	Gene Ontology	GO:0004523	1	20	0.126148519759	0.313368034169	Barthea35492	http://amigo.geneontology.org/amigo/term/GO:0004523
+chloroplast organization	Gene Ontology	GO:0009658	4	295	0.126306503568	0.313368034169	Barthea12517|Barthea18358|Barthea14404|Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0009658
+regulation of flower development	Gene Ontology	GO:0009909	3	191	0.128676932389	0.317849050823	Barthea36328|Barthea36312|Barthea36326	http://amigo.geneontology.org/amigo/term/GO:0009909
+fatty acid metabolic process	Gene Ontology	GO:0006631	2	96	0.130353940187	0.317849050823	Barthea19457|Barthea07258	http://amigo.geneontology.org/amigo/term/GO:0006631
+lysine biosynthetic process via diaminopimelate	Gene Ontology	GO:0009089	1	21	0.131743173287	0.317849050823	Barthea07394	http://amigo.geneontology.org/amigo/term/GO:0009089
+virus induced gene silencing	Gene Ontology	GO:0009616	1	21	0.131743173287	0.317849050823	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0009616
+response to heat	Gene Ontology	GO:0009408	5	415	0.133644359965	0.317849050823	Barthea40367|Barthea45301|Barthea41215|Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0009408
+DNA-binding transcription factor activity, RNA polymerase II-specific	Gene Ontology	GO:0000981	4	303	0.135260106555	0.317849050823	Barthea39151|Barthea06231|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0000981
+protein phosphatase type 1 complex	Gene Ontology	GO:0000164	1	22	0.137302141002	0.317849050823	Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0000164
+coenzyme A biosynthetic process	Gene Ontology	GO:0015937	1	22	0.137302141002	0.317849050823	Barthea22785	http://amigo.geneontology.org/amigo/term/GO:0015937
+sucrose transmembrane transporter activity	Gene Ontology	GO:0008515	1	22	0.137302141002	0.317849050823	Barthea23138	http://amigo.geneontology.org/amigo/term/GO:0008515
+ligand-gated ion channel activity	Gene Ontology	GO:0015276	1	22	0.137302141002	0.317849050823	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0015276
+intracellular ligand-gated ion channel activity	Gene Ontology	GO:0005217	1	22	0.137302141002	0.317849050823	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0005217
+heterotrimeric G-protein complex	Gene Ontology	GO:0005834	1	22	0.137302141002	0.317849050823	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0005834
+galactose transmembrane transporter activity	Gene Ontology	GO:0005354	1	22	0.137302141002	0.317849050823	Barthea23933	http://amigo.geneontology.org/amigo/term/GO:0005354
+clathrin adaptor complex	Gene Ontology	GO:0030131	1	22	0.137302141002	0.317849050823	Barthea08402	http://amigo.geneontology.org/amigo/term/GO:0030131
+glutamate receptor activity	Gene Ontology	GO:0008066	1	22	0.137302141002	0.317849050823	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0008066
+endoplasmic reticulum exit site	Gene Ontology	GO:0070971	1	22	0.137302141002	0.317849050823	Barthea29907	http://amigo.geneontology.org/amigo/term/GO:0070971
+tetrahydrofolate interconversion	Gene Ontology	GO:0035999	1	23	0.142825649679	0.323005700044	Barthea36342	http://amigo.geneontology.org/amigo/term/GO:0035999
+negative regulation of gene expression	Gene Ontology	GO:0010629	1	23	0.142825649679	0.323005700044	Barthea42871	http://amigo.geneontology.org/amigo/term/GO:0010629
+cellular response to hydrogen peroxide	Gene Ontology	GO:0070301	1	23	0.142825649679	0.323005700044	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0070301
+UDP-galactose transmembrane transporter activity	Gene Ontology	GO:0005459	1	23	0.142825649679	0.323005700044	Barthea38046	http://amigo.geneontology.org/amigo/term/GO:0005459
+sucrose transport	Gene Ontology	GO:0015770	1	23	0.142825649679	0.323005700044	Barthea23138	http://amigo.geneontology.org/amigo/term/GO:0015770
+posttranscriptional gene silencing	Gene Ontology	GO:0016441	1	23	0.142825649679	0.323005700044	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0016441
+negative regulation of flower development	Gene Ontology	GO:0009910	2	103	0.145591340893	0.32419549331	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0009910
+cell wall modification	Gene Ontology	GO:0042545	2	104	0.147797613921	0.32419549331	Barthea08592|Barthea38942	http://amigo.geneontology.org/amigo/term/GO:0042545
+response to brassinosteroid	Gene Ontology	GO:0009741	2	104	0.147797613921	0.32419549331	Barthea10079|Barthea10080	http://amigo.geneontology.org/amigo/term/GO:0009741
+regulation of hydrogen peroxide metabolic process	Gene Ontology	GO:0010310	1	24	0.14831392466	0.32419549331	Barthea42871	http://amigo.geneontology.org/amigo/term/GO:0010310
+vacuolar protein processing	Gene Ontology	GO:0006624	1	24	0.14831392466	0.32419549331	Barthea11680	http://amigo.geneontology.org/amigo/term/GO:0006624
+extracellular exosome	Gene Ontology	GO:0070062	1	24	0.14831392466	0.32419549331	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0070062
+jasmonic acid and ethylene-dependent systemic resistance	Gene Ontology	GO:0009861	1	24	0.14831392466	0.32419549331	Barthea45092	http://amigo.geneontology.org/amigo/term/GO:0009861
+shade avoidance	Gene Ontology	GO:0009641	1	24	0.14831392466	0.32419549331	Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0009641
+condensed nuclear chromosome	Gene Ontology	GO:0000794	1	24	0.14831392466	0.32419549331	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0000794
+mitochondrial matrix	Gene Ontology	GO:0005759	2	105	0.150010716959	0.326136490075	Barthea21120|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005759
+cellular response to amino acid stimulus	Gene Ontology	GO:0071230	1	25	0.15376718986	0.326136490075	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0071230
+nucleosome positioning	Gene Ontology	GO:0016584	1	25	0.15376718986	0.326136490075	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0016584
+trans-Golgi network membrane	Gene Ontology	GO:0032588	1	25	0.15376718986	0.326136490075	Barthea25192	http://amigo.geneontology.org/amigo/term/GO:0032588
+cytidine to uridine editing	Gene Ontology	GO:0016554	1	25	0.15376718986	0.326136490075	Barthea09552	http://amigo.geneontology.org/amigo/term/GO:0016554
+resolution of meiotic recombination intermediates	Gene Ontology	GO:0000712	1	25	0.15376718986	0.326136490075	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0000712
+protein homodimerization activity	Gene Ontology	GO:0042803	5	439	0.157216559253	0.326136490075	Barthea39151|Barthea09552|Barthea22750|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0042803
+luteolin O-methyltransferase activity	Gene Ontology	GO:0030744	1	26	0.159185667774	0.326136490075	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0030744
+myricetin 3'-O-methyltransferase activity	Gene Ontology	GO:0033799	1	26	0.159185667774	0.326136490075	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0033799
+phosphatidate phosphatase activity	Gene Ontology	GO:0008195	1	26	0.159185667774	0.326136490075	Barthea10451	http://amigo.geneontology.org/amigo/term/GO:0008195
+ER to Golgi transport vesicle membrane	Gene Ontology	GO:0012507	1	26	0.159185667774	0.326136490075	Barthea29907	http://amigo.geneontology.org/amigo/term/GO:0012507
+quercetin 3'-O-methyltransferase activity	Gene Ontology	GO:0102822	1	26	0.159185667774	0.326136490075	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0102822
+proteasome regulatory particle, lid subcomplex	Gene Ontology	GO:0008541	1	26	0.159185667774	0.326136490075	Barthea41369	http://amigo.geneontology.org/amigo/term/GO:0008541
+acetylserotonin O-methyltransferase activity	Gene Ontology	GO:0017096	1	26	0.159185667774	0.326136490075	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0017096
+positive regulation of circadian rhythm	Gene Ontology	GO:0042753	1	26	0.159185667774	0.326136490075	Barthea43200	http://amigo.geneontology.org/amigo/term/GO:0042753
+quercetin 3-O-methyltransferase activity	Gene Ontology	GO:0030755	1	26	0.159185667774	0.326136490075	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0030755
+cellular copper ion homeostasis	Gene Ontology	GO:0006878	1	26	0.159185667774	0.326136490075	Barthea21523	http://amigo.geneontology.org/amigo/term/GO:0006878
+caffeate O-methyltransferase activity	Gene Ontology	GO:0047763	1	26	0.159185667774	0.326136490075	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0047763
+Cul4-RING E3 ubiquitin ligase complex	Gene Ontology	GO:0080008	3	215	0.164438821498	0.333679009453	Barthea44867|Barthea29685|Barthea33693	http://amigo.geneontology.org/amigo/term/GO:0080008
+nucleotide-sugar transmembrane transporter activity	Gene Ontology	GO:0005338	1	27	0.164569579492	0.333679009453	Barthea38046	http://amigo.geneontology.org/amigo/term/GO:0005338
+terpenoid biosynthetic process	Gene Ontology	GO:0016114	1	27	0.164569579492	0.333679009453	Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0016114
+cysteine-type peptidase activity	Gene Ontology	GO:0008234	1	28	0.169919144701	0.339838289403	Barthea02395	http://amigo.geneontology.org/amigo/term/GO:0008234
+chaperonin-containing T-complex	Gene Ontology	GO:0005832	1	28	0.169919144701	0.339838289403	Barthea26801	http://amigo.geneontology.org/amigo/term/GO:0005832
+terpene synthase activity	Gene Ontology	GO:0010333	1	28	0.169919144701	0.339838289403	Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0010333
+iron ion binding	Gene Ontology	GO:0005506	5	454	0.172757890972	0.344344542005	Barthea04437|Barthea10079|Barthea07261|Barthea10080|Barthea39349	http://amigo.geneontology.org/amigo/term/GO:0005506
+kinetochore	Gene Ontology	GO:0000776	1	29	0.175234581699	0.346929070838	Barthea35298	http://amigo.geneontology.org/amigo/term/GO:0000776
+melatonin biosynthetic process	Gene Ontology	GO:0030187	1	29	0.175234581699	0.346929070838	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0030187
+innate immune response	Gene Ontology	GO:0045087	2	117	0.177038282907	0.349156155102	Barthea09541|Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0045087
+protein serine/threonine kinase activity	Gene Ontology	GO:0004674	7	710	0.178182973739	0.349156155102	Barthea09453|Barthea32005|Barthea13035|Barthea45092|Barthea00867|Barthea17817|Barthea09541	http://amigo.geneontology.org/amigo/term/GO:0004674
+5S rRNA binding	Gene Ontology	GO:0008097	1	30	0.1805161074	0.349156155102	Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0008097
+one-carbon metabolic process	Gene Ontology	GO:0006730	1	30	0.1805161074	0.349156155102	Barthea36342	http://amigo.geneontology.org/amigo/term/GO:0006730
+homologous chromosome pairing at meiosis	Gene Ontology	GO:0007129	1	30	0.1805161074	0.349156155102	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0007129
+mucilage biosynthetic process involved in seed coat development	Gene Ontology	GO:0048354	1	30	0.1805161074	0.349156155102	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0048354
+monosaccharide transmembrane transport	Gene Ontology	GO:0015749	1	30	0.1805161074	0.349156155102	Barthea21532	http://amigo.geneontology.org/amigo/term/GO:0015749
+mismatched DNA binding	Gene Ontology	GO:0030983	1	31	0.185763937345	0.357816966126	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0030983
+catalytic activity	Gene Ontology	GO:0003824	2	121	0.186210870127	0.357816966126	Barthea08610|Barthea08609	http://amigo.geneontology.org/amigo/term/GO:0003824
+carbohydrate transmembrane transporter activity	Gene Ontology	GO:0015144	2	122	0.188514589069	0.361063773201	Barthea23933|Barthea21532	http://amigo.geneontology.org/amigo/term/GO:0015144
+abscisic acid biosynthetic process	Gene Ontology	GO:0009688	1	32	0.190978285712	0.361770044057	Barthea15865	http://amigo.geneontology.org/amigo/term/GO:0009688
+shoot system morphogenesis	Gene Ontology	GO:0010016	1	32	0.190978285712	0.361770044057	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0010016
+anthocyanin-containing compound biosynthetic process	Gene Ontology	GO:0009718	1	32	0.190978285712	0.361770044057	Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0009718
+magnesium ion binding	Gene Ontology	GO:0000287	3	232	0.191344360037	0.361770044057	Barthea21054|Barthea23731|Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0000287
+sequence-specific DNA binding	Gene Ontology	GO:0043565	9	991	0.193710833016	0.362709769836	Barthea31353|Barthea42871|Barthea06231|Barthea43495|Barthea03432|Barthea39151|Barthea13663|Barthea28374|Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0043565
+post-embryonic plant morphogenesis	Gene Ontology	GO:0090698	1	33	0.19615936532	0.362709769836	Barthea11688	http://amigo.geneontology.org/amigo/term/GO:0090698
+auxin transport	Gene Ontology	GO:0060918	1	33	0.19615936532	0.362709769836	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0060918
+-	Gene Ontology	GO:0008152	1	33	0.19615936532	0.362709769836	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0008152
+aromatic compound biosynthetic process	Gene Ontology	GO:0019438	1	33	0.19615936532	0.362709769836	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0019438
+pollen tube tip	Gene Ontology	GO:0090404	1	33	0.19615936532	0.362709769836	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0090404
+red light signaling pathway	Gene Ontology	GO:0010161	1	33	0.19615936532	0.362709769836	Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0010161
+L-phenylalanine catabolic process	Gene Ontology	GO:0006559	1	34	0.201307387641	0.365591767868	Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0006559
+pseudouridine synthase activity	Gene Ontology	GO:0009982	1	34	0.201307387641	0.365591767868	Barthea34546	http://amigo.geneontology.org/amigo/term/GO:0009982
+anaphase-promoting complex-dependent catabolic process	Gene Ontology	GO:0031145	1	34	0.201307387641	0.365591767868	Barthea31366	http://amigo.geneontology.org/amigo/term/GO:0031145
+hydrolase activity, acting on ester bonds	Gene Ontology	GO:0016788	2	128	0.20241455651	0.365591767868	Barthea19298|Barthea25401	http://amigo.geneontology.org/amigo/term/GO:0016788
+anaphase-promoting complex	Gene Ontology	GO:0005680	1	35	0.20642256281	0.365591767868	Barthea31366	http://amigo.geneontology.org/amigo/term/GO:0005680
+glutathione binding	Gene Ontology	GO:0043295	1	35	0.20642256281	0.365591767868	Barthea14053	http://amigo.geneontology.org/amigo/term/GO:0043295
+lateral root morphogenesis	Gene Ontology	GO:0010102	1	35	0.20642256281	0.365591767868	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0010102
+endosome transport via multivesicular body sorting pathway	Gene Ontology	GO:0032509	1	35	0.20642256281	0.365591767868	Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0032509
+endoplasmic reticulum organization	Gene Ontology	GO:0007029	1	35	0.20642256281	0.365591767868	Barthea29907	http://amigo.geneontology.org/amigo/term/GO:0007029
+ESCRT III complex	Gene Ontology	GO:0000815	1	35	0.20642256281	0.365591767868	Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0000815
+regulation of photomorphogenesis	Gene Ontology	GO:0010099	1	36	0.211505099628	0.371238801736	Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0010099
+protein phosphorylated amino acid binding	Gene Ontology	GO:0045309	1	36	0.211505099628	0.371238801736	Barthea00181	http://amigo.geneontology.org/amigo/term/GO:0045309
+mismatch repair	Gene Ontology	GO:0006298	1	36	0.211505099628	0.371238801736	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0006298
+cellular_component	Gene Ontology	GO:0005575	6	619	0.213084597976	0.372898046457	Barthea08593|Barthea38222|Barthea35492|Barthea21532|Barthea34940|Barthea35131	http://amigo.geneontology.org/amigo/term/GO:0005575
+lipid binding	Gene Ontology	GO:0008289	2	133	0.214084346636	0.373535892647	Barthea22750|Barthea31353	http://amigo.geneontology.org/amigo/term/GO:0008289
+calcium ion binding	Gene Ontology	GO:0005509	4	368	0.216203006106	0.374513120233	Barthea00867|Barthea34534|Barthea13468|Barthea00659	http://amigo.geneontology.org/amigo/term/GO:0005509
+seed dormancy process	Gene Ontology	GO:0010162	1	37	0.216555205577	0.374513120233	Barthea15865	http://amigo.geneontology.org/amigo/term/GO:0010162
+methionine biosynthetic process	Gene Ontology	GO:0009086	1	37	0.216555205577	0.374513120233	Barthea36342	http://amigo.geneontology.org/amigo/term/GO:0009086
+syncytium formation	Gene Ontology	GO:0006949	1	38	0.221573086821	0.379839577407	Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0006949
+mRNA transcription	Gene Ontology	GO:0009299	1	38	0.221573086821	0.379839577407	Barthea11688	http://amigo.geneontology.org/amigo/term/GO:0009299
+specification of floral organ identity	Gene Ontology	GO:0010093	1	38	0.221573086821	0.379839577407	Barthea00062	http://amigo.geneontology.org/amigo/term/GO:0010093
+fatty acid binding	Gene Ontology	GO:0005504	1	39	0.226558948222	0.386135250882	Barthea07258	http://amigo.geneontology.org/amigo/term/GO:0005504
+pattern recognition receptor signaling pathway	Gene Ontology	GO:0002221	1	39	0.226558948222	0.386135250882	Barthea09541	http://amigo.geneontology.org/amigo/term/GO:0002221
+defense response to Gram-negative bacterium	Gene Ontology	GO:0050829	1	40	0.231512993342	0.38673193206	Barthea08592	http://amigo.geneontology.org/amigo/term/GO:0050829
+G protein-coupled receptor signaling pathway	Gene Ontology	GO:0007186	1	40	0.231512993342	0.38673193206	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0007186
+chromatin DNA binding	Gene Ontology	GO:0031490	1	40	0.231512993342	0.38673193206	Barthea36605	http://amigo.geneontology.org/amigo/term/GO:0031490
+cell surface receptor signaling pathway	Gene Ontology	GO:0007166	1	40	0.231512993342	0.38673193206	Barthea00867	http://amigo.geneontology.org/amigo/term/GO:0007166
+endoribonuclease activity	Gene Ontology	GO:0004521	1	40	0.231512993342	0.38673193206	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0004521
+mitochondrial mRNA modification	Gene Ontology	GO:0080156	1	40	0.231512993342	0.38673193206	Barthea09552	http://amigo.geneontology.org/amigo/term/GO:0080156
+mannan synthase activity	Gene Ontology	GO:0051753	1	40	0.231512993342	0.38673193206	Barthea32314	http://amigo.geneontology.org/amigo/term/GO:0051753
+microtubule binding	Gene Ontology	GO:0008017	3	258	0.234363955371	0.390385285434	Barthea12517|Barthea18358|Barthea14404	http://amigo.geneontology.org/amigo/term/GO:0008017
+small ribosomal subunit	Gene Ontology	GO:0015935	1	41	0.236435424455	0.391616984732	Barthea00002	http://amigo.geneontology.org/amigo/term/GO:0015935
+polysaccharide binding	Gene Ontology	GO:0030247	1	41	0.236435424455	0.391616984732	Barthea00867	http://amigo.geneontology.org/amigo/term/GO:0030247
+negative regulation of leaf senescence	Gene Ontology	GO:1900056	1	42	0.241326442554	0.398034327344	Barthea43200	http://amigo.geneontology.org/amigo/term/GO:1900056
+pectin catabolic process	Gene Ontology	GO:0045490	2	145	0.242311876231	0.398034327344	Barthea08592|Barthea38942	http://amigo.geneontology.org/amigo/term/GO:0045490
+extracellular region	Gene Ontology	GO:0005576	27	3623	0.242340627873	0.398034327344	Barthea19298|Barthea31364|Barthea01757|Barthea27444|Barthea33219|Barthea21532|Barthea13035|Barthea08592|Barthea00051|Barthea00052|Barthea25401|Barthea45714|Barthea45716|Barthea45731|Barthea13605|Barthea13645|Barthea37645|Barthea31671|Barthea21523|Barthea38942|Barthea29032|Barthea33739|Barthea45092|Barthea00867|Barthea41763|Barthea45726|Barthea45722	http://amigo.geneontology.org/amigo/term/GO:0005576
+chloroplast RNA modification	Gene Ontology	GO:1900865	1	43	0.246186247359	0.399882633831	Barthea09552	http://amigo.geneontology.org/amigo/term/GO:1900865
+regulation of unidimensional cell growth	Gene Ontology	GO:0051510	1	43	0.246186247359	0.399882633831	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0051510
+ribosome biogenesis	Gene Ontology	GO:0042254	1	43	0.246186247359	0.399882633831	Barthea10365	http://amigo.geneontology.org/amigo/term/GO:0042254
+red or far-red light signaling pathway	Gene Ontology	GO:0010017	1	44	0.251015037322	0.40437490944	Barthea43200	http://amigo.geneontology.org/amigo/term/GO:0010017
+lipid biosynthetic process	Gene Ontology	GO:0008610	1	44	0.251015037322	0.40437490944	Barthea10451	http://amigo.geneontology.org/amigo/term/GO:0008610
+enzyme inhibitor activity	Gene Ontology	GO:0004857	1	45	0.255813009643	0.406535269378	Barthea38930	http://amigo.geneontology.org/amigo/term/GO:0004857
+auxin efflux	Gene Ontology	GO:0010315	1	45	0.255813009643	0.406535269378	Barthea16745	http://amigo.geneontology.org/amigo/term/GO:0010315
+microgametogenesis	Gene Ontology	GO:0055046	1	45	0.255813009643	0.406535269378	Barthea28044	http://amigo.geneontology.org/amigo/term/GO:0055046
+red, far-red light phototransduction	Gene Ontology	GO:0009585	1	45	0.255813009643	0.406535269378	Barthea43200	http://amigo.geneontology.org/amigo/term/GO:0009585
+O-methyltransferase activity	Gene Ontology	GO:0008171	1	45	0.255813009643	0.406535269378	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0008171
+response to oxidative stress	Gene Ontology	GO:0006979	5	530	0.259143510393	0.410718016472	Barthea36364|Barthea13663|Barthea19457|Barthea45154|Barthea36360	http://amigo.geneontology.org/amigo/term/GO:0006979
+auxin efflux transmembrane transporter activity	Gene Ontology	GO:0010329	1	46	0.260580360268	0.411885085585	Barthea16745	http://amigo.geneontology.org/amigo/term/GO:0010329
+response to light stimulus	Gene Ontology	GO:0009416	4	403	0.264252680928	0.416569909881	Barthea10079|Barthea10179|Barthea10080|Barthea11688	http://amigo.geneontology.org/amigo/term/GO:0009416
+protein import into nucleus	Gene Ontology	GO:0006606	1	47	0.265317283905	0.417129847424	Barthea22330	http://amigo.geneontology.org/amigo/term/GO:0006606
+nucleosome binding	Gene Ontology	GO:0031491	1	48	0.270023974028	0.423397591277	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0031491
+ATP-dependent chromatin remodeling	Gene Ontology	GO:0043044	1	49	0.274700622885	0.429585016639	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0043044
+flavonol biosynthetic process	Gene Ontology	GO:0051555	1	50	0.279347421505	0.435693060596	Barthea11855	http://amigo.geneontology.org/amigo/term/GO:0051555
+membrane	Gene Ontology	GO:0016020	10	1241	0.28171721016	0.437070500195	Barthea12517|Barthea25109|Barthea14404|Barthea23138|Barthea08518|Barthea18358|Barthea39349|Barthea38722|Barthea25891|Barthea10007	http://amigo.geneontology.org/amigo/term/GO:0016020
+carotenoid biosynthetic process	Gene Ontology	GO:0016117	1	51	0.283964559708	0.437097280388	Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0016117
+phospholipid binding	Gene Ontology	GO:0005543	1	51	0.283964559708	0.437097280388	Barthea22750	http://amigo.geneontology.org/amigo/term/GO:0005543
+DNA mediated transformation	Gene Ontology	GO:0009294	1	51	0.283964559708	0.437097280388	Barthea32314	http://amigo.geneontology.org/amigo/term/GO:0009294
+quercetin 7-O-glucosyltransferase activity	Gene Ontology	GO:0080044	1	52	0.288552226111	0.441845596233	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0080044
+heme binding	Gene Ontology	GO:0020037	5	556	0.290833120933	0.444181493789	Barthea04437|Barthea10079|Barthea07261|Barthea10080|Barthea39349	http://amigo.geneontology.org/amigo/term/GO:0020037
+reciprocal meiotic recombination	Gene Ontology	GO:0007131	1	53	0.293110608138	0.445346350349	Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0007131
+calcium channel activity	Gene Ontology	GO:0005262	1	53	0.293110608138	0.445346350349	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0005262
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	Gene Ontology	GO:0000462	1	54	0.297639892022	0.447601679051	Barthea44867	http://amigo.geneontology.org/amigo/term/GO:0000462
+multivesicular body	Gene Ontology	GO:0005771	1	54	0.297639892022	0.447601679051	Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0005771
+ethylene biosynthetic process	Gene Ontology	GO:0009693	1	54	0.297639892022	0.447601679051	Barthea07218	http://amigo.geneontology.org/amigo/term/GO:0009693
+ribosomal small subunit assembly	Gene Ontology	GO:0000028	1	55	0.302140262819	0.452057187118	Barthea44867	http://amigo.geneontology.org/amigo/term/GO:0000028
+auxin metabolic process	Gene Ontology	GO:0009850	1	55	0.302140262819	0.452057187118	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0009850
+negative regulation of transcription, DNA-templated	Gene Ontology	GO:0045892	4	433	0.306866658679	0.457963439856	Barthea39151|Barthea08982|Barthea43495|Barthea03432	http://amigo.geneontology.org/amigo/term/GO:0045892
+vesicle-mediated transport	Gene Ontology	GO:0016192	3	302	0.310159785606	0.461706212497	Barthea08518|Barthea08402|Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0016192
+seedling development	Gene Ontology	GO:0090351	1	58	0.315469729689	0.467244838935	Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0090351
+potassium ion transmembrane transporter activity	Gene Ontology	GO:0015079	1	58	0.315469729689	0.467244838935	Barthea25109	http://amigo.geneontology.org/amigo/term/GO:0015079
+UDP-glucosyltransferase activity	Gene Ontology	GO:0035251	1	59	0.319856275346	0.472551482169	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0035251
+identical protein binding	Gene Ontology	GO:0042802	4	443	0.321245134024	0.473413881719	Barthea12517|Barthea18358|Barthea14404|Barthea31364	http://amigo.geneontology.org/amigo/term/GO:0042802
+megagametogenesis	Gene Ontology	GO:0009561	1	60	0.324214815749	0.475183975986	Barthea33870	http://amigo.geneontology.org/amigo/term/GO:0009561
+ATP-dependent peptidase activity	Gene Ontology	GO:0004176	1	60	0.324214815749	0.475183975986	Barthea27245	http://amigo.geneontology.org/amigo/term/GO:0004176
+response to gibberellin	Gene Ontology	GO:0009739	2	180	0.32487067746	0.475183975986	Barthea19811|Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0009739
+toxin catabolic process	Gene Ontology	GO:0009407	1	61	0.328545529029	0.476976874721	Barthea14053	http://amigo.geneontology.org/amigo/term/GO:0009407
+ribosomal large subunit assembly	Gene Ontology	GO:0000027	1	61	0.328545529029	0.476976874721	Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0000027
+protein N-linked glycosylation	Gene Ontology	GO:0006487	1	61	0.328545529029	0.476976874721	Barthea10451	http://amigo.geneontology.org/amigo/term/GO:0006487
+intracellular signal transduction	Gene Ontology	GO:0035556	3	313	0.329341175403	0.476976874721	Barthea04308|Barthea02379|Barthea34534	http://amigo.geneontology.org/amigo/term/GO:0035556
+peroxisome	Gene Ontology	GO:0005777	5	589	0.331946104391	0.478520714441	Barthea14404|Barthea12517|Barthea18358|Barthea32003|Barthea32000	http://amigo.geneontology.org/amigo/term/GO:0005777
+sucrose metabolic process	Gene Ontology	GO:0005985	1	62	0.332848592188	0.478520714441	Barthea23138	http://amigo.geneontology.org/amigo/term/GO:0005985
+regulation of secondary cell wall biogenesis	Gene Ontology	GO:2000652	1	62	0.332848592188	0.478520714441	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:2000652
+late endosome to vacuole transport	Gene Ontology	GO:0045324	1	64	0.341372470543	0.489296626251	Barthea10295	http://amigo.geneontology.org/amigo/term/GO:0045324
+positive regulation of transcription, DNA-templated	Gene Ontology	GO:0045893	5	597	0.342008356104	0.489296626251	Barthea39151|Barthea43200|Barthea43495|Barthea03432|Barthea36605	http://amigo.geneontology.org/amigo/term/GO:0045893
+proteasome-mediated ubiquitin-dependent protein catabolic process	Gene Ontology	GO:0043161	2	190	0.348140003723	0.496860005314	Barthea41369|Barthea38179	http://amigo.geneontology.org/amigo/term/GO:0043161
+plant-type cell wall loosening	Gene Ontology	GO:0009828	1	66	0.349787844518	0.498003032873	Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0009828
+integral component of endoplasmic reticulum membrane	Gene Ontology	GO:0030176	1	67	0.353955273075	0.502719083497	Barthea10451	http://amigo.geneontology.org/amigo/term/GO:0030176
+metal ion transport	Gene Ontology	GO:0030001	1	68	0.358096090208	0.503733256083	Barthea21523	http://amigo.geneontology.org/amigo/term/GO:0030001
+cellular calcium ion homeostasis	Gene Ontology	GO:0006874	1	68	0.358096090208	0.503733256083	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0006874
+methyl indole-3-acetate esterase activity	Gene Ontology	GO:0080030	1	68	0.358096090208	0.503733256083	Barthea26468	http://amigo.geneontology.org/amigo/term/GO:0080030
+Golgi organization	Gene Ontology	GO:0007030	1	68	0.358096090208	0.503733256083	Barthea29907	http://amigo.geneontology.org/amigo/term/GO:0007030
+quercetin 3-O-glucosyltransferase activity	Gene Ontology	GO:0080043	1	69	0.362210465216	0.508304901067	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0080043
+cellular response to abscisic acid stimulus	Gene Ontology	GO:0071215	1	70	0.366298566322	0.511599897855	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0071215
+actin cytoskeleton organization	Gene Ontology	GO:0030036	1	70	0.366298566322	0.511599897855	Barthea31598	http://amigo.geneontology.org/amigo/term/GO:0030036
+regulation of reactive oxygen species metabolic process	Gene Ontology	GO:2000377	1	72	0.374396614397	0.521671112003	Barthea19811	http://amigo.geneontology.org/amigo/term/GO:2000377
+protein dephosphorylation	Gene Ontology	GO:0006470	2	202	0.375698877841	0.522248085509	Barthea31431|Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0006470
+signaling receptor activity	Gene Ontology	GO:0038023	1	74	0.38239155902	0.530297728075	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0038023
+carbohydrate metabolic process	Gene Ontology	GO:0005975	4	488	0.386256547852	0.534397294439	Barthea44533|Barthea30160|Barthea43876|Barthea44534	http://amigo.geneontology.org/amigo/term/GO:0005975
+glutathione transferase activity	Gene Ontology	GO:0004364	1	76	0.39028470804	0.538702836449	Barthea14053	http://amigo.geneontology.org/amigo/term/GO:0004364
+leaf vascular tissue pattern formation	Gene Ontology	GO:0010305	1	77	0.394193513375	0.54155557445	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0010305
+cell death	Gene Ontology	GO:0008219	1	77	0.394193513375	0.54155557445	Barthea07218	http://amigo.geneontology.org/amigo/term/GO:0008219
+cellular response to water deprivation	Gene Ontology	GO:0042631	1	79	0.401936385104	0.550905814549	Barthea42510	http://amigo.geneontology.org/amigo/term/GO:0042631
+FAD binding	Gene Ontology	GO:0071949	1	81	0.409580658993	0.556197292119	Barthea36342	http://amigo.geneontology.org/amigo/term/GO:0071949
+small-subunit processome	Gene Ontology	GO:0032040	1	81	0.409580658993	0.556197292119	Barthea44867	http://amigo.geneontology.org/amigo/term/GO:0032040
+GTP binding	Gene Ontology	GO:0005525	2	219	0.41388769494	0.560751070563	Barthea43617|Barthea22330	http://amigo.geneontology.org/amigo/term/GO:0005525
+defense response to virus	Gene Ontology	GO:0051607	1	83	0.417127585943	0.563841426516	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0051607
+chloroplast stroma	Gene Ontology	GO:0009570	9	1254	0.419092014285	0.565197487155	Barthea00008|Barthea02395|Barthea00002|Barthea21523|Barthea18108|Barthea15865|Barthea09552|Barthea07394|Barthea07258	http://amigo.geneontology.org/amigo/term/GO:0009570
+developmental process	Gene Ontology	GO:0032502	1	85	0.424578401048	0.569981963051	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0032502
+dioxygenase activity	Gene Ontology	GO:0051213	1	85	0.424578401048	0.569981963051	Barthea43087	http://amigo.geneontology.org/amigo/term/GO:0051213
+transcription coactivator activity	Gene Ontology	GO:0003713	1	86	0.428268148351	0.571024197802	Barthea36605	http://amigo.geneontology.org/amigo/term/GO:0003713
+dephosphorylation	Gene Ontology	GO:0016311	1	86	0.428268148351	0.571024197802	Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0016311
+potassium ion transmembrane transport	Gene Ontology	GO:0071805	1	86	0.428268148351	0.571024197802	Barthea25109	http://amigo.geneontology.org/amigo/term/GO:0071805
+auxin homeostasis	Gene Ontology	GO:0010252	1	87	0.431934323789	0.574272462405	Barthea38722	http://amigo.geneontology.org/amigo/term/GO:0010252
+zinc ion binding	Gene Ontology	GO:0008270	8	1119	0.433318839559	0.574272462405	Barthea43200|Barthea34818|Barthea21177|Barthea27245|Barthea28657|Barthea21120|Barthea44580|Barthea43876	http://amigo.geneontology.org/amigo/term/GO:0008270
+DNA-binding transcription activator activity, RNA polymerase II-specific	Gene Ontology	GO:0001228	1	88	0.435577077389	0.574561094218	Barthea43200	http://amigo.geneontology.org/amigo/term/GO:0001228
+chromatin binding	Gene Ontology	GO:0003682	2	229	0.435806544254	0.574561094218	Barthea37313|Barthea25522	http://amigo.geneontology.org/amigo/term/GO:0003682
+phosphatase activity	Gene Ontology	GO:0016791	1	90	0.44279291444	0.579389360727	Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0016791
+multicellular organism development	Gene Ontology	GO:0007275	1	90	0.44279291444	0.579389360727	Barthea41369	http://amigo.geneontology.org/amigo/term/GO:0007275
+plant-type cell wall biogenesis	Gene Ontology	GO:0009832	1	91	0.446366293213	0.579389360727	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0009832
+plant-type cell wall organization	Gene Ontology	GO:0009664	1	91	0.446366293213	0.579389360727	Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0009664
+endocytosis	Gene Ontology	GO:0006897	1	91	0.446366293213	0.579389360727	Barthea08402	http://amigo.geneontology.org/amigo/term/GO:0006897
+cell plate	Gene Ontology	GO:0009504	1	91	0.446366293213	0.579389360727	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0009504
+actin filament organization	Gene Ontology	GO:0007015	1	93	0.453444702554	0.585620974685	Barthea31598	http://amigo.geneontology.org/amigo/term/GO:0007015
+calmodulin-dependent protein kinase activity	Gene Ontology	GO:0004683	1	93	0.453444702554	0.585620974685	Barthea34534	http://amigo.geneontology.org/amigo/term/GO:0004683
+nucleic acid binding	Gene Ontology	GO:0003676	2	238	0.455150995631	0.585620974685	Barthea28044|Barthea35492	http://amigo.geneontology.org/amigo/term/GO:0003676
+proteolysis	Gene Ontology	GO:0006508	2	238	0.455150995631	0.585620974685	Barthea02395|Barthea27245	http://amigo.geneontology.org/amigo/term/GO:0006508
+response to hydrogen peroxide	Gene Ontology	GO:0042542	1	96	0.463893612227	0.594268941154	Barthea13663	http://amigo.geneontology.org/amigo/term/GO:0042542
+protein dimerization activity	Gene Ontology	GO:0046983	4	544	0.465874493828	0.595509135589	Barthea09552|Barthea11855|Barthea13663|Barthea00062	http://amigo.geneontology.org/amigo/term/GO:0046983
+chloroplast envelope	Gene Ontology	GO:0009941	8	1156	0.468937184714	0.598123784407	Barthea12517|Barthea27245|Barthea02395|Barthea00002|Barthea14404|Barthea18358|Barthea19457|Barthea09552	http://amigo.geneontology.org/amigo/term/GO:0009941
+calcium-dependent protein serine/threonine kinase activity	Gene Ontology	GO:0009931	1	98	0.470748745966	0.599134767593	Barthea34534	http://amigo.geneontology.org/amigo/term/GO:0009931
+multidimensional cell growth	Gene Ontology	GO:0009825	1	100	0.477516546763	0.601241390785	Barthea21532	http://amigo.geneontology.org/amigo/term/GO:0009825
+calcium-mediated signaling	Gene Ontology	GO:0019722	1	100	0.477516546763	0.601241390785	Barthea10179	http://amigo.geneontology.org/amigo/term/GO:0019722
+response to high light intensity	Gene Ontology	GO:0009644	1	100	0.477516546763	0.601241390785	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0009644
+NADP binding	Gene Ontology	GO:0050661	1	100	0.477516546763	0.601241390785	Barthea43876	http://amigo.geneontology.org/amigo/term/GO:0050661
+nuclear speck	Gene Ontology	GO:0016607	1	100	0.477516546763	0.601241390785	Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0016607
+vacuolar membrane	Gene Ontology	GO:0005774	7	1014	0.480031942394	0.601596617076	Barthea45301|Barthea16745|Barthea40367|Barthea41215|Barthea21120|Barthea10007|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005774
+extracellular space	Gene Ontology	GO:0005615	1	101	0.480868044261	0.601596617076	Barthea21523	http://amigo.geneontology.org/amigo/term/GO:0005615
+xylem development	Gene Ontology	GO:0010089	1	103	0.487506919676	0.608607364691	Barthea32728	http://amigo.geneontology.org/amigo/term/GO:0010089
+Golgi apparatus	Gene Ontology	GO:0005794	16	2419	0.493222591849	0.612886054431	Barthea43617|Barthea45301|Barthea08518|Barthea22330|Barthea00181|Barthea15703|Barthea25192|Barthea40367|Barthea41215|Barthea21120|Barthea32314|Barthea42639|Barthea38046|Barthea16113|Barthea21484|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005794
+response to red light	Gene Ontology	GO:0010114	1	105	0.494061207144	0.612886054431	Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0010114
+unidimensional cell growth	Gene Ontology	GO:0009826	2	258	0.496735595398	0.614320370364	Barthea25357|Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0009826
+metalloendopeptidase activity	Gene Ontology	GO:0004222	1	107	0.500531980441	0.614739221419	Barthea27245	http://amigo.geneontology.org/amigo/term/GO:0004222
+NAD binding	Gene Ontology	GO:0051287	1	107	0.500531980441	0.614739221419	Barthea43876	http://amigo.geneontology.org/amigo/term/GO:0051287
+phosphorylation	Gene Ontology	GO:0016310	2	260	0.500782460986	0.614739221419	Barthea13035|Barthea37419	http://amigo.geneontology.org/amigo/term/GO:0016310
+plasmodesma	Gene Ontology	GO:0009506	13	1971	0.505226889443	0.61761623907	Barthea19390|Barthea32728|Barthea45092|Barthea28044|Barthea41760|Barthea19388|Barthea25357|Barthea41369|Barthea22330|Barthea21532|Barthea11855|Barthea43222|Barthea24292	http://amigo.geneontology.org/amigo/term/GO:0009506
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	Gene Ontology	GO:0016709	1	109	0.506920299762	0.618400697635	Barthea39349	http://amigo.geneontology.org/amigo/term/GO:0016709
+pollen germination	Gene Ontology	GO:0009846	1	110	0.510083866822	0.620971663957	Barthea28044	http://amigo.geneontology.org/amigo/term/GO:0009846
+oxidation-reduction process	Gene Ontology	GO:0055114	6	890	0.512348814696	0.621485219981	Barthea13709|Barthea38790|Barthea31364|Barthea38789|Barthea07261|Barthea43876	http://amigo.geneontology.org/amigo/term/GO:0055114
+GTPase activator activity	Gene Ontology	GO:0005096	1	114	0.522537198919	0.630907336682	Barthea22750	http://amigo.geneontology.org/amigo/term/GO:0005096
+defense response to fungus, incompatible interaction	Gene Ontology	GO:0009817	1	115	0.525600935707	0.633306045483	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0009817
+plant ovule development	Gene Ontology	GO:0048481	1	117	0.531669775424	0.639308441615	Barthea28044	http://amigo.geneontology.org/amigo/term/GO:0048481
+chloroplast inner membrane	Gene Ontology	GO:0009706	1	118	0.534675127056	0.640303410812	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0009706
+cellular response to hypoxia	Gene Ontology	GO:0071456	3	442	0.54351297026	0.644401036745	Barthea40367|Barthea45301|Barthea41215	http://amigo.geneontology.org/amigo/term/GO:0071456
+positive regulation of abscisic acid-activated signaling pathway	Gene Ontology	GO:0009789	1	121	0.543576384737	0.644401036745	Barthea22750	http://amigo.geneontology.org/amigo/term/GO:0009789
+proteasome complex	Gene Ontology	GO:0000502	1	121	0.543576384737	0.644401036745	Barthea41369	http://amigo.geneontology.org/amigo/term/GO:0000502
+response to karrikin	Gene Ontology	GO:0080167	2	284	0.547683607462	0.647963704602	Barthea42510|Barthea41760	http://amigo.geneontology.org/amigo/term/GO:0080167
+nuclear envelope	Gene Ontology	GO:0005635	1	124	0.552307992369	0.652122689785	Barthea00181	http://amigo.geneontology.org/amigo/term/GO:0005635
+plant-type hypersensitive response	Gene Ontology	GO:0009626	1	126	0.558036407481	0.654940933331	Barthea44580	http://amigo.geneontology.org/amigo/term/GO:0009626
+regulation of defense response	Gene Ontology	GO:0031347	1	126	0.558036407481	0.654940933331	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0031347
+systemic acquired resistance	Gene Ontology	GO:0009627	1	130	0.569275082533	0.664154262955	Barthea19298	http://amigo.geneontology.org/amigo/term/GO:0009627
+rRNA processing	Gene Ontology	GO:0006364	1	134	0.580229009054	0.675593380839	Barthea44867	http://amigo.geneontology.org/amigo/term/GO:0006364
+kinase activity	Gene Ontology	GO:0016301	4	633	0.583514940519	0.678076650247	Barthea09453|Barthea00867|Barthea00051|Barthea00052	http://amigo.geneontology.org/amigo/term/GO:0016301
+response to sucrose	Gene Ontology	GO:0009744	1	138	0.590905375233	0.68531037601	Barthea44867	http://amigo.geneontology.org/amigo/term/GO:0009744
+intracellular membrane-bounded organelle	Gene Ontology	GO:0043231	3	478	0.596156903155	0.69003988003	Barthea11680|Barthea10451|Barthea08402	http://amigo.geneontology.org/amigo/term/GO:0043231
+transmembrane transporter activity	Gene Ontology	GO:0022857	3	481	0.60036247292	0.693542503098	Barthea38046|Barthea25891|Barthea10007	http://amigo.geneontology.org/amigo/term/GO:0022857
+lateral root development	Gene Ontology	GO:0048527	1	144	0.606414779223	0.697792348694	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0048527
+gibberellic acid mediated signaling pathway	Gene Ontology	GO:0009740	1	144	0.606414779223	0.697792348694	Barthea13691	http://amigo.geneontology.org/amigo/term/GO:0009740
+transferase activity, transferring acyl groups other than amino-acyl groups	Gene Ontology	GO:0016747	1	147	0.61394838031	0.703706915444	Barthea03054	http://amigo.geneontology.org/amigo/term/GO:0016747
+Golgi membrane	Gene Ontology	GO:0000139	1	147	0.61394838031	0.703706915444	Barthea25192	http://amigo.geneontology.org/amigo/term/GO:0000139
+DNA binding	Gene Ontology	GO:0003677	6	990	0.615433820769	0.704037133487	Barthea33870|Barthea42871|Barthea43495|Barthea03432|Barthea00062|Barthea39151	http://amigo.geneontology.org/amigo/term/GO:0003677
+plastoglobule	Gene Ontology	GO:0010287	1	154	0.630972766907	0.720411625129	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0010287
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	Gene Ontology	GO:0000977	1	157	0.638037986385	0.727066542625	Barthea00062	http://amigo.geneontology.org/amigo/term/GO:0000977
+protein self-association	Gene Ontology	GO:0043621	1	160	0.644968433626	0.730715682027	Barthea22750	http://amigo.geneontology.org/amigo/term/GO:0043621
+photomorphogenesis	Gene Ontology	GO:0009640	1	160	0.644968433626	0.730715682027	Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0009640
+response to cytokinin	Gene Ontology	GO:0009735	1	161	0.647249077437	0.73188934141	Barthea21532	http://amigo.geneontology.org/amigo/term/GO:0009735
+peptidyl-serine phosphorylation	Gene Ontology	GO:0018105	1	163	0.651766670026	0.735583113197	Barthea34534	http://amigo.geneontology.org/amigo/term/GO:0018105
+cellular response to phosphate starvation	Gene Ontology	GO:0016036	1	166	0.65843520848	0.741685637139	Barthea08982	http://amigo.geneontology.org/amigo/term/GO:0016036
+plastid	Gene Ontology	GO:0009536	11	1867	0.660131047713	0.742174103357	Barthea19811|Barthea27245|Barthea36364|Barthea07472|Barthea36360|Barthea22330|Barthea08402|Barthea26801|Barthea42639|Barthea11855|Barthea41191	http://amigo.geneontology.org/amigo/term/GO:0009536
+copper ion binding	Gene Ontology	GO:0005507	2	351	0.661759673257	0.742585282204	Barthea21523|Barthea41763	http://amigo.geneontology.org/amigo/term/GO:0005507
+nucleus	Gene Ontology	GO:0005634	99	15851	0.672155030781	0.752813634475	Barthea43200|Barthea19337|Barthea16745|Barthea22771|Barthea33595|Barthea08609|Barthea25856|Barthea33219|Barthea35298|Barthea43876|Barthea38930|Barthea31366|Barthea24292|Barthea33693|Barthea42871|Barthea32189|Barthea27444|Barthea25593|Barthea22785|Barthea31431|Barthea37313|Barthea03432|Barthea10374|Barthea13663|Barthea24328|Barthea12151|Barthea39805|Barthea36156|Barthea36312|Barthea21945|Barthea38179|Barthea31115|Barthea25522|Barthea00181|Barthea10365|Barthea44867|Barthea11855|Barthea18685|Barthea32728|Barthea18536|Barthea34546|Barthea31353|Barthea36364|Barthea36360|Barthea11688|Barthea28374|Barthea32003|Barthea10295|Barthea10452|Barthea08982|Barthea36605|Barthea34534|Barthea29907|Barthea21532|Barthea08218|Barthea13035|Barthea30677|Barthea30674|Barthea23138|Barthea04308|Barthea29685|Barthea34818|Barthea35797|Barthea06231|Barthea39151|Barthea14171|Barthea31598|Barthea13845|Barthea36342|Barthea09884|Barthea36298|Barthea32000|Barthea28186|Barthea02395|Barthea22330|Barthea33820|Barthea21484|Barthea07218|Barthea19298|Barthea02379|Barthea33882|Barthea43495|Barthea41278|Barthea22750|Barthea13691|Barthea26468|Barthea30829|Barthea09726|Barthea25192|Barthea33870|Barthea36326|Barthea28044|Barthea08610|Barthea36328|Barthea25357|Barthea00062|Barthea41369|Barthea09261|Barthea13877	http://amigo.geneontology.org/amigo/term/GO:0005634
+hydrolase activity, hydrolyzing O-glycosyl compounds	Gene Ontology	GO:0004553	1	173	0.67350451167	0.752890975022	Barthea30160	http://amigo.geneontology.org/amigo/term/GO:0004553
+biological_process	Gene Ontology	GO:0008150	31	5155	0.685115077736	0.762969063842	Barthea37679|Barthea25938|Barthea22771|Barthea41789|Barthea33882|Barthea25856|Barthea13467|Barthea16499|Barthea13468|Barthea08593|Barthea30829|Barthea33595|Barthea08515|Barthea16113|Barthea11227|Barthea38222|Barthea18685|Barthea33895|Barthea13663|Barthea24328|Barthea34940|Barthea08563|Barthea12151|Barthea36298|Barthea09488|Barthea09261|Barthea21945|Barthea09491|Barthea09490|Barthea35131|Barthea17746	http://amigo.geneontology.org/amigo/term/GO:0008150
+serine-type endopeptidase activity	Gene Ontology	GO:0004252	1	180	0.687911352098	0.764634924449	Barthea18108	http://amigo.geneontology.org/amigo/term/GO:0004252
+cell differentiation	Gene Ontology	GO:0030154	1	184	0.695857620358	0.772008076925	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0030154
+mRNA binding	Gene Ontology	GO:0003729	10	1770	0.70631081891	0.782129494386	Barthea14171|Barthea07218|Barthea32193|Barthea02395|Barthea00002|Barthea33882|Barthea22330|Barthea42639|Barthea28378|Barthea09552	http://amigo.geneontology.org/amigo/term/GO:0003729
+hydrolase activity	Gene Ontology	GO:0016787	1	193	0.713007415395	0.788060827541	Barthea26468	http://amigo.geneontology.org/amigo/term/GO:0016787
+transmembrane transport	Gene Ontology	GO:0055085	4	752	0.714830771832	0.788593797068	Barthea25891|Barthea10007|Barthea16745|Barthea41760	http://amigo.geneontology.org/amigo/term/GO:0055085
+nucleoplasm	Gene Ontology	GO:0005654	1	199	0.723901869374	0.795615512508	Barthea10365	http://amigo.geneontology.org/amigo/term/GO:0005654
+cell division	Gene Ontology	GO:0051301	1	201	0.727441002174	0.798013636713	Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0051301
+integral component of plasma membrane	Gene Ontology	GO:0005887	1	203	0.730934936111	0.800353337864	Barthea23138	http://amigo.geneontology.org/amigo/term/GO:0005887
+circadian rhythm	Gene Ontology	GO:0007623	1	205	0.734384246293	0.802635570297	Barthea43200	http://amigo.geneontology.org/amigo/term/GO:0007623
+seed germination	Gene Ontology	GO:0009845	1	206	0.736092345201	0.803009831128	Barthea43617	http://amigo.geneontology.org/amigo/term/GO:0009845
+response to salicylic acid	Gene Ontology	GO:0009751	1	211	0.744470076582	0.809146774547	Barthea07472	http://amigo.geneontology.org/amigo/term/GO:0009751
+response to fungus	Gene Ontology	GO:0009620	1	211	0.744470076582	0.809146774547	Barthea08592	http://amigo.geneontology.org/amigo/term/GO:0009620
+protein binding	Gene Ontology	GO:0005515	43	7261	0.750241088138	0.813914686025	Barthea09453|Barthea43200|Barthea31366|Barthea27444|Barthea41349|Barthea00181|Barthea43495|Barthea33219|Barthea22750|Barthea38179|Barthea44867|Barthea13691|Barthea39151|Barthea19811|Barthea34818|Barthea42871|Barthea23138|Barthea18358|Barthea14171|Barthea32728|Barthea12517|Barthea33870|Barthea36326|Barthea37645|Barthea36328|Barthea03432|Barthea14404|Barthea10374|Barthea45092|Barthea13663|Barthea26801|Barthea38722|Barthea36312|Barthea10295|Barthea28186|Barthea08982|Barthea43222|Barthea43617|Barthea00062|Barthea22330|Barthea21120|Barthea13879|Barthea09552	http://amigo.geneontology.org/amigo/term/GO:0005515
+ubiquitin protein ligase activity	Gene Ontology	GO:0061630	1	220	0.758887840079	0.821779097545	Barthea38179	http://amigo.geneontology.org/amigo/term/GO:0061630
+trans-Golgi network	Gene Ontology	GO:0005802	3	618	0.761159659581	0.822099589926	Barthea25192|Barthea15703|Barthea21484	http://amigo.geneontology.org/amigo/term/GO:0005802
+cytosolic large ribosomal subunit	Gene Ontology	GO:0022625	1	222	0.761980062091	0.822099589926	Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0022625
+endomembrane system	Gene Ontology	GO:0012505	1	224	0.765032772969	0.823881447813	Barthea13468	http://amigo.geneontology.org/amigo/term/GO:0012505
+vacuole	Gene Ontology	GO:0005773	7	1351	0.768825522365	0.826452298265	Barthea11680|Barthea37645|Barthea23138|Barthea10179|Barthea21532|Barthea42639|Barthea10007	http://amigo.geneontology.org/amigo/term/GO:0005773
+positive regulation of transcription by RNA polymerase II	Gene Ontology	GO:0045944	1	230	0.773958836887	0.830452182645	Barthea00062	http://amigo.geneontology.org/amigo/term/GO:0045944
+nucleolus	Gene Ontology	GO:0005730	4	831	0.783667665876	0.838072766149	Barthea44867|Barthea07218|Barthea10365|Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0005730
+intracellular anatomical structure	Gene Ontology	GO:0005622	1	238	0.78533689481	0.838072766149	Barthea22330	http://amigo.geneontology.org/amigo/term/GO:0005622
+protein ubiquitination	Gene Ontology	GO:0016567	4	838	0.789079161674	0.840540846131	Barthea40367|Barthea45301|Barthea41215|Barthea38179	http://amigo.geneontology.org/amigo/term/GO:0016567
+ATPase-coupled transmembrane transporter activity	Gene Ontology	GO:0042626	1	246	0.796144253709	0.845772223042	Barthea16745	http://amigo.geneontology.org/amigo/term/GO:0042626
+translation	Gene Ontology	GO:0006412	2	460	0.796867026471	0.845772223042	Barthea00002|Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0006412
+pollen development	Gene Ontology	GO:0009555	2	469	0.805562281396	0.853460579209	Barthea28044|Barthea18536	http://amigo.geneontology.org/amigo/term/GO:0009555
+integral component of membrane	Gene Ontology	GO:0016021	1	255	0.807655827775	0.854139616424	Barthea16745	http://amigo.geneontology.org/amigo/term/GO:0016021
+endosome	Gene Ontology	GO:0005768	3	679	0.813818748731	0.858087673874	Barthea25192|Barthea15703|Barthea21484	http://amigo.geneontology.org/amigo/term/GO:0005768
+host cell nucleus	Gene Ontology	GO:0042025	1	270	0.825420336449	0.867857071062	Barthea33820	http://amigo.geneontology.org/amigo/term/GO:0042025
+root development	Gene Ontology	GO:0048364	2	494	0.828006491269	0.867857071062	Barthea32728|Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0048364
+mitochondrion	Gene Ontology	GO:0005739	28	5078	0.833540827896	0.872103214951	Barthea43617|Barthea37679|Barthea34534|Barthea31364|Barthea01757|Barthea27446|Barthea13467|Barthea04308|Barthea18358|Barthea21672|Barthea09488|Barthea16113|Barthea12517|Barthea45301|Barthea31163|Barthea07831|Barthea27245|Barthea14404|Barthea21990|Barthea00002|Barthea40367|Barthea41215|Barthea21120|Barthea09491|Barthea09490|Barthea09552|Barthea02379|Barthea21096	http://amigo.geneontology.org/amigo/term/GO:0005739
+transferase activity, transferring glycosyl groups	Gene Ontology	GO:0016757	3	712	0.83798949731	0.875200398612	Barthea42510|Barthea21484|Barthea32314	http://amigo.geneontology.org/amigo/term/GO:0016757
+leaf senescence	Gene Ontology	GO:0010150	1	292	0.848559899869	0.884668831779	Barthea07218	http://amigo.geneontology.org/amigo/term/GO:0010150
+chloroplast	Gene Ontology	GO:0009507	43	7693	0.866561433884	0.89986821057	Barthea38790|Barthea31364|Barthea04437|Barthea41789|Barthea28657|Barthea23731|Barthea07394|Barthea38932|Barthea13468|Barthea07258|Barthea36040|Barthea30160|Barthea07472|Barthea18358|Barthea23933|Barthea14404|Barthea15865|Barthea32728|Barthea08515|Barthea16113|Barthea12517|Barthea45301|Barthea31163|Barthea27245|Barthea37645|Barthea38789|Barthea00008|Barthea18108|Barthea44385|Barthea26801|Barthea44388|Barthea01883|Barthea10451|Barthea02395|Barthea21054|Barthea21523|Barthea40367|Barthea07261|Barthea41215|Barthea19457|Barthea00002|Barthea42510|Barthea09552	http://amigo.geneontology.org/amigo/term/GO:0009507
+RNA binding	Gene Ontology	GO:0003723	3	759	0.867730060193	0.89986821057	Barthea00002|Barthea34546|Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0003723
+embryo development ending in seed dormancy	Gene Ontology	GO:0009793	4	965	0.869649728996	0.900271198327	Barthea41369|Barthea18536|Barthea10295|Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0009793
+response to chitin	Gene Ontology	GO:0010200	1	319	0.872822993595	0.901968225367	Barthea08982	http://amigo.geneontology.org/amigo/term/GO:0010200
+cytosolic ribosome	Gene Ontology	GO:0022626	1	338	0.887535488332	0.915562924805	Barthea42639	http://amigo.geneontology.org/amigo/term/GO:0022626
+intracellular protein transport	Gene Ontology	GO:0006886	1	354	0.898600949345	0.923736640236	Barthea08402	http://amigo.geneontology.org/amigo/term/GO:0006886
+plant-type cell wall	Gene Ontology	GO:0009505	1	362	0.903719893548	0.927377482384	Barthea01757	http://amigo.geneontology.org/amigo/term/GO:0009505
+defense response	Gene Ontology	GO:0006952	1	388	0.91864388495	0.93988102661	Barthea07218	http://amigo.geneontology.org/amigo/term/GO:0006952
+molecular_function	Gene Ontology	GO:0003674	28	5453	0.919101344049	0.93988102661	Barthea37679|Barthea22771|Barthea33595|Barthea25856|Barthea13467|Barthea21532|Barthea16499|Barthea08593|Barthea38222|Barthea07472|Barthea08518|Barthea09488|Barthea16113|Barthea11227|Barthea45154|Barthea18685|Barthea33895|Barthea25357|Barthea34940|Barthea08563|Barthea36298|Barthea08515|Barthea41369|Barthea21945|Barthea09491|Barthea09490|Barthea35131|Barthea17746	http://amigo.geneontology.org/amigo/term/GO:0003674
+response to abscisic acid	Gene Ontology	GO:0009737	3	895	0.928454702354	0.947639662739	Barthea19811|Barthea43222|Barthea31163	http://amigo.geneontology.org/amigo/term/GO:0009737
+defense response to fungus	Gene Ontology	GO:0050832	1	411	0.929911709865	0.947639662739	Barthea36040	http://amigo.geneontology.org/amigo/term/GO:0050832
+DNA-binding transcription factor activity	Gene Ontology	GO:0003700	14	3081	0.93636187156	0.95256190394	Barthea43200|Barthea31353|Barthea34818|Barthea08982|Barthea42871|Barthea06231|Barthea43495|Barthea03432|Barthea00062|Barthea39151|Barthea36156|Barthea13663|Barthea28374|Barthea33820	http://amigo.geneontology.org/amigo/term/GO:0003700
+chloroplast thylakoid	Gene Ontology	GO:0009534	1	438	0.941170549754	0.955800143792	Barthea19457	http://amigo.geneontology.org/amigo/term/GO:0009534
+structural constituent of ribosome	Gene Ontology	GO:0003735	1	473	0.95312550903	0.966272067775	Barthea00002	http://amigo.geneontology.org/amigo/term/GO:0003735
+ubiquitin-dependent protein catabolic process	Gene Ontology	GO:0006511	1	502	0.96117354156	0.972753945675	Barthea41369	http://amigo.geneontology.org/amigo/term/GO:0006511
+endoplasmic reticulum	Gene Ontology	GO:0005783	5	1502	0.965998882092	0.975957633453	Barthea40367|Barthea45301|Barthea11680|Barthea41215|Barthea08518	http://amigo.geneontology.org/amigo/term/GO:0005783
+response to auxin	Gene Ontology	GO:0009733	1	557	0.972847172329	0.981190630068	Barthea14171	http://amigo.geneontology.org/amigo/term/GO:0009733
+apoplast	Gene Ontology	GO:0048046	1	591	0.978237949992	0.984938209924	Barthea19298	http://amigo.geneontology.org/amigo/term/GO:0048046
+defense response to bacterium	Gene Ontology	GO:0042742	1	640	0.984186027384	0.989233135217	Barthea17817	http://amigo.geneontology.org/amigo/term/GO:0042742
+transcription regulatory region sequence-specific DNA binding	Gene Ontology	GO:0000976	2	993	0.988219396447	0.990196739455	Barthea42871|Barthea34818	http://amigo.geneontology.org/amigo/term/GO:0000976
+response to cold	Gene Ontology	GO:0009409	1	689	0.988512731394	0.990196739455	Barthea43222	http://amigo.geneontology.org/amigo/term/GO:0009409
+regulation of transcription, DNA-templated	Gene Ontology	GO:0006355	6	2662	0.99953709546	0.99953709546	Barthea34818|Barthea42871|Barthea36156|Barthea13663|Barthea28374|Barthea33820	http://amigo.geneontology.org/amigo/term/GO:0006355
+
+--------------------

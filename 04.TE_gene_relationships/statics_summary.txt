@@ -1,0 +1,1 @@
+grep -E "nonoverlap" bar_copia_gene_relationship.txt |awk {print 1} |sort -nk 1 > copia_overall_disatance.txt

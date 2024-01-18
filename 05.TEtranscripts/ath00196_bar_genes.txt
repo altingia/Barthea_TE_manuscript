@@ -1,0 +1,20 @@
+Barthea28016	AT3G54890.1	83.471	242	36	3	1	241	1	239	1.32e-139	391	98	>AT3G54890.1   Symbols: LHCA1   photosystem I light harvesting complex gene 1 
+Barthea45262	AT3G54890.1	83.197	244	37	3	1	243	1	241	3.39e-140	392	98	>AT3G54890.1   Symbols: LHCA1   photosystem I light harvesting complex gene 1 
+Barthea35055	AT1G19150.1	57.083	240	66	3	26	228	26	265	3.39e-85	254	81	>AT1G19150.1   Symbols: LHCA6, LHCA2*1   photosystem I light harvesting complex gene 6 
+Barthea34245	AT4G10340.1	81.720	279	50	1	3	280	2	280	1.88e-152	427	99	>AT4G10340.1   Symbols: LHCB5   light harvesting complex of photosystem II 5 
+Barthea18634	AT1G15820.1	80.156	257	45	3	3	255	4	258	2.12e-145	407	99	>AT1G15820.1   Symbols: LHCB6, CP24   light harvesting complex photosystem II subunit 6 
+Barthea25283	AT1G29930.1	87.640	267	31	2	1	265	1	267	1.97e-171	473	99	>AT1G29930.1   Symbols: CAB1, AB140, CAB140, LHCB1.3   chlorophyll A/B binding protein 1 
+Barthea37549	AT2G05100.1	90.189	265	26	0	1	265	1	265	1.95e-180	496	99	>AT2G05100.1   Symbols: LHCB2.1, LHCB2   photosystem II light harvesting complex gene 2.1 
+Barthea27612	AT3G61470.1	82.743	226	38	1	79	303	32	257	2.28e-140	396	74	>AT3G61470.1   Symbols: LHCA2   photosystem I light harvesting complex gene 2 
+Barthea39123	AT3G47470.1	85.600	250	32	2	1	247	1	249	3.13e-158	439	98	>AT3G47470.1   Symbols: LHCA4, CAB4   light-harvesting chlorophyll-protein complex I subunit A4 
+Barthea03304	AT3G47470.1	66.534	251	38	3	1	206	1	250	1.71e-110	316	98	>AT3G47470.1   Symbols: LHCA4, CAB4   light-harvesting chlorophyll-protein complex I subunit A4 
+Barthea32671	AT3G54890.1	83.471	242	36	3	1	241	1	239	4.03e-139	390	98	>AT3G54890.1   Symbols: LHCA1   photosystem I light harvesting complex gene 1 
+Barthea30728	AT2G05100.1	90.566	265	25	0	1	265	1	265	1.02e-180	497	99	>AT2G05100.1   Symbols: LHCB2.1, LHCB2   photosystem II light harvesting complex gene 2.1 
+Barthea43515	AT3G47470.1	84.800	250	33	2	1	245	1	250	2.35e-157	436	98	>AT3G47470.1   Symbols: LHCA4, CAB4   light-harvesting chlorophyll-protein complex I subunit A4 
+Barthea28765	AT1G45474.2	73.684	247	55	3	15	260	19	256	2.86e-132	374	94	>AT1G45474.2   Symbols: LHCA5   photosystem I light harvesting complex gene 5 
+Barthea06673	AT4G10340.1	81.720	279	50	1	3	280	2	280	1.34e-152	427	99	>AT4G10340.1   Symbols: LHCB5   light harvesting complex of photosystem II 5 
+Barthea04370	AT5G54270.1	87.547	265	32	1	6	270	2	265	1.76e-174	481	98	>AT5G54270.1   Symbols: LHCB3, LHCB3*1   light-harvesting chlorophyll B-binding protein 3 
+Barthea07157	AT5G54270.1	87.879	264	31	1	7	269	2	265	2.80e-172	476	97	>AT5G54270.1   Symbols: LHCB3, LHCB3*1   light-harvesting chlorophyll B-binding protein 3 
+Barthea17653	AT3G08940.2	83.094	278	44	1	12	289	13	287	5.96e-173	479	96	>AT3G08940.2   Symbols: LHCB4.2   light harvesting complex photosystem II 
+Barthea21300	AT2G34430.1	87.594	266	30	2	1	263	1	266	3.87e-171	473	99	>AT2G34430.1   Symbols: LHB1B1, LHCB1.4   light-harvesting chlorophyll-protein complex II subunit B1 
+Barthea08824	AT2G34430.1	87.970	266	29	2	1	263	1	266	2.55e-171	473	99	>AT2G34430.1   Symbols: LHB1B1, LHCB1.4   light-harvesting chlorophyll-protein complex II subunit B1 

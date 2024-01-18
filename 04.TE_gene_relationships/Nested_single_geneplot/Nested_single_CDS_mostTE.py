@@ -1,0 +1,46 @@
+from dna_features_viewer import GraphicFeature, GraphicRecord
+features=[
+    GraphicFeature(start=0, end=4469, strand=-1, color="#ffd700",
+                   label="CDS1"),
+    GraphicFeature(start=4470, end=4753, strand=-1, color="#ffcccc",
+                   label="Intron1"),
+    GraphicFeature(start=4754, end=4911, strand=-1, color="#ffd700",
+                   label="CDS2"),
+    GraphicFeature(start=4912, end=4982, strand=-1, color="#ffcccc",
+                   label="Intron2"),
+    GraphicFeature(start=4983, end=5087, strand=-1, color="#ffd700",
+                   label="CDS3"),
+    GraphicFeature(start=5088, end=7362, strand=-1, color="#ffcccc",
+                   label="Intron3"),
+    GraphicFeature(start=7363, end=7951, strand=-1, color="#ffd700",
+                   label="CDS4"),
+    GraphicFeature(start=7952, end=8113, strand=-1, color="#ffcccc",
+                   label="Intron4"),
+    GraphicFeature(start=8114, end=8357, strand=-1, color="#ffd700",
+                   label="CDS5"),
+    GraphicFeature(start=8358, end=8453, strand=-1, color="#ffcccc",
+                   label="Intron5"),
+    GraphicFeature(start=8454, end=8534, strand=-1, color="#ffd700",
+                   label="CDS6"),
+    GraphicFeature(start=8535, end=8624, strand=-1, color="#ffcccc",
+                   label="Intron6"),
+    GraphicFeature(start=8625, end=9739, strand=-1, color="#ffd700",
+                   label="CDS7"),
+    GraphicFeature(start=9221, end=9359, strand=-1, color="#ccccff",
+                   label="TE_homo_48305"),                                        
+    GraphicFeature(start=9010, end=9161, strand=-1, color="#ccccff",
+                   label="TE_homo_48306"),
+    GraphicFeature(start=8972, end=9117, strand=-1, color="#ccccff",
+                   label="TE_homo_48307"),
+    GraphicFeature(start=2280, end=2365, strand=-1, color="#ccccff",
+                   label="TE_homo_48313"),
+    GraphicFeature(start=1022, end=1177, strand=-1, color="#ccccff",
+                   label="TE_homo_48314"),
+    GraphicFeature(start=993, end=1158, strand=-1, color="#ccccff",
+                   label="TE_homo_48315"),
+                                                 
+]
+record = GraphicRecord(sequence_length=9739, features=features)
+ax, _ = record.plot(figure_width=20)
+ax.figure.savefig("Nested_single_CDS_mostTE.png")
+ax.figure.savefig("Nested_single_CDS_mostTE.pdf")

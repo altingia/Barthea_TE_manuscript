@@ -1,0 +1,32 @@
+#！/bin/bash
+#DNA_transposon_derived transcripts
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -E "DNA" | awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $(NF-1),$NF}' |wc -l #1798+29=1827
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -E "DNA" | awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2}' |sort |uniq -c
+    # 403 CACTA_TIR_transposon
+    # 626 Mutator_TIR_transposon + 29 MITE/DTM
+     # 48 PIF_Harbinger_TIR_transposon
+     # 27 Tc1_Mariner_TIR_transposon
+     # 45 hAT_TIR_transposon
+      # 649 helitron
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -E "DNA" | awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |grep -E "intron" |wc -l
+#769+13 =782, DNA transposons nested in the introns
+
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -E "DNA" | awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |grep -E "intron" |awk -F "[: ]" '{print $1}' |sort |uniq -c
+    #240 CACTA_TIR_transposon
+    #220 Mutator_TIR_transposon
+     #17 PIF_Harbinger_TIR_transposon
+     #2 Tc1_Mariner_TIR_transposon
+     #19 hAT_TIR_transposon
+     #271 helitron
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -E "DNA" | awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |grep -v "intron" |awk '{sum+=$NF;i++} END{print sum/i;}'
+#1880.95
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -v "DNA" | grep -E "Unknown" |awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |wc -l #1083 unlcassified TE
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -v "DNA" | grep -E "Unknown" |awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |awk '{if(/intron/){print $0}}' |wc -l  #introns containing transposons
+grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -v "DNA" | grep -E "Unknown" |awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |grep -v "intron" |awk '{sum+=$NF;i++} END{print sum/i, i;}'
+#7995.82 733
+ grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -v "DNA" | grep -v "Unknown" |grep -E "LTR" |awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |awk '{if($NF==0){print $0}}' |wc -l # 347 introns containing LTR-transposons
+ grep -v "Barthea" bar_sorted_ehz_vs_tjs_analysis.txt|grep -v "DNA" | grep -v "Unknown" |grep -E "LTR" |awk -F"[\t:]" '{print $1}' |xargs -n 1 -i grep -E '{}\b' bar_gene_transposon_relationship_stats.txt |awk '{print $2,$NF,$(NF-1)}' |awk '{if($NF>0){print $0}}' |grep -v "intron" |awk '{sum+=$NF;i++} END{print sum/i,i;}'
+5738.5 1066,
+
+
+

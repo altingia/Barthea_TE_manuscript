@@ -1,0 +1,1 @@
+gene/TE	EHZ1Aligned.sortedByCoord.out.bam.T	EHZ2Aligned.sortedByCoord.out.bam.T	EHZ3Aligned.sortedByCoord.out.bam.T	STJ3Aligned.sortedByCoord.out.bam.C	STJ1Aligned.sortedByCoord.out.bam.C	STJ2Aligned.sortedByCoord.out.bam.C

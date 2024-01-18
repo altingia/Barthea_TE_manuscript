@@ -1,0 +1,45 @@
+from dna_features_viewer import GraphicFeature, GraphicRecord
+features=[
+    GraphicFeature(start=0, end=58, strand=1, color="#32CD32", label="5'UTR"),
+    GraphicFeature(start=438, end=527, strand=1, color="#ffcccc", label="intron1"),
+    GraphicFeature(start=59, end=437, strand=1, color="#ffd700", label="CDS1"),
+    GraphicFeature(start=797, end=1636, strand=1, color="#ffcccc", label="intron2"),
+    GraphicFeature(start=528, end=796, strand=1, color="#ffd700", label="CDS2"),
+    GraphicFeature(start=1878, end=2156, strand=1, color="#ffcccc", label="intron3"),
+    GraphicFeature(start=1637, end=1877, strand=1, color="#ffd700", label="CDS3"),
+    GraphicFeature(start=2478, end=2552, strand=1, color="#ffcccc", label="intron4"),
+    GraphicFeature(start=2157, end=2477, strand=1, color="#ffd700", label="CDS4"),
+    GraphicFeature(start=2639, end=2705, strand=1, color="#ffcccc", label="intron5"),
+    GraphicFeature(start=2553, end=2638, strand=1, color="#ffd700", label="CDS5"),
+    GraphicFeature(start=2817, end=2906, strand=1, color="#ffcccc", label="intron6"),
+    GraphicFeature(start=2706, end=2816, strand=1, color="#ffd700", label="CDS6"),
+    GraphicFeature(start=3209, end=3285, strand=1, color="#ffcccc", label="intron7"),
+    GraphicFeature(start=2907, end=3208, strand=1, color="#ffd700", label="CDS7"),
+    GraphicFeature(start=3553, end=3639, strand=1, color="#ffcccc", label="intron8"),
+    GraphicFeature(start=3286, end=3552, strand=1, color="#ffd700", label="CDS8"),
+    GraphicFeature(start=3640, end=4399, strand=1, color="#ffd700", label="CDS9"),
+    GraphicFeature(start=4400, end=22155, strand=1, color="#32CD32", label="3'UTR"),
+    GraphicFeature(start=8809, end=9063, strand=1, color="#ccccff", label="TE_homo_54366"),
+    GraphicFeature(start=9833, end=10308, strand=1, color="#ccccff", label="TE_homo_54370"),
+    GraphicFeature(start=10746, end=11153, strand=1, color="#ccccff", label="TE_homo_54373"),
+    GraphicFeature(start=11214, end=11576, strand=1, color="#ccccff", label="TE_homo_54374"),
+    GraphicFeature(start=13455, end=14440, strand=1, color="#ccccff", label="TE_homo_54377"),
+    GraphicFeature(start=15097, end=15383, strand=1, color="#ccccff", label="TE_homo_54378"),
+    GraphicFeature(start=15603, end=16514, strand=1, color="#ccccff", label="TE_homo_54379"),
+    GraphicFeature(start=16823, end=18645, strand=1, color="#ccccff", label="TE_homo_54381"),
+    GraphicFeature(start=18646, end=19796, strand=1, color="#ccccff", label="TE_homo_54382"),
+    GraphicFeature(start=19797, end=20813, strand=1, color="#ccccff", label="TE_homo_54383"),
+    GraphicFeature(start=21001, end=21284, strand=1, color="#ccccff", label="TE_homo_54384"),
+    GraphicFeature(start=9068, end=9388, strand=1, color="#ccccff", label="TE_homo_54367"),
+    GraphicFeature(start=9503, end=9826, strand=1, color="#ccccff", label="TE_homo_54369"),
+    GraphicFeature(start=10306, end=10529, strand=1, color="#ccccff", label="TE_homo_54371"),
+    GraphicFeature(start=10666, end=10767, strand=1, color="#ccccff", label="TE_homo_54372"),
+    GraphicFeature(start=11544, end=12078, strand=1, color="#ccccff", label="TE_homo_54375"),
+    GraphicFeature(start=11910, end=13095, strand=1, color="#ccccff", label="TE_homo_54376"),
+    GraphicFeature(start=9395, end=9496, strand=1, color="#ccccff", label="TE_homo_54368"),
+                                                 
+]
+record = GraphicRecord(sequence_length=22155, features=features)
+ax, _ = record.plot(figure_width=20)
+ax.figure.savefig("Nested_single_3utr_mostTE.png")
+ax.figure.savefig("Nested_single_3utr_mostTE.pdf")
